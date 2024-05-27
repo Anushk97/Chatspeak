@@ -1,0 +1,211 @@
+{
+    "search_metadata": {
+        "id": "6652372b9d1586cbee804638",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c60e38195867778d/6652372b9d1586cbee804638.json",
+        "created_at": "2024-05-25 19:08:27 UTC",
+        "processed_at": "2024-05-25 19:08:27 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c60e38195867778d/6652372b9d1586cbee804638.html",
+        "total_time_taken": 2.77
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org NLP",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org NLP",
+        "total_results": 298000,
+        "time_taken_displayed": 0.28,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Zero- and Few-Shot NLP with Pretrained Language Models",
+            "link": "https://aclanthology.org/2022.acl-tutorials.6",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.acl-tutorials.6&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECB8QAQ",
+            "displayed_link": "https://aclanthology.org › 2022.acl-tutorials.6",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e594bb65cea4f5ddb682d4473105a4bcb35.png",
+            "author": "by I Beltagy",
+            "cited_by": "Cited by 26",
+            "extracted_cited_by": 26,
+            "date": "2022",
+            "snippet": "In this tutorial, we aim at bringing interested NLP researchers up to speed about the recent and ongoing techniques for zero- and few-shot learning with ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Towards Explainable NLP: A Generative Explanation ...",
+            "link": "https://aclanthology.org/P19-1560",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/P19-1560&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECBoQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e59ebf123ed7105a24545d87db2a3de49cd.png",
+            "author": "by H Liu",
+            "cited_by": "Cited by 185",
+            "extracted_cited_by": 185,
+            "date": "2019",
+            "snippet": "To solve this problem, we propose a novel generative explanation framework that learns to make classification decisions and generate fine-grained explanations ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "How can NLP Help Revitalize Endangered Languages? A ...",
+            "link": "https://aclanthology.org/2022.acl-long.108",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.acl-long.108&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECB4QAQ",
+            "displayed_link": "https://aclanthology.org › 2022.acl-long.108",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e59f91c7588217ec2841fb7ca728b0742fe.png",
+            "author": "by S Zhang",
+            "cited_by": "Cited by 19",
+            "extracted_cited_by": 19,
+            "date": "2022",
+            "snippet": "In this work, we focus on discussing how NLP can help revitalize endangered languages. We first suggest three principles that may help NLP practitioners to ...",
+            "snippet_highlighted_words": [
+                "NLP",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "What Do NLP Researchers Believe? Results of the ...",
+            "link": "https://aclanthology.org/2023.acl-long.903",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.903&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECCAQAQ",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.903",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e59776d4f708b423e674ad3b4e529a3efc7.png",
+            "author": "by J Michael",
+            "cited_by": "Cited by 19",
+            "extracted_cited_by": 19,
+            "date": "2023",
+            "snippet": "We present the results of the NLP Community Metasurvey. Run from May to June 2022, it elicited opinions on controversial issues, including industry influence in ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Which NLP Tasks are the most Predictive of fMRI Brain ...",
+            "link": "https://aclanthology.org/2022.naacl-main.235",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.naacl-main.235&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECBkQAQ",
+            "displayed_link": "https://aclanthology.org › 2022.naacl-main.235",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e599df353feecf3a6d5b7f6cdafe5565fb5.png",
+            "author": "by SR Oota",
+            "cited_by": "Cited by 31",
+            "extracted_cited_by": 31,
+            "date": "2022",
+            "snippet": "Encoding models based on task features are used to predict activity in different regions across the whole brain. Features from coreference resolution, NER, and ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Challenges and Strategies in Cross-Cultural NLP",
+            "link": "https://aclanthology.org/2022.acl-long.482",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.acl-long.482&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECBgQAQ",
+            "displayed_link": "https://aclanthology.org › 2022.acl-long.482",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e590daa5694a4f0f5bdd203acc58a86e862.png",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "On Measures of Biases and Harms in NLP",
+            "link": "https://aclanthology.org/2022.findings-aacl.24",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.findings-aacl.24&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECBwQAQ",
+            "displayed_link": "https://aclanthology.org › 2022.findings-aacl.24",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e59e02cefd30dec64127707665a5034a200.png",
+            "author": "by S Dev",
+            "cited_by": "Cited by 48",
+            "extracted_cited_by": 48,
+            "date": "2022",
+            "snippet": "Recent studies show that Natural Language Processing (NLP) technologies propagate societal biases about demographic groups associated with attributes such as ...",
+            "snippet_highlighted_words": [
+                "Natural Language Processing",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "The Hitchhiker's Guide to Testing Statistical Significance in ...",
+            "link": "https://aclanthology.org/P18-1128",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/P18-1128&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECC4QAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e59969039d13175f1867a0f7a64891c25d3.png",
+            "author": "by R Dror",
+            "cited_by": "Cited by 400",
+            "extracted_cited_by": 400,
+            "date": "2018",
+            "snippet": "... Natural Language Processing (NLP) research. We establish the fundamental concepts of significance testing and discuss the specific aspects of NLP tasks ...",
+            "snippet_highlighted_words": [
+                "Natural Language Processing",
+                "NLP",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "What's in a p-value in NLP?",
+            "link": "https://aclanthology.org/W14-1601.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/W14-1601.pdf&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECC0QAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e592635182e960b4201cce3d862bec820bc.png",
+            "author": "by A Søgaard",
+            "cited_by": "Cited by 76",
+            "extracted_cited_by": 76,
+            "date": "2014",
+            "snippet": "In NLP, we try to improve upon state of the art language technologies, guided by experience and intuition, as well as error analysis from previous experiments, ...",
+            "snippet_highlighted_words": [
+                "NLP",
+                "language"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Benchmarking Intersectional Biases in NLP",
+            "link": "https://aclanthology.org/2022.naacl-main.263",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.naacl-main.263&ved=2ahUKEwi_2tiTwKmGAxW4qpUCHe46AVUQFnoECDEQAQ",
+            "displayed_link": "https://aclanthology.org › 2022.naacl-main.263",
+            "favicon": "https://serpapi.com/searches/6652372b9d1586cbee804638/images/8b9d51b35ada506420b849b467c73e59ba131fa461f4c039296c3dafeb5ab04f.png",
+            "author": "by JP Lalor",
+            "cited_by": "Cited by 51",
+            "extracted_cited_by": 51,
+            "date": "2022",
+            "snippet": "In this work, we benchmark multiple NLP models with regards to their fairness and predictive performance across a variety of NLP tasks. In particular, we assess ...",
+            "snippet_highlighted_words": [
+                "NLP",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=40"
+        }
+    }
+}

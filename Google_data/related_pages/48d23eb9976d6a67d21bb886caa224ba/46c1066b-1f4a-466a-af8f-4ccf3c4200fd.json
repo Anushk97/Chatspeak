@@ -1,0 +1,545 @@
+{
+    "search_metadata": {
+        "id": "66522a312236e2e46eca1588",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2efb530fcbc47eac/66522a312236e2e46eca1588.json",
+        "created_at": "2024-05-25 18:13:05 UTC",
+        "processed_at": "2024-05-25 18:13:05 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&hl=en&start=60&as_sdt=0,14",
+        "raw_html_file": "https://serpapi.com/searches/2efb530fcbc47eac/66522a312236e2e46eca1588.html",
+        "total_time_taken": 4.65
+    },
+    "search_parameters": {
+        "engine": "google_scholar",
+        "q": "related:NO_JgjoFS4AJ:scholar.google.com",
+        "hl": "en",
+        "start": 60,
+        "as_sdt": "0,14"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 100,
+        "page_number": 7,
+        "time_taken_displayed": 0.04
+    },
+    "organic_results": [
+        {
+            "position": 0,
+            "title": "Model selection for generalized zero-shot learning",
+            "result_id": "rZZWnV8EeK4J",
+            "link": "http://openaccess.thecvf.com/content_eccv_2018_workshops/w8/html/Zhang_Model_Selection_for_Generalized_Zero-shot_Learning_ECCVW_2018_paper.html",
+            "snippet": "In the problem of generalized zero-shot learning, the datapoints from unknown classes are not available during training. The main challenge for generalized zero-shot learning is the …",
+            "publication_info": {
+                "summary": "H Zhang, P Koniusz - Proceedings of the European …, 2018 - openaccess.thecvf.com",
+                "authors": [
+                    {
+                        "name": "H Zhang",
+                        "link": "https://scholar.google.com/citations?user=IUYz14IAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IUYz14IAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "IUYz14IAAAAJ"
+                    },
+                    {
+                        "name": "P Koniusz",
+                        "link": "https://scholar.google.com/citations?user=wZ7-1tUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wZ7-1tUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "wZ7-1tUAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "thecvf.com",
+                    "file_format": "PDF",
+                    "link": "http://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Zhang_Model_Selection_for_Generalized_Zero-shot_Learning_ECCVW_2018_paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rZZWnV8EeK4J",
+                "cited_by": {
+                    "total": 23,
+                    "link": "https://scholar.google.com/scholar?cites=12571803168512841389&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "12571803168512841389",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12571803168512841389&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:rZZWnV8EeK4J:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ArZZWnV8EeK4J%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=12571803168512841389&hl=en&as_sdt=0,14",
+                    "cluster_id": "12571803168512841389",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=12571803168512841389&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:rZZWnV8EeK4J:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 1,
+            "title": "GAN-MVAE: A discriminative latent feature generation framework for generalized zero-shot learning",
+            "result_id": "1dQCZQvez1UJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167865522000368",
+            "snippet": "Generalized zero-shot learning (GZSL) is a challenging task that aims to recognize both seen and unseen classes. It is achieved by transferring knowledge from seen classes to …",
+            "publication_info": {
+                "summary": "P Ma, H Lu, B Yang, W Ran - Pattern recognition letters, 2022 - Elsevier",
+                "authors": [
+                    {
+                        "name": "P Ma",
+                        "link": "https://scholar.google.com/citations?user=Qn42R8UAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Qn42R8UAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Qn42R8UAAAAJ"
+                    },
+                    {
+                        "name": "H Lu",
+                        "link": "https://scholar.google.com/citations?user=bR8b-WIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bR8b-WIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "bR8b-WIAAAAJ"
+                    },
+                    {
+                        "name": "B Yang",
+                        "link": "https://scholar.google.com/citations?user=5ad3SggAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5ad3SggAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "5ad3SggAAAAJ"
+                    },
+                    {
+                        "name": "W Ran",
+                        "link": "https://scholar.google.com/citations?user=1C3-qdUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1C3-qdUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "1C3-qdUAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1dQCZQvez1UJ",
+                "cited_by": {
+                    "total": 12,
+                    "link": "https://scholar.google.com/scholar?cites=6183404953923671253&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "6183404953923671253",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=6183404953923671253&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:1dQCZQvez1UJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3A1dQCZQvez1UJ%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=6183404953923671253&hl=en&as_sdt=0,14",
+                    "cluster_id": "6183404953923671253",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=6183404953923671253&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Free: Feature refinement for generalized zero-shot learning",
+            "result_id": "lKt_jWnA4qYJ",
+            "link": "http://openaccess.thecvf.com/content/ICCV2021/html/Chen_FREE_Feature_Refinement_for_Generalized_Zero-Shot_Learning_ICCV_2021_paper.html",
+            "snippet": "Generalized zero-shot learning (GZSL) has achieved significant progress, with many efforts dedicated to overcoming the problems of visual-semantic domain gaps and seen-unseen …",
+            "publication_info": {
+                "summary": "S Chen, W Wang, B Xia, Q Peng… - Proceedings of the …, 2021 - openaccess.thecvf.com",
+                "authors": [
+                    {
+                        "name": "S Chen",
+                        "link": "https://scholar.google.com/citations?user=vxJt-MYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vxJt-MYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vxJt-MYAAAAJ"
+                    },
+                    {
+                        "name": "W Wang",
+                        "link": "https://scholar.google.com/citations?user=04fFQFYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=04fFQFYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "04fFQFYAAAAJ"
+                    },
+                    {
+                        "name": "B Xia",
+                        "link": "https://scholar.google.com/citations?user=Lx_iqH8AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Lx_iqH8AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Lx_iqH8AAAAJ"
+                    },
+                    {
+                        "name": "Q Peng",
+                        "link": "https://scholar.google.com/citations?user=frL8yhIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=frL8yhIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "frL8yhIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "thecvf.com",
+                    "file_format": "PDF",
+                    "link": "http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_FREE_Feature_Refinement_for_Generalized_Zero-Shot_Learning_ICCV_2021_paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lKt_jWnA4qYJ",
+                "cited_by": {
+                    "total": 155,
+                    "link": "https://scholar.google.com/scholar?cites=12025385514610699156&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "12025385514610699156",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12025385514610699156&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:lKt_jWnA4qYJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AlKt_jWnA4qYJ%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=12025385514610699156&hl=en&as_sdt=0,14",
+                    "cluster_id": "12025385514610699156",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=12025385514610699156&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lKt_jWnA4qYJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 3,
+            "title": "Dual part discovery network for zero-shot learning",
+            "result_id": "srGMyHGSNToJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3503161.3547889",
+            "snippet": "Zero-Shot Learning (ZSL) aims to recognize unseen classes by transferring knowledge from seen classes. Recent methods focus on learning a common semantic space to align visual …",
+            "publication_info": {
+                "summary": "J Ge, H Xie, S Min, P Li, Y Zhang - Proceedings of the 30th ACM …, 2022 - dl.acm.org",
+                "authors": [
+                    {
+                        "name": "S Min",
+                        "link": "https://scholar.google.com/citations?user=zUeQClwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zUeQClwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "zUeQClwAAAAJ"
+                    },
+                    {
+                        "name": "P Li",
+                        "link": "https://scholar.google.com/citations?user=Moy-4-0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Moy-4-0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Moy-4-0AAAAJ"
+                    },
+                    {
+                        "name": "Y Zhang",
+                        "link": "https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hxGs4ukAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "hxGs4ukAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=srGMyHGSNToJ",
+                "cited_by": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cites=4194419645359108530&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "4194419645359108530",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=4194419645359108530&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:srGMyHGSNToJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AsrGMyHGSNToJ%3Ascholar.google.com%2F&start=60"
+            }
+        },
+        {
+            "position": 4,
+            "title": "Augmented semantic feature based generative network for generalized zero-shot learning",
+            "result_id": "oO2M7IStDn8J",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0893608021001519",
+            "snippet": "Zero-shot learning (ZSL) aims to recognize objects in images when no training data is available for the object classes. Under generalized zero-shot learning (GZSL) setting, the …",
+            "publication_info": {
+                "summary": "Z Li, Q Chen, Q Liu - Neural Networks, 2021 - Elsevier"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=oO2M7IStDn8J",
+                "cited_by": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cites=9155445878906744224&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "9155445878906744224",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=9155445878906744224&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:oO2M7IStDn8J:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AoO2M7IStDn8J%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=9155445878906744224&hl=en&as_sdt=0,14",
+                    "cluster_id": "9155445878906744224",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=9155445878906744224&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Creativity inspired zero-shot learning",
+            "result_id": "LtQLIhpqRCUJ",
+            "link": "http://openaccess.thecvf.com/content_ICCV_2019/html/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.html",
+            "snippet": "Zero-shot learning (ZSL) aims at understanding unseen categories with no training examples from class-level descriptions. To improve the discriminative power of zero-shot …",
+            "publication_info": {
+                "summary": "M Elhoseiny, M Elfeki - Proceedings of the IEEE/CVF …, 2019 - openaccess.thecvf.com",
+                "authors": [
+                    {
+                        "name": "M Elhoseiny",
+                        "link": "https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iRBUTOAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "iRBUTOAAAAAJ"
+                    },
+                    {
+                        "name": "M Elfeki",
+                        "link": "https://scholar.google.com/citations?user=kVWbEqoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kVWbEqoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "kVWbEqoAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "thecvf.com",
+                    "file_format": "PDF",
+                    "link": "https://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LtQLIhpqRCUJ",
+                "cited_by": {
+                    "total": 71,
+                    "link": "https://scholar.google.com/scholar?cites=2685387938292552750&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "2685387938292552750",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=2685387938292552750&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:LtQLIhpqRCUJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ALtQLIhpqRCUJ%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=2685387938292552750&hl=en&as_sdt=0,14",
+                    "cluster_id": "2685387938292552750",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=2685387938292552750&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:LtQLIhpqRCUJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Multi-modal generative adversarial network for zero-shot learning",
+            "result_id": "80hgDYH8i3YJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S095070512030215X",
+            "snippet": "In this paper, we propose a novel approach for Zero-Shot Learning (ZSL), where the test instances are from the novel categories that no visual data are available during training. The …",
+            "publication_info": {
+                "summary": "Z Ji, K Chen, J Wang, Y Yu, Z Zhang - Knowledge-Based Systems, 2020 - Elsevier",
+                "authors": [
+                    {
+                        "name": "Z Ji",
+                        "link": "https://scholar.google.com/citations?user=r4kBkVgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=r4kBkVgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "r4kBkVgAAAAJ"
+                    },
+                    {
+                        "name": "Z Zhang",
+                        "link": "https://scholar.google.com/citations?user=RM7y-rcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RM7y-rcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "RM7y-rcAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=80hgDYH8i3YJ",
+                "cited_by": {
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cites=8542198749443672307&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "8542198749443672307",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=8542198749443672307&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:80hgDYH8i3YJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3A80hgDYH8i3YJ%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 2,
+                    "link": "https://scholar.google.com/scholar?cluster=8542198749443672307&hl=en&as_sdt=0,14",
+                    "cluster_id": "8542198749443672307",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=8542198749443672307&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Contrastive embedding for generalized zero-shot learning",
+            "result_id": "zyEB6ie01OkJ",
+            "link": "http://openaccess.thecvf.com/content/CVPR2021/html/Han_Contrastive_Embedding_for_Generalized_Zero-Shot_Learning_CVPR_2021_paper.html",
+            "snippet": "Generalized zero-shot learning (GZSL) aims to recognize objects from both seen and unseen classes, when only the labeled examples from seen classes are provided. Recent …",
+            "publication_info": {
+                "summary": "Z Han, Z Fu, S Chen, J Yang - Proceedings of the IEEE/CVF …, 2021 - openaccess.thecvf.com",
+                "authors": [
+                    {
+                        "name": "Z Han",
+                        "link": "https://scholar.google.com/citations?user=rL9CaNwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rL9CaNwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "rL9CaNwAAAAJ"
+                    },
+                    {
+                        "name": "S Chen",
+                        "link": "https://scholar.google.com/citations?user=vlu_3ksAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vlu_3ksAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vlu_3ksAAAAJ"
+                    },
+                    {
+                        "name": "J Yang",
+                        "link": "https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6CIDtZQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "6CIDtZQAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "thecvf.com",
+                    "file_format": "PDF",
+                    "link": "https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Contrastive_Embedding_for_Generalized_Zero-Shot_Learning_CVPR_2021_paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zyEB6ie01OkJ",
+                "cited_by": {
+                    "total": 203,
+                    "link": "https://scholar.google.com/scholar?cites=16849290189422535119&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "16849290189422535119",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=16849290189422535119&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:zyEB6ie01OkJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AzyEB6ie01OkJ%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=16849290189422535119&hl=en&as_sdt=0,14",
+                    "cluster_id": "16849290189422535119",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=16849290189422535119&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:zyEB6ie01OkJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 8,
+            "title": "ZeroNAS: Differentiable generative adversarial networks search for zero-shot learning",
+            "result_id": "zHF6V6Vv76kJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9612044/",
+            "snippet": "In recent years, remarkable progress in zero-shot learning (ZSL) has been achieved by generative adversarial networks (GAN). To compensate for the lack of training samples in …",
+            "publication_info": {
+                "summary": "C Yan, X Chang, Z Li, W Guan, Z Ge… - IEEE transactions on …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "X Chang",
+                        "link": "https://scholar.google.com/citations?user=8suupocAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8suupocAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "8suupocAAAAJ"
+                    },
+                    {
+                        "name": "Z Li",
+                        "link": "https://scholar.google.com/citations?user=GtlF144AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GtlF144AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "GtlF144AAAAJ"
+                    },
+                    {
+                        "name": "Z Ge",
+                        "link": "https://scholar.google.com/citations?user=Q0gUrcIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q0gUrcIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Q0gUrcIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "xiaojun.ai",
+                    "file_format": "PDF",
+                    "link": "https://www.xiaojun.ai/papers/TPAMI-2020-10-1496.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zHF6V6Vv76kJ",
+                "cited_by": {
+                    "total": 138,
+                    "link": "https://scholar.google.com/scholar?cites=12245128667771597260&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "12245128667771597260",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12245128667771597260&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:zHF6V6Vv76kJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AzHF6V6Vv76kJ%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=12245128667771597260&hl=en&as_sdt=0,14",
+                    "cluster_id": "12245128667771597260",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=12245128667771597260&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Knowledge distillation classifier generation network for zero-shot learning",
+            "result_id": "gKo5oTmCef4J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9552442/",
+            "snippet": "In this article, we present a conceptually simple but effective framework called knowledge distillation classifier generation network (KDCGN) for zero-shot learning (ZSL), where the …",
+            "publication_info": {
+                "summary": "Y Yu, B Li, Z Ji, J Han, Z Zhang - IEEE Transactions on Neural …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Z Ji",
+                        "link": "https://scholar.google.com/citations?user=r4kBkVgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=r4kBkVgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "r4kBkVgAAAAJ"
+                    },
+                    {
+                        "name": "J Han",
+                        "link": "https://scholar.google.com/citations?user=hNi1gxAAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hNi1gxAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "hNi1gxAAAAAJ"
+                    },
+                    {
+                        "name": "Z Zhang",
+                        "link": "https://scholar.google.com/citations?user=RM7y-rcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RM7y-rcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "RM7y-rcAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "aber.ac.uk",
+                    "file_format": "PDF",
+                    "link": "https://research.aber.ac.uk/files/68298985/TNNLS_2020_P_13928.R1_YunlongYu.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=gKo5oTmCef4J",
+                "cited_by": {
+                    "total": 16,
+                    "link": "https://scholar.google.com/scholar?cites=18336830541845342848&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "18336830541845342848",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=18336830541845342848&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:gKo5oTmCef4J:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AgKo5oTmCef4J%3Ascholar.google.com%2F&start=60",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=18336830541845342848&hl=en&as_sdt=0,14",
+                    "cluster_id": "18336830541845342848",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=18336830541845342848&engine=google_scholar&hl=en"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "current": 7,
+        "previous": "https://scholar.google.com/scholar?start=50&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+        "next": "https://scholar.google.com/scholar?start=70&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+        "other_pages": {
+            "1": "https://scholar.google.com/scholar?start=0&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "2": "https://scholar.google.com/scholar?start=10&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "3": "https://scholar.google.com/scholar?start=20&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "4": "https://scholar.google.com/scholar?start=30&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "5": "https://scholar.google.com/scholar?start=40&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "6": "https://scholar.google.com/scholar?start=50&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "8": "https://scholar.google.com/scholar?start=70&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "9": "https://scholar.google.com/scholar?start=80&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "10": "https://scholar.google.com/scholar?start=90&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 7,
+        "previous_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=50",
+        "previous": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=50",
+        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=70",
+        "next": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=70",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=0",
+            "2": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=10",
+            "3": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=20",
+            "4": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=30",
+            "5": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=40",
+            "6": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=50",
+            "8": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=70",
+            "9": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=80",
+            "10": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=90"
+        }
+    }
+}

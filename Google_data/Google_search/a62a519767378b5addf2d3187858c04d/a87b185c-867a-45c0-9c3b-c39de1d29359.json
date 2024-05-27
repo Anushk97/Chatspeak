@@ -1,0 +1,217 @@
+{
+    "search_metadata": {
+        "id": "6652372f272aa53184d54b91",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7bcf9810df49f219/6652372f272aa53184d54b91.json",
+        "created_at": "2024-05-25 19:08:31 UTC",
+        "processed_at": "2024-05-25 19:08:31 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7bcf9810df49f219/6652372f272aa53184d54b91.html",
+        "total_time_taken": 0.88
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org NLP",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org NLP",
+        "total_results": 289000,
+        "page_number": 2,
+        "time_taken_displayed": 0.53,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Cutting-Edge Natural Language Processing for Social Media",
+            "link": "https://aclanthology.org/2022.emnlp-demos.5",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.emnlp-demos.5&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQICxAB&usg=AOvVaw2yxz2SK2WLVpkAxRefHVUa",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-demos.5",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d94975818ecdc1430858fad362a49dd60f2688c59.png",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "NLP Reproducibility For All: Understanding Experiences of ...",
+            "link": "https://aclanthology.org/2023.acl-long.568",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.568&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIDRAB&usg=AOvVaw3tIUiH64udQK-sAl-HHGMb",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.568",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d94975818924877e27295a12b2dc17ac844e8ca99.png",
+            "author": "by S Storks",
+            "date": "2023",
+            "snippet": "As natural language processing (NLP) has recently seen an unprecedented level of excitement, and more people are eager to enter the field, it is unclear whether ...",
+            "snippet_highlighted_words": [
+                "natural language processing",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Differential Privacy in Natural Language Processing The ...",
+            "link": "https://aclanthology.org/2022.privatenlp-1.1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.privatenlp-1.1&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIExAB&usg=AOvVaw2UZc6RVo8-QdvCoGtfl57f",
+            "displayed_link": "https://aclanthology.org › 2022.privatenlp-1.1",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d94975818dbd6d3cb9acf366ea8d5395088ad6ad9.png",
+            "author": "by O Klymenko",
+            "cited_by": "Cited by 21",
+            "extracted_cited_by": 21,
+            "date": "2022",
+            "snippet": "As the tide of Big Data continues to influence the landscape of Natural Language Processing (NLP), the utilization of modern NLP methods has grounded itself in ...",
+            "snippet_highlighted_words": [
+                "Natural Language Processing",
+                "NLP",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Perturbation Augmentation for Fairer NLP",
+            "link": "https://aclanthology.org/2022.emnlp-main.646",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.emnlp-main.646&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIDxAB&usg=AOvVaw3oukgV7j02TgNxWUdf1B8A",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-main.646",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d9497581843473a599a465c7626e86ff57abf9004.png",
+            "author": "by R Qian",
+            "cited_by": "Cited by 61",
+            "extracted_cited_by": 61,
+            "date": "2022",
+            "snippet": "Unwanted and often harmful social biases are becoming ever more salient in NLP research, affecting both models and datasets. In this work, we ask whether ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "The Decades Progress on Code-Switching Research in NLP",
+            "link": "https://aclanthology.org/2023.findings-acl.185",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.findings-acl.185&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIGRAB&usg=AOvVaw3YZKA6ztIdBmPjigNZkYi8",
+            "displayed_link": "https://aclanthology.org › 2023.findings-acl.185",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d94975818f0e8fb8c5d8ede9265e9049f45587fbb.png",
+            "author": "by G Winata",
+            "cited_by": "Cited by 22",
+            "extracted_cited_by": 22,
+            "date": "2023",
+            "snippet": "Code-Switching, a common phenomenon in written text and conversation, has been studied over decades by the natural language processing (NLP) research community.",
+            "snippet_highlighted_words": [
+                "natural language processing",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Exploring the Landscape of Natural Language Processing ...",
+            "link": "https://aclanthology.org/2023.ranlp-1.111",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.ranlp-1.111&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIDBAB&usg=AOvVaw2CDY00yUy2WOsziNdQLPxG",
+            "displayed_link": "https://aclanthology.org › 2023.ranlp-1.111",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d9497581887e4a38ee8e58ba34c846f74607e8a63.png",
+            "author": "by T Schopf",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2023",
+            "snippet": "As an efficient approach to understand, generate, and process natural language texts, research in natural language processing (NLP) has exhibited a rapid spread ...",
+            "snippet_highlighted_words": [
+                "natural language",
+                "natural language processing",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "Should We Ban English NLP for a Year?",
+            "link": "https://aclanthology.org/2022.emnlp-main.351",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.emnlp-main.351&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIEhAB&usg=AOvVaw3N_3_IlP87Y4y7mxxiwsrr",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-main.351",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d94975818c7efb6929794e49440895fdc07307991.png",
+            "author": "by A Søgaard",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2022",
+            "snippet": "Anders Søgaard. 2022. Should We Ban English NLP for a Year?. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages ...",
+            "snippet_highlighted_words": [
+                "NLP",
+                "Natural Language Processing"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "Towards Efficient NLP: A Standard Evaluation and A ...",
+            "link": "https://aclanthology.org/2022.naacl-main.240",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.naacl-main.240&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIIhAB&usg=AOvVaw168FzowQVW9Kt53uNTUV69",
+            "displayed_link": "https://aclanthology.org › 2022.naacl-main.240",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d94975818cbe0d08aadb9a39715222035f936527b.png",
+            "author": "by X Liu",
+            "cited_by": "Cited by 33",
+            "extracted_cited_by": 33,
+            "date": "2022",
+            "snippet": "Different from accuracy, the metric for efficiency varies across different studies, making them hard to be fairly compared. To that end, this work presents ELUE ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Evaluating the carbon footprint of NLP methods: a survey ...",
+            "link": "https://aclanthology.org/2021.sustainlp-1.2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2021.sustainlp-1.2&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIIxAB&usg=AOvVaw0v9JkXXgjJ9iOCwihK2ROm",
+            "displayed_link": "https://aclanthology.org › 2021.sustainlp-1.2",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d949758182f586a0b9dd9b6d1287613e388e6b37e.png",
+            "author": "by N Bannour",
+            "cited_by": "Cited by 55",
+            "extracted_cited_by": 55,
+            "date": "2021",
+            "snippet": "Due to the significant environmental impact of deep learning, cost-benefit analysis including carbon footprint as well as accuracy measures has been suggested ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Defining a New NLP Playground",
+            "link": "https://aclanthology.org/2023.findings-emnlp.799",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.findings-emnlp.799&ved=2ahUKEwjy9cWUwKmGAxV9EFkFHdyQAy84ChAWegQIHxAB&usg=AOvVaw05faSK2Eza59Q-b2b8chC-",
+            "displayed_link": "https://aclanthology.org › 2023.findings-emnlp.799",
+            "favicon": "https://serpapi.com/searches/6652372f272aa53184d54b91/images/1ced991ca196d1757d7cab9d949758189c7a8bed4130f9efbaff0e4b6073cf21.png",
+            "author": "by S Li",
+            "cited_by": "Cited by 6",
+            "extracted_cited_by": 6,
+            "date": "2023",
+            "snippet": "The recent explosion of performance of large language models (LLMs) has changed the field of Natural Language Processing (NLP) more abruptly and seismically ...",
+            "snippet_highlighted_words": [
+                "language",
+                "Natural Language Processing",
+                "NLP"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+NLP&oq=site%3Aaclanthology.org+NLP&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+NLP&start=40"
+        }
+    }
+}

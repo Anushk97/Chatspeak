@@ -1,0 +1,344 @@
+{
+    "search_metadata": {
+        "id": "665242da1e803f7674517d3b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ed8cd3ba2bf0eaf6/665242da1e803f7674517d3b.json",
+        "created_at": "2024-05-25 19:58:18 UTC",
+        "processed_at": "2024-05-25 19:58:18 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ed8cd3ba2bf0eaf6/665242da1e803f7674517d3b.html",
+        "total_time_taken": 1.52
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org LLM",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org LLM",
+        "total_results": 38700,
+        "time_taken_displayed": 0.33,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images_suggested_searches": [
+        {
+            "name": "domain adaptation",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=domain+adaptation+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5yIvh62Fm3nl70uLOCmjfKHS_G47khIO_02DegdSV2MNkRQtC_eo021WkXlKUPKxcpyKgMHGrsEgE_Hlha7T_M5YHgPQ&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAB6BAgxEA0",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5yIvh62Fm3nl70uLOCmjfKHS_G47khIO_02DegdSV2MNkRQtC_eo021WkXlKUPKxcpyKgMHGrsEgE_Hlha7T_M5YHgPQ",
+            "q": "domain adaptation llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=domain+adaptation+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5yIvh62Fm3nl70uLOCmjfKHS_G47khIO_02DegdSV2MNkRQtC_eo021WkXlKUPKxcpyKgMHGrsEgE_Hlha7T_M5YHgPQ",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b279d337352e67aafd873e2af5d05cffc4d0.jpeg"
+        },
+        {
+            "name": "zero shot",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=zero+shot+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5tOgKnprpn0OfeazF4qHZSfSg3Vxw5VEvpIJv1ypu-f9JGOGAJMb-cZTFuSB5jT29xHnmMFeDLDvY9dYwafN5sxE_-nM&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAF6BAgxEBE",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5tOgKnprpn0OfeazF4qHZSfSg3Vxw5VEvpIJv1ypu-f9JGOGAJMb-cZTFuSB5jT29xHnmMFeDLDvY9dYwafN5sxE_-nM",
+            "q": "zero shot llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=zero+shot+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5tOgKnprpn0OfeazF4qHZSfSg3Vxw5VEvpIJv1ypu-f9JGOGAJMb-cZTFuSB5jT29xHnmMFeDLDvY9dYwafN5sxE_-nM",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b279bf97c210c56290db819e310570f4a046.jpeg"
+        },
+        {
+            "name": "cache",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=cache+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X51oJSHENeuC91RDQMBLbsdfSx39_fqyb3pIJgI20s0SuWQSFbK9jUaS5rhPCIfBPeDecAxCkVONho7Cr9e_gNu6tvoIc&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAJ6BAgxEBU",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X51oJSHENeuC91RDQMBLbsdfSx39_fqyb3pIJgI20s0SuWQSFbK9jUaS5rhPCIfBPeDecAxCkVONho7Cr9e_gNu6tvoIc",
+            "q": "cache llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=cache+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X51oJSHENeuC91RDQMBLbsdfSx39_fqyb3pIJgI20s0SuWQSFbK9jUaS5rhPCIfBPeDecAxCkVONho7Cr9e_gNu6tvoIc",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b27988688379f246f0895e378c0ff7b5d472.png"
+        },
+        {
+            "name": "taxonomy",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=taxonomy+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5dJlbvBmt268uoJGZF8zANu5tDiLMcEKap1nylYVIBAmAK7q_b7_pFKU7yLdkiiFBGNKmc9gAXCyqH4kNn1INfXat7LY&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAN6BAgxEBk",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5dJlbvBmt268uoJGZF8zANu5tDiLMcEKap1nylYVIBAmAK7q_b7_pFKU7yLdkiiFBGNKmc9gAXCyqH4kNn1INfXat7LY",
+            "q": "taxonomy llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=taxonomy+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5dJlbvBmt268uoJGZF8zANu5tDiLMcEKap1nylYVIBAmAK7q_b7_pFKU7yLdkiiFBGNKmc9gAXCyqH4kNn1INfXat7LY",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b2796a8f0ed3aa568d1d21dc9fa9321048a2.png"
+        },
+        {
+            "name": "text",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=text+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5QQACn1MpprVkU9UfHt_Z1-CFGm6mKGq4h082cE1OH40vxXNRERn7vbfbdQrRyHKw8sq5elzeilZ7E6hkAzhOLMqd22o&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAR6BAgxEB0",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5QQACn1MpprVkU9UfHt_Z1-CFGm6mKGq4h082cE1OH40vxXNRERn7vbfbdQrRyHKw8sq5elzeilZ7E6hkAzhOLMqd22o",
+            "q": "text llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=text+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5QQACn1MpprVkU9UfHt_Z1-CFGm6mKGq4h082cE1OH40vxXNRERn7vbfbdQrRyHKw8sq5elzeilZ7E6hkAzhOLMqd22o",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b279c8a3be0b988406454ec22158988a17ce.jpeg"
+        },
+        {
+            "name": "evaluation",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=evaluation+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUj9_qcsQOOvkEmDbYMPWSpG9wSIu1jnL3RU7nSZ62w0dN8-iUuFJZ50iOz-EZEcDZi9yAYdo&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAV6BAgxECE",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUj9_qcsQOOvkEmDbYMPWSpG9wSIu1jnL3RU7nSZ62w0dN8-iUuFJZ50iOz-EZEcDZi9yAYdo",
+            "q": "evaluation llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=evaluation+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUj9_qcsQOOvkEmDbYMPWSpG9wSIu1jnL3RU7nSZ62w0dN8-iUuFJZ50iOz-EZEcDZi9yAYdo",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b2798a7533943fcfb596fede08c78404cf56.jpeg"
+        },
+        {
+            "name": "annotation",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=annotation+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUj30pDkeE9fmCzA_t-Wa19_pm49j7tgavbE3Tr99L8vZO4RFekhLxtUcHiEPZXLSOqL9_CpI&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAZ6BAgxECU",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUj30pDkeE9fmCzA_t-Wa19_pm49j7tgavbE3Tr99L8vZO4RFekhLxtUcHiEPZXLSOqL9_CpI",
+            "q": "annotation llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=annotation+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUj30pDkeE9fmCzA_t-Wa19_pm49j7tgavbE3Tr99L8vZO4RFekhLxtUcHiEPZXLSOqL9_CpI",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b279fcf542edecc621992f927df6047902bb.jpeg"
+        },
+        {
+            "name": "language models",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=language+models+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5TgVqemZvyPOPJ1JRrtcYoqy0yPjFtoG9PCGFZCENeBedHs-17wnjAJsO3QHFknz8CAmCoDcv8nAJCs79wXI06x4y42U&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAd6BAgxECk",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5TgVqemZvyPOPJ1JRrtcYoqy0yPjFtoG9PCGFZCENeBedHs-17wnjAJsO3QHFknz8CAmCoDcv8nAJCs79wXI06x4y42U",
+            "q": "language models llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=language+models+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5TgVqemZvyPOPJ1JRrtcYoqy0yPjFtoG9PCGFZCENeBedHs-17wnjAJsO3QHFknz8CAmCoDcv8nAJCs79wXI06x4y42U",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8d33a00b39b114cc064e7674bc8d35b01e636f31e7afd0b279ca1885bcf1a6a8b1c84abc1f4fcbca79.jpeg"
+        },
+        {
+            "name": "prediction",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=prediction+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUjw8aRLw4ttcIFURgHZpID34Lghi_xvprV0b1Vx2PN9rAm6yaDZ7b3q9YTXLsTQFtGiOnxp0&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAh6BAgxEC0",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUjw8aRLw4ttcIFURgHZpID34Lghi_xvprV0b1Vx2PN9rAm6yaDZ7b3q9YTXLsTQFtGiOnxp0",
+            "q": "prediction llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=prediction+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5GzotK4SIdgIzF6Cw9HkUjw8aRLw4ttcIFURgHZpID34Lghi_xvprV0b1Vx2PN9rAm6yaDZ7b3q9YTXLsTQFtGiOnxp0",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLrcbcWJStChFoDcVchs5DsimsHG1pbOoCocmXJRGGA&s"
+        },
+        {
+            "name": "bias",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=bias+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5QQACn1MpprVkU9UfHt_Z10YMzLecdClkkekF2gmls0BZR7oXfVb_ch-5aTwBDj8yO0O9LA&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAl6BAgxEDE",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5QQACn1MpprVkU9UfHt_Z10YMzLecdClkkekF2gmls0BZR7oXfVb_ch-5aTwBDj8yO0O9LA",
+            "q": "bias llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=bias+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5QQACn1MpprVkU9UfHt_Z10YMzLecdClkkekF2gmls0BZR7oXfVb_ch-5aTwBDj8yO0O9LA",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18Z1jn8MzC7ExE2riS28oyqqR192eP2S-xIH6_NQAlQ&s"
+        },
+        {
+            "name": "classification",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=classification+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5U667kHNpu9kBQkAbh-IjoYvh6oBcKnsSDhQPlmn8JyW1xgDClfBegM_6PpMzJYTD4v_fQ1swzZj0P-DNGLnP_vLO-gQ&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAp6BAgxEDU",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5U667kHNpu9kBQkAbh-IjoYvh6oBcKnsSDhQPlmn8JyW1xgDClfBegM_6PpMzJYTD4v_fQ1swzZj0P-DNGLnP_vLO-gQ",
+            "q": "classification llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=classification+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5U667kHNpu9kBQkAbh-IjoYvh6oBcKnsSDhQPlmn8JyW1xgDClfBegM_6PpMzJYTD4v_fQ1swzZj0P-DNGLnP_vLO-gQ",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBVXXX4CBgUhJ3A3sGeJS8N2KLaeW06jyaGJTFRx7XQ&s"
+        },
+        {
+            "name": "nlp",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=nlp+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5XK2IYk0v7tfcbTQ64eQ7FKAg6LmDFgt4vPHiSxh4QiyPjG-Xt89LX_yhoZARwfyHPevi_Q&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAt6BAgxEDk",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5XK2IYk0v7tfcbTQ64eQ7FKAg6LmDFgt4vPHiSxh4QiyPjG-Xt89LX_yhoZARwfyHPevi_Q",
+            "q": "nlp llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=nlp+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5XK2IYk0v7tfcbTQ64eQ7FKAg6LmDFgt4vPHiSxh4QiyPjG-Xt89LX_yhoZARwfyHPevi_Q",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmug1tll38ujgPyedMaWirQYgjztSe6PJOROKwlF4L1w&s"
+        },
+        {
+            "name": "acl anthology",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=acl+anthology+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5abNM6Eq21eii4FhX3aLk9U15fSHZ0s20ITFRIjPfstHQx2nQi3l4lFiEfUKdbUvtRlibVLMgTRMBoy3FUqrbDvtFRMo&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKAx6BAgxED0",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5abNM6Eq21eii4FhX3aLk9U15fSHZ0s20ITFRIjPfstHQx2nQi3l4lFiEfUKdbUvtRlibVLMgTRMBoy3FUqrbDvtFRMo",
+            "q": "acl anthology llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=acl+anthology+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5abNM6Eq21eii4FhX3aLk9U15fSHZ0s20ITFRIjPfstHQx2nQi3l4lFiEfUKdbUvtRlibVLMgTRMBoy3FUqrbDvtFRMo",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHpcHX1Lpqd2QD6lV7vG-5uMw15kbg_QanMKKawliTA&s"
+        },
+        {
+            "name": "prompt",
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=prompt+llm&udm=2&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5sFsIVpcShImBe6esB5olTWz-V3QRB0a0YXnh3jOQbXXWoiXjD0o-YzoF0HAyF0ijKYGRag&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQgIoDKA16BAgxEEE",
+            "uds": "ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5sFsIVpcShImBe6esB5olTWz-V3QRB0a0YXnh3jOQbXXWoiXjD0o-YzoF0HAyF0ijKYGRag",
+            "q": "prompt llm",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=prompt+llm&uds=ADvngMjIlLeH6JmF8XYRfQNKteaQebSIloQlH4Ekfj8JtTsyWqypG5XJ3yIc8ovtsc-nUfc4OZ5U_LzaVCXXNNhNs6X5sFsIVpcShImBe6esB5olTWz-V3QRB0a0YXnh3jOQbXXWoiXjD0o-YzoF0HAyF0ijKYGRag",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoiLPCbVNc8yAETruwEy4ziGMl0AdYTDAA8Kqrf5nuA&s"
+        }
+    ],
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=site%3Aaclanthology.org+LLM&udm=2&source=univ&fir=Po_ZwhKgnmlqhM%252CfxNp40N-bGE47M%252C_%253BEjD3DE9S3ZV2-M%252Cv3aEzXr5WSQZZM%252C_%253BlCLzSeQShOMGmM%252Cz9YybA6Jc3mBSM%252C_%253Bx9EdburyqOyZoM%252ChWD22545Enj--M%252C_%253BbEPUtwsEBeW3FM%252Cwhh62TteKByqgM%252C_%253BYV_X8ybi27FK_M%252C7kWNXx1cjHXzMM%252C_%253BAhoi4c6rvgVRVM%252CSXcx-NTUi_gmoM%252C_%253BApO1D7wOkfabZM%252CwJ5vgQ2lMBiToM%252C_%253BT92FDrod1_GmPM%252CMrpr2lwPekx-IM%252C_%253B7qHQGq5uhT0U6M%252CgTClWgJEksW16M%252C_&usg=AI4_-kRzKDYxcn0macrk1W2Q-hBwKH0RBQ&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQ9AF6BAgzEAA#imgrc=Po_ZwhKgnmlqhM",
+            "source": "https://aclanthology.org/2024.eacl-long.8",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8dea2a3504332ef6d8cb3414cf398249298bdf368daee65750.jpeg",
+            "original": "https://aclanthology.org/thumb/2024.eacl-long.8.jpg",
+            "title": "LLM Comparative Assessment: Zero-shot NLG Evaluation through ...",
+            "source_name": "ACL Anthology"
+        },
+        {
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=site%3Aaclanthology.org+LLM&udm=2&source=univ&fir=Po_ZwhKgnmlqhM%252CfxNp40N-bGE47M%252C_%253BEjD3DE9S3ZV2-M%252Cv3aEzXr5WSQZZM%252C_%253BlCLzSeQShOMGmM%252Cz9YybA6Jc3mBSM%252C_%253Bx9EdburyqOyZoM%252ChWD22545Enj--M%252C_%253BbEPUtwsEBeW3FM%252Cwhh62TteKByqgM%252C_%253BYV_X8ybi27FK_M%252C7kWNXx1cjHXzMM%252C_%253BAhoi4c6rvgVRVM%252CSXcx-NTUi_gmoM%252C_%253BApO1D7wOkfabZM%252CwJ5vgQ2lMBiToM%252C_%253BT92FDrod1_GmPM%252CMrpr2lwPekx-IM%252C_%253B7qHQGq5uhT0U6M%252CgTClWgJEksW16M%252C_&usg=AI4_-kRzKDYxcn0macrk1W2Q-hBwKH0RBQ&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQ9AF6BAgyEAA#imgrc=EjD3DE9S3ZV2-M",
+            "source": "https://aclanthology.org/2023.emnlp-main.669",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8da0cd8aabaa3b54950ff8236c0834e17c851a6a5d5f3a4d48.jpeg",
+            "original": "https://aclanthology.org/thumb/2023.emnlp-main.669.jpg",
+            "title": "CoMPosT: Characterizing and Evaluating Caricature in LLM ...",
+            "source_name": "ACL Anthology"
+        },
+        {
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&sca_upv=1&q=site%3Aaclanthology.org+LLM&udm=2&source=univ&fir=Po_ZwhKgnmlqhM%252CfxNp40N-bGE47M%252C_%253BEjD3DE9S3ZV2-M%252Cv3aEzXr5WSQZZM%252C_%253BlCLzSeQShOMGmM%252Cz9YybA6Jc3mBSM%252C_%253Bx9EdburyqOyZoM%252ChWD22545Enj--M%252C_%253BbEPUtwsEBeW3FM%252Cwhh62TteKByqgM%252C_%253BYV_X8ybi27FK_M%252C7kWNXx1cjHXzMM%252C_%253BAhoi4c6rvgVRVM%252CSXcx-NTUi_gmoM%252C_%253BApO1D7wOkfabZM%252CwJ5vgQ2lMBiToM%252C_%253BT92FDrod1_GmPM%252CMrpr2lwPekx-IM%252C_%253B7qHQGq5uhT0U6M%252CgTClWgJEksW16M%252C_&usg=AI4_-kRzKDYxcn0macrk1W2Q-hBwKH0RBQ&sa=X&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQ9AF6BAg0EAA#imgrc=lCLzSeQShOMGmM",
+            "source": "https://aclanthology.org/2023.emnlp-main.463",
+            "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/b29b05376e98ae8da043ff7892f339ab7c9ca01e3ffaa33bb22423c875193267.jpeg",
+            "original": "https://aclanthology.org/thumb/2023.emnlp-main.463.jpg",
+            "title": "Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text ...",
+            "source_name": "ACL Anthology"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Guided Search Filters",
+        "thumbnail": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/bd78044ac7b66d921703874d9ab0ae61907bbbe6fd162213.jpeg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Character-LLM: A Trainable Agent for Role-Playing",
+            "link": "https://aclanthology.org/2023.emnlp-main.814",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.emnlp-main.814&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECAwQAQ",
+            "displayed_link": "https://aclanthology.org › 2023.emnlp-main.814",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b659c2dd740ee3d530f4be91de9735914c6.png",
+            "author": "by Y Shao",
+            "cited_by": "Cited by 43",
+            "extracted_cited_by": 43,
+            "date": "2023",
+            "snippet": "Large language models (LLMs) can be used to serve as agents to simulate human behaviors, given the powerful ability to understand human instructions and provide ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "LLM-Blender: Ensembling Large Language Models with ...",
+            "link": "https://aclanthology.org/2023.acl-long.792",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.792&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECA8QAQ",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.792",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b6588af32888662aac99311c4604ac01aeb.png",
+            "author": "by D Jiang",
+            "cited_by": "Cited by 65",
+            "extracted_cited_by": 65,
+            "date": "2023",
+            "snippet": "We present LLM-Blender, an ensembling framework designed to attain consistently superior performance by leveraging the diverse strengths of multiple open-source ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Large Language Models Can Self-Improve",
+            "link": "https://aclanthology.org/2023.emnlp-main.67",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.emnlp-main.67&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECA4QAQ",
+            "displayed_link": "https://aclanthology.org › 2023.emnlp-main.67",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b652c277183e95903b8ab4743dd36e7ecc4.png",
+            "author": "by J Huang",
+            "cited_by": "Cited by 265",
+            "extracted_cited_by": 265,
+            "date": "2023",
+            "snippet": "Abstract. Large Language Models (LLMs) have achieved excellent performances in various tasks. However, fine-tuning an LLM requires extensive supervision.",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Can Large Language Models Be an Alternative to Human ...",
+            "link": "https://aclanthology.org/2023.acl-long.870",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.870&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECA0QAQ",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.870",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b65e26e0495b1859e29e73448ea72a876f5.png",
+            "author": "by CH Chiang",
+            "cited_by": "Cited by 200",
+            "extracted_cited_by": 200,
+            "date": "2023",
+            "snippet": "We use human evaluation and LLM evaluation to evaluate the texts in two NLP tasks: open-ended story generation and adversarial attacks. We show that the result ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "NLP Evaluation in trouble: On the Need to Measure LLM ...",
+            "link": "https://aclanthology.org/2023.findings-emnlp.722",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.findings-emnlp.722&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECBAQAQ",
+            "displayed_link": "https://aclanthology.org › 2023.findings-emnlp.722",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b6513544bcafeac1d2d19ff0b9c7393dc2c.png",
+            "author": "by O Sainz",
+            "cited_by": "Cited by 34",
+            "extracted_cited_by": 34,
+            "date": "2023",
+            "snippet": "Abstract. In this position paper we argue that the classical evaluation on Natural Language Processing (NLP) tasks using annotated benchmarks is in trouble.",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "The Internal State of an LLM Knows When It's Lying",
+            "link": "https://aclanthology.org/2023.findings-emnlp.68.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.findings-emnlp.68.pdf&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECBcQAQ",
+            "displayed_link": "https://aclanthology.org › 2023.findings-emnlp.6...",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b65e4d2ba315b989a57cf4db3bd56c94c3c.png",
+            "author": "by A Azaria",
+            "cited_by": "Cited by 121",
+            "extracted_cited_by": 121,
+            "date": "2023",
+            "snippet": "While Large Language Models (LLMs) have shown exceptional performance in various tasks, one of their most prominent drawbacks.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 10
+                    },
+                    "extensions": [
+                        "10 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "Towards LLM-based Fact Verification on News Claims with ...",
+            "link": "https://aclanthology.org/2023.ijcnlp-main.64.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.ijcnlp-main.64.pdf&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECBEQAQ",
+            "displayed_link": "https://aclanthology.org › 2023.ijcnlp-main.64.pdf",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b65bc92f9e41ace32120c5b5f3a7abbb6f6.png",
+            "author": "by X Zhang",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2023",
+            "snippet": "We investigate the ability of LLMs with ICL for news claim verification. And we find that with only four-shot demonstration examples, LLMs can outperform most ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 16
+                    },
+                    "extensions": [
+                        "16 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "LLM-Eval: Unified Multi-Dimensional Automatic Evaluation ...",
+            "link": "https://aclanthology.org/2023.nlp4convai-1.5",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.nlp4convai-1.5&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECCwQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b65ce9d37b22f1d30767bda6980f9cd9bc2.png",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Coupling Large Language Models with Logic ...",
+            "link": "https://aclanthology.org/2023.findings-acl.321",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.findings-acl.321&ved=2ahUKEwj8iaaly6mGAxU0hIkEHSOBB_cQFnoECC4QAQ",
+            "displayed_link": "https://aclanthology.org › 2023.findings-acl.321",
+            "favicon": "https://serpapi.com/searches/665242da1e803f7674517d3b/images/338b54ccf38a01a225171bcadac24b65f26b76f226d10f5f208de8ce919f711c.png",
+            "author": "by Z Yang",
+            "cited_by": "Cited by 11",
+            "extracted_cited_by": 11,
+            "date": "2023",
+            "snippet": "While large language models (LLMs), such as GPT-3, appear to be robust and general, their reasoning ability is not at a level to compete with the best models ...",
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=40"
+        }
+    }
+}

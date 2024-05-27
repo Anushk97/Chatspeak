@@ -1,0 +1,218 @@
+{
+    "search_metadata": {
+        "id": "66523a2b2bc7d81c0bd38493",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/12c3de11d4be1b18/66523a2b2bc7d81c0bd38493.json",
+        "created_at": "2024-05-25 19:21:15 UTC",
+        "processed_at": "2024-05-25 19:21:15 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/12c3de11d4be1b18/66523a2b2bc7d81c0bd38493.html",
+        "total_time_taken": 1.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org Machine learning",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org Machine learning",
+        "total_results": 105000,
+        "page_number": 2,
+        "time_taken_displayed": 0.23,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Unleashing the Power of Large Language Models in ...",
+            "link": "https://aclanthology.org/2024.eacl-long.179",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/2024.eacl-long.179&usg=AOvVaw2gr5uwhgJRYft_pie6FiUf",
+            "displayed_link": "https://aclanthology.org › 2024.eacl-long.179",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b7dc4245aee7aa4e74cda7da52dd78f71.png",
+            "author": "by L Zhang",
+            "cited_by": "Cited by 15",
+            "extracted_cited_by": 15,
+            "date": "2024",
+            "snippet": "The field of machine learning (ML) has gained widespread adoption, leading to significant demand for adapting ML to specific scenarios, which is yet ...",
+            "snippet_highlighted_words": [
+                "machine learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Learning to Ask for Conversational Machine Learning",
+            "link": "https://aclanthology.org/D19-1426",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/D19-1426&usg=AOvVaw11aJ8u37UPPJ_w26rVMO-m",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b4eacd21a37cb12b094e6de3b2b49cb64.png",
+            "author": "by S Srivastava",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2019",
+            "snippet": "We present a reinforcement learning framework, where the learner's actions correspond to question types and the reward for asking a question is based on how the ...",
+            "snippet_highlighted_words": [
+                "reinforcement learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Multimodal Machine Learning: Integrating Language, ...",
+            "link": "https://aclanthology.org/P17-5002",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/P17-5002&usg=AOvVaw39_9Ov2XBnjAwq2Ju2G8oW",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3be60d20a296d03e21618ca42f60e18135.png",
+            "author": "by LP Morency",
+            "cited_by": "Cited by 29",
+            "extracted_cited_by": 29,
+            "date": "2017",
+            "snippet": "Multimodal machine learning is a vibrant multi-disciplinary research field which addresses some of the original goals of artificial intelligence by integrating ...",
+            "snippet_highlighted_words": [
+                "machine learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Could Machine Learning Shed Light on Natural Language ...",
+            "link": "https://aclanthology.org/W16-4101",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/W16-4101&usg=AOvVaw0DnIjaMUcvf1rNF_mzVkfB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b2de600777d2724ada1fe56d1b94841bd.png",
+            "author": "by MD Jiménez-López",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2016",
+            "snippet": "The relevance of grammatical inference models for measuring linguistic complexity from a developmental point of view is based on the fact that algorithms ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "A Machine Learning based Music Retrieval and ...",
+            "link": "https://aclanthology.org/L16-1312",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/L16-1312&usg=AOvVaw0rDrP5HaIYCc7Pvhu3gC8E",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b628b274dc262c47c61ff227e6ee0d9f2.png",
+            "author": "by N Mostafa",
+            "cited_by": "Cited by 6",
+            "extracted_cited_by": 6,
+            "date": "2016",
+            "snippet": "In this paper, we present a music retrieval and recommendation system using machine learning techniques. We propose a query by humming system for music ...",
+            "snippet_highlighted_words": [
+                "machine learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "A Machine Learning Approach to Clinical Terms ...",
+            "link": "https://aclanthology.org/W16-2901",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/W16-2901&usg=AOvVaw36m5ywp_YtbFrUyMDtxhev",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3bc4c0739d964d342db102856130b0b8ba.png",
+            "author": "by J Castaño",
+            "cited_by": "Cited by 11",
+            "extracted_cited_by": 11,
+            "date": "2016",
+            "snippet": "José Castaño, María Laura Gambarte, Hee Joon Park, Maria del Pilar Avila Williams, David Pérez, Fernando Campos, Daniel Luna, Sonia Benítez, Hernán Berinsky, ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "Integration of Deep Learning and Traditional Machine ...",
+            "link": "https://aclanthology.org/D19-5724",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/D19-5724&usg=AOvVaw2ugW6XeQiHaSYD9wHwb-ri",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b8a6b9d4437b0321786f15539508a6548.png",
+            "author": "by J Mao",
+            "cited_by": "Cited by 8",
+            "extracted_cited_by": 8,
+            "date": "2019",
+            "snippet": "Our system utilizes fine-tuned language representation models and machine learning approaches based on word embedding and lexical features for entities ...",
+            "snippet_highlighted_words": [
+                "machine learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "Machine Learning for Hybrid Machine Translation",
+            "link": "https://aclanthology.org/W12-3138",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/W12-3138&usg=AOvVaw3aSP-HzZ8jbbVE_opSRjdP",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3bdd3371ef2eb3a56bbad7b369e6af4ce6.png",
+            "author": "by S Hunsicker",
+            "cited_by": "Cited by 28",
+            "extracted_cited_by": 28,
+            "date": "2012",
+            "snippet": "Sabine Hunsicker, Yu Chen, and Christian Federmann. 2012. Machine Learning for Hybrid Machine Translation. In Proceedings of the Seventh Workshop on Statistical ...",
+            "snippet_highlighted_words": [
+                "Machine Learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Reinforcement Learning for Bandit Neural Machine ...",
+            "link": "https://aclanthology.org/D17-1153",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/D17-1153&usg=AOvVaw2vltxNzCd2xOw1bzYuufwe",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b1d4401498c4c54d3fd5a986056a50f76.png",
+            "author": "by K Nguyen",
+            "cited_by": "Cited by 110",
+            "extracted_cited_by": 110,
+            "date": "2017",
+            "snippet": "Machine translation is a natural candidate problem for reinforcement learning from human feedback: users provide quick, dirty ratings on candidate translations ...",
+            "snippet_highlighted_words": [
+                "reinforcement learning"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Machine Learning–Driven Language Assessment",
+            "link": "https://aclanthology.org/2020.tacl-1.17",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/2020.tacl-1.17&usg=AOvVaw0l-IIZOqaHYeAOXuSWan0p",
+            "displayed_link": "https://aclanthology.org › 2020.tacl-1.17",
+            "favicon": "https://serpapi.com/searches/66523a2b2bc7d81c0bd38493/images/82223d1829f675f0f7214f628eaf9b3b168ed3abf8fa536800bec63d6b4e29c3.png",
+            "author": "by B Settles",
+            "cited_by": "Cited by 82",
+            "extracted_cited_by": 82,
+            "date": "2020",
+            "snippet": "Our approach is the first to use machine learning and natural language processing to induce proficiency scales based on a given standard, and then use ...",
+            "snippet_highlighted_words": [
+                "machine learning"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+Machine+learning&oq=site%3Aaclanthology.org+Machine+learning&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Machine+learning&start=40"
+        }
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "search_metadata": {
+        "id": "665242dd2f542eab9a0b9511",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/659c8276f5ee2cd6/665242dd2f542eab9a0b9511.json",
+        "created_at": "2024-05-25 19:58:21 UTC",
+        "processed_at": "2024-05-25 19:58:21 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/659c8276f5ee2cd6/665242dd2f542eab9a0b9511.html",
+        "total_time_taken": 1.01
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org LLM",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org LLM",
+        "total_results": 36600,
+        "page_number": 2,
+        "time_taken_displayed": 0.41,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "LLM-Eval: Unified Multi-Dimensional Automatic Evaluation ...",
+            "link": "https://aclanthology.org/2023.nlp4convai-1.5",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.nlp4convai-1.5&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIFBAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba23be1a28f28ffcb96bad6240398711ecf.png",
+            "author": "by YT Lin",
+            "cited_by": "Cited by 62",
+            "extracted_cited_by": 62,
+            "date": "2023",
+            "snippet": "Abstract. We propose LLM-Eval, a unified multi-dimensional automatic evaluation method for open-domain conversations with large language ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Text Data Generation with Large Language Models and ...",
+            "link": "https://aclanthology.org/2023.acl-long.34",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.34&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIEhAB",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.34",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba20f04685b1e76e238fa1a2da354a5387e.png",
+            "author": "by J Chung",
+            "cited_by": "Cited by 42",
+            "extracted_cited_by": 42,
+            "date": "2023",
+            "snippet": "In this work, we explore human-AI partnerships to facilitate high diversity and accuracy in LLM-based text data generation. We first examine two approaches ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "LLM Comparative Assessment: Zero-shot NLG Evaluation ...",
+            "link": "https://aclanthology.org/2024.eacl-long.8.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2024.eacl-long.8.pdf&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIExAB",
+            "displayed_link": "https://aclanthology.org › 2024.eacl-long.8.pdf",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba297b83856fd2d9523e9af847f323feb46.png",
+            "author": "by A Liusie",
+            "cited_by": "Cited by 9",
+            "extracted_cited_by": 9,
+            "date": "2024",
+            "snippet": "Current developments in large language models. (LLMs) have enabled impressive zero-shot ca- pabilities across various natural language tasks ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 13
+                    },
+                    "extensions": [
+                        "13 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "LLM Agents in Interaction: Measuring Personality ...",
+            "link": "https://aclanthology.org/2024.personalize-1.9",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2024.personalize-1.9&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIEBAB",
+            "displayed_link": "https://aclanthology.org › 2024.personalize-1.9",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba2e34ed0323467e3dd2c50879313670691.png",
+            "author": "by I Frisch",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2024",
+            "snippet": "We condition GPT-3.5 on asymmetric personality profiles to create a population of LLM agents, administer personality tests and submit the agents to a ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Is LLM a Reliable Reviewer? A Comprehensive Evaluation ...",
+            "link": "https://aclanthology.org/2024.lrec-main.816",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2024.lrec-main.816&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIDRAB",
+            "displayed_link": "https://aclanthology.org › 2024.lrec-main.816",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba21879d768eff95a278d4321c316ce37e9.png",
+            "date": "May 17, 2024",
+            "snippet": "However, can LLM be a qualified and reliable reviewer? Although there already exist several review-related datasets, few works have carefully ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "LLM-enhanced Self-training for Cross-domain ...",
+            "link": "https://aclanthology.org/2023.emnlp-main.508",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.emnlp-main.508&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIERAB",
+            "displayed_link": "https://aclanthology.org › 2023.emnlp-main.508",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba277baf4ade8bf907a1676c6d2200a1dde.png",
+            "author": "by J Li",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2023",
+            "snippet": "To overcome this limitation, we propose enhancing self-training with the large language model (LLM) to generate domain-specific raw corpora iteratively. For the ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "Beat LLMs at Their Own Game: Zero-Shot LLM-Generated ...",
+            "link": "https://aclanthology.org/2023.emnlp-main.463",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.emnlp-main.463&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIDBAB",
+            "displayed_link": "https://aclanthology.org › 2023.emnlp-main.463",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba241356ea5a0cc43aebdf0e39a4c688be7.png",
+            "author": "by B Zhu",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2023",
+            "snippet": "There are already reported cases of academic cheating by using LLMs. Thus, it is a pressing problem to identify LLM-generated texts. In this work, we design a ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "GPTCache: An Open-Source Semantic Cache for LLM ...",
+            "link": "https://aclanthology.org/2023.nlposs-1.24",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.nlposs-1.24&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIIRAB",
+            "displayed_link": "https://aclanthology.org › 2023.nlposs-1.24",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba264d462015367bc1e7cad5c138d3199da.png",
+            "author": "by F Bang",
+            "cited_by": "Cited by 8",
+            "extracted_cited_by": 8,
+            "date": "2023",
+            "snippet": "GPTCache2 is an open-source semantic cache that stores LLM responses to address this issue. When integrating an AI application with GPTCache, user queries are ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Towards Mitigating LLM Hallucination via Self Reflection",
+            "link": "https://aclanthology.org/2023.findings-emnlp.123",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.findings-emnlp.123&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIJxAB",
+            "displayed_link": "https://aclanthology.org › 2023.findings-emnlp.123",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba26cc8b22397bdf63cc2980f10e30403a8.png",
+            "author": "by Z Ji",
+            "cited_by": "Cited by 22",
+            "extracted_cited_by": 22,
+            "date": "2023",
+            "snippet": "Our investigation centers on the identification and comprehension of common problematic answers, with a specific emphasis on hallucination. To tackle this ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Leveraging LLM's Evaluation Capabilities for Flexible ...",
+            "link": "https://aclanthology.org/2024.findings-eacl.4",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2024.findings-eacl.4&ved=2ahUKEwj5gqqmy6mGAxW_EGIAHb6MAkg4ChAWegQIIhAB",
+            "displayed_link": "https://aclanthology.org › 2024.findings-eacl.4",
+            "favicon": "https://serpapi.com/searches/665242dd2f542eab9a0b9511/images/85cd55151171e9024138141dc9710ba25f4eaaa539de663afd9ac993c69f9018.png",
+            "author": "by Y Chen",
+            "date": "2024",
+            "snippet": "In order to combine the strengths of both paradigms, and overcome their respective shortcomings, we design a new pipeline called “FlexiQA”, in which we utilize ...",
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+LLM&oq=site%3Aaclanthology.org+LLM&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+LLM&start=40"
+        }
+    }
+}

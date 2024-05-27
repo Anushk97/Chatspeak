@@ -1,0 +1,311 @@
+{
+    "search_metadata": {
+        "id": "6652420c87a0eeb3bcfff50a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/53a8b78f2045439f/6652420c87a0eeb3bcfff50a.json",
+        "created_at": "2024-05-25 19:54:52 UTC",
+        "processed_at": "2024-05-25 19:54:52 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/53a8b78f2045439f/6652420c87a0eeb3bcfff50a.html",
+        "total_time_taken": 1.9
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org computer vision",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org computer vision",
+        "total_results": 21300,
+        "time_taken_displayed": 0.29,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images_suggested_searches": [
+        {
+            "name": "language models",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=language+models+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQE-lYJyUSuI-rf2RM843iap12Eghrr4ZIh8NEpYqUYH_lTUNKfOdqpYHZFLQmmfuKNVX1ApHAHSxfgz_68Y3Owhr_I0j&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAB6BAgZEA0",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQE-lYJyUSuI-rf2RM843iap12Eghrr4ZIh8NEpYqUYH_lTUNKfOdqpYHZFLQmmfuKNVX1ApHAHSxfgz_68Y3Owhr_I0j",
+            "q": "language models computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=language+models+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQE-lYJyUSuI-rf2RM843iap12Eghrr4ZIh8NEpYqUYH_lTUNKfOdqpYHZFLQmmfuKNVX1ApHAHSxfgz_68Y3Owhr_I0j",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9a67a25a69a68050ca89889be13e9a454a2c5a5ae74fcfc905e9e478bc8a1ce7d1b6c5ef808a72c6.jpeg"
+        },
+        {
+            "name": "natural language",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=natural+language+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQHFNCmWq8wWEqV1vvGRI_YExegMbQdaku3m9fw-tyw9VQPvjrUnYzK7VS_Oo6gFS8n77GNygiuVsDeJqm10aAAqi3Xdp&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAF6BAgZEBE",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQHFNCmWq8wWEqV1vvGRI_YExegMbQdaku3m9fw-tyw9VQPvjrUnYzK7VS_Oo6gFS8n77GNygiuVsDeJqm10aAAqi3Xdp",
+            "q": "natural language computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=natural+language+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQHFNCmWq8wWEqV1vvGRI_YExegMbQdaku3m9fw-tyw9VQPvjrUnYzK7VS_Oo6gFS8n77GNygiuVsDeJqm10aAAqi3Xdp",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9a67a25a69a68050ca89889be13e9a454a2c5a5ae74fcfc96104cf6fbcd9535bc8546aa182c53549.jpeg"
+        },
+        {
+            "name": "gaze",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=gaze+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQPHRMhdSTjHMl_r8X3oAfFzRHJey19MxK35oY2Y-NoQAs8QigElRsVzQ6W62GRoosKPBbVc&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAJ6BAgZEBU",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQPHRMhdSTjHMl_r8X3oAfFzRHJey19MxK35oY2Y-NoQAs8QigElRsVzQ6W62GRoosKPBbVc",
+            "q": "gaze computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=gaze+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQPHRMhdSTjHMl_r8X3oAfFzRHJey19MxK35oY2Y-NoQAs8QigElRsVzQ6W62GRoosKPBbVc",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9a67a25a69a68050ca89889be13e9a454a2c5a5ae74fcfc9e1a47158d0d1d3e6432f0d4e3d63c8d3.jpeg"
+        },
+        {
+            "name": "fusion",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=fusion+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQJ_XebWq65DWkNlSgwr48wjVy0AxJlcYqzyAad0rlN0s1Z-oKEJsOnzj2chDDfZlbIStt0Y&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAN6BAgZEBk",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQJ_XebWq65DWkNlSgwr48wjVy0AxJlcYqzyAad0rlN0s1Z-oKEJsOnzj2chDDfZlbIStt0Y",
+            "q": "fusion computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=fusion+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQJ_XebWq65DWkNlSgwr48wjVy0AxJlcYqzyAad0rlN0s1Z-oKEJsOnzj2chDDfZlbIStt0Y",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9a67a25a69a68050ca89889be13e9a454a2c5a5ae74fcfc9fde97b9cd5629f5f026008a1d165deb7.jpeg"
+        },
+        {
+            "name": "dataset",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=dataset+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQOVkZ4u_A4IgTLFFjRQbF1fdbzvWaGRWHTOxa7pifNjHlWz4e8cq2Y2HMe1vrS-lMx7giww&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAR6BAgZEB0",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQOVkZ4u_A4IgTLFFjRQbF1fdbzvWaGRWHTOxa7pifNjHlWz4e8cq2Y2HMe1vrS-lMx7giww",
+            "q": "dataset computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=dataset+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQOVkZ4u_A4IgTLFFjRQbF1fdbzvWaGRWHTOxa7pifNjHlWz4e8cq2Y2HMe1vrS-lMx7giww",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9a67a25a69a68050ca89889be13e9a454a2c5a5ae74fcfc9f6544e4d3eb19725bceaddb478f95bea.jpeg"
+        },
+        {
+            "name": "integrating language",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=integrating+language+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQA56WSdpIvpqUH3lT1p_UVp0s_i6EzUMYNwRpVGjN0tvVctYvEvfP1oJQtDLQWn8IdGtoGVEB2qrULNOm-tm3mf-qsWm&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAV6BAgZECE",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQA56WSdpIvpqUH3lT1p_UVp0s_i6EzUMYNwRpVGjN0tvVctYvEvfP1oJQtDLQWn8IdGtoGVEB2qrULNOm-tm3mf-qsWm",
+            "q": "integrating language computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=integrating+language+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQA56WSdpIvpqUH3lT1p_UVp0s_i6EzUMYNwRpVGjN0tvVctYvEvfP1oJQtDLQWn8IdGtoGVEB2qrULNOm-tm3mf-qsWm"
+        },
+        {
+            "name": "vision language",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=vision+language+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQNYC1IJ2mgVcUCd6SiL8Ym3WNEO9iO7W0o_FKyatelfp_y2EP1auP8iw7vD1hYSb1C_99vXYI-iJqY2LgITff_FJ9-qG&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAZ6BAgZECQ",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQNYC1IJ2mgVcUCd6SiL8Ym3WNEO9iO7W0o_FKyatelfp_y2EP1auP8iw7vD1hYSb1C_99vXYI-iJqY2LgITff_FJ9-qG",
+            "q": "vision language computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=vision+language+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQNYC1IJ2mgVcUCd6SiL8Ym3WNEO9iO7W0o_FKyatelfp_y2EP1auP8iw7vD1hYSb1C_99vXYI-iJqY2LgITff_FJ9-qG",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9a67a25a69a68050ca89889be13e9a454a2c5a5ae74fcfc9f0c4be492549e6132dda15b8b6c5b235.jpeg"
+        },
+        {
+            "name": "language descriptions",
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&sca_upv=1&q=language+descriptions+computer+vision&udm=2&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQEaBquZLRcNdfwMDkklfAV-AxItZfkwyxwzYeKG9z3tcAROWZT8-BWNA8T4UqKSzXYXzAkb6si1QmAR_7yGyH_JBqriV&sa=X&ved=2ahUKEwjg3abDyqmGAxVlMlkFHfRRC98QgIoDKAd6BAgZECg",
+            "uds": "ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQEaBquZLRcNdfwMDkklfAV-AxItZfkwyxwzYeKG9z3tcAROWZT8-BWNA8T4UqKSzXYXzAkb6si1QmAR_7yGyH_JBqriV",
+            "q": "language descriptions computer vision",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&location=India&q=language+descriptions+computer+vision&uds=ADvngMjkDEuTvmwrZctIOXbKalOLWBlCcTSZmNvPq151DXpwpZbpYXvnkpye_3P4a07PW_yZl0HB1RASKgiy2KpmEgqCrZ9-q_T-ZWJhZ4EKtmMqQEaBquZLRcNdfwMDkklfAV-AxItZfkwyxwzYeKG9z3tcAROWZT8-BWNA8T4UqKSzXYXzAkb6si1QmAR_7yGyH_JBqriV"
+        }
+    ],
+    "inline_images": [
+        {
+            "link": "https://aclanthology.org/E12-1076",
+            "source": "https://aclanthology.org/E12-1076",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae9e1d1b86b46b84ee0612d0b44ab9b558139f965db2830e67.jpeg",
+            "original": "https://aclanthology.org/thumb/E12-1076.jpg",
+            "title": "Midge: Generating Image Descriptions From Computer Vision ...",
+            "source_name": "ACL Anthology"
+        },
+        {
+            "link": "https://aclanthology.org/2021.mtsummit-at4ssl.6",
+            "source": "https://aclanthology.org/2021.mtsummit-at4ssl.6",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae38fbdf738c200c4d3a26774d30a1f6f73e99fe51d1fd4c22.jpeg",
+            "original": "https://aclanthology.org/thumb/2021.mtsummit-at4ssl.6.jpg",
+            "title": "Using Computer Vision to Analyze Non-manual Marking of ...",
+            "source_name": "ACL Anthology"
+        },
+        {
+            "link": "https://aclanthology.org/2020.sustainlp-1.17",
+            "source": "https://aclanthology.org/2020.sustainlp-1.17",
+            "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/f7176555126b13ae7c1b7fb3dd06a9ee190f625068292997da4796fddcc5ab58.jpeg",
+            "original": "https://aclanthology.org/thumb/2020.sustainlp-1.17.jpg",
+            "title": "SqueezeBERT: What can computer vision teach NLP about ...",
+            "source_name": "ACL Anthology"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Guided Search Filters",
+        "thumbnail": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/a2bb576fbde1401c7831df913e53faaf41b45055526d0f89.jpeg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "COGNITIVE MODELS FOR COMPUTER VISION",
+            "link": "https://aclanthology.org/C82-1002.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/C82-1002.pdf&usg=AOvVaw2AeRgRNKUsYSCEABtuiRqE",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c0170fb8ec071403da5cf7a1a088cca30c7c6.png",
+            "author": "by G Adorni",
+            "cited_by": "Cited by 10",
+            "extracted_cited_by": 10,
+            "date": "1982",
+            "snippet": "A common approach to the problem of scenes interpretation is to gen- erate hypothesis about the position and size of objects and try to.",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Midge: Generating Image Descriptions From Computer ...",
+            "link": "https://aclanthology.org/E12-1076.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/E12-1076.pdf&usg=AOvVaw2j8-3VwdOF_dQlxi4lRvDo",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c01708af3ad31d8840bd211483c9a95249487.png",
+            "author": "by M Mitchell",
+            "cited_by": "Cited by 560",
+            "extracted_cited_by": 560,
+            "date": "2012",
+            "snippet": "This paper introduces a novel generation system that composes humanlike descrip- tions of images from computer vision de- tections. By leveraging syntactically ...",
+            "snippet_highlighted_words": [
+                "computer vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Comparing computer vision analysis of signed language ...",
+            "link": "https://aclanthology.org/L12-1152/",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/L12-1152/&usg=AOvVaw2TyEQ2Af96R-YwddGDbUT5",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c0170ff8aa9c4014aba55c98e11fe98ce6cff.png",
+            "author": "by M Karppa",
+            "cited_by": "Cited by 9",
+            "extracted_cited_by": 9,
+            "date": "2012",
+            "snippet": "Abstract. We consider a non-intrusive computer-vision method for measuring the motion of a person performing natural signing in video recordings.",
+            "snippet_highlighted_words": [
+                "computer",
+                "vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "What can computer vision teach NLP about efficient neural ...",
+            "link": "https://aclanthology.org/2020.sustainlp-1.17",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/2020.sustainlp-1.17&usg=AOvVaw2lyIP2aiAgD5cqXc6ByTC3",
+            "displayed_link": "https://aclanthology.org › 2020.sustainlp-1.17",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c0170c6ac2490f0c20d0c3284718d9e31dab3.png",
+            "author": "by F Iandola",
+            "cited_by": "Cited by 118",
+            "extracted_cited_by": 118,
+            "date": "2020",
+            "snippet": "SqueezeBERT: What can computer vision teach NLP about efficient neural networks? Forrest Iandola, Albert Shaw, Ravi Krishna ...",
+            "snippet_highlighted_words": [
+                "computer vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Sign Language Recognition and Translation",
+            "link": "https://aclanthology.org/2023.ranlp-1.71.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/2023.ranlp-1.71.pdf&usg=AOvVaw06FUmE19m9DSmvYghn0-rH",
+            "displayed_link": "https://aclanthology.org › 2023.ranlp-1.71.pdf",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c017040413e8817f3163403835c88237b523e.png",
+            "author": "by J Li",
+            "date": "2023",
+            "snippet": "Computer Vision and the nuances of ASL. Classification accuracy in Computer ... Computer Vision alone to classify the signer's en- tire message ...",
+            "snippet_highlighted_words": [
+                "Computer Vision",
+                "Computer Vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Using Computer Vision to Analyze Non-manual Marking ...",
+            "link": "https://aclanthology.org/2021.mtsummit-at4ssl.6",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/2021.mtsummit-at4ssl.6&usg=AOvVaw3Aie4XPB1m57yuzIyN9ZQm",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c01709be0381a7712cf4bab1b9be68ee48af8.png",
+            "author": "by A Kuznetsova",
+            "cited_by": "Cited by 9",
+            "extracted_cited_by": 9,
+            "date": "2021",
+            "snippet": "This paper presents a study that compares non-manual markers of polar and wh-questions to statements in Kazakh-Russian Sign Language (KRSL) in a dataset ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "A Vision-Language Model for Arabic Image Captioning ...",
+            "link": "https://aclanthology.org/2023.arabicnlp-1.1.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/2023.arabicnlp-1.1.pdf&usg=AOvVaw1M6VMf91H1bnmh5SPuqmSb",
+            "displayed_link": "https://aclanthology.org › 2023.arabicnlp-1.1.pdf",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c0170e5e433a5a484229248a1bd430802c930.png",
+            "author": "by A Mohamed",
+            "date": "2023",
+            "snippet": "We alleviate this challenge by introducing a method for automatically acquiring captions that is based on first employing a powerful machine.",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 11
+                    },
+                    "extensions": [
+                        "11 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "Neural Caption Generation for News Images",
+            "link": "https://aclanthology.org/L18-1273.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/L18-1273.pdf&usg=AOvVaw1vRwQQC3lnRtW4nGk2cvO0",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c01707a800a53192c3d1730a03972bce70bab.png",
+            "author": "by V Batra",
+            "cited_by": "Cited by 12",
+            "extracted_cited_by": 12,
+            "date": "2018",
+            "snippet": "Much work within computer vision has focused on image annotation, a task which is very much related but distinct from image description gen- eration. The goal ...",
+            "snippet_highlighted_words": [
+                "computer vision",
+                "image",
+                "image"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 8
+                    },
+                    "extensions": [
+                        "8 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Nonparametric Method for Data-driven Image Captioning",
+            "link": "https://aclanthology.org/P14-2097.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://aclanthology.org/P14-2097.pdf&usg=AOvVaw3ihzfkcDasbTRWuPu48WHz",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420c87a0eeb3bcfff50a/images/cb3a47b3d1afb488b47089e1955c017092d47bbac2e76079e48bbb01de0801fc.png",
+            "author": "by R Mason",
+            "cited_by": "Cited by 118",
+            "extracted_cited_by": 118,
+            "date": "2014",
+            "snippet": "We present a nonparametric density esti- mation technique for image caption gener- ation. Data-driven matching methods have.",
+            "snippet_highlighted_words": [
+                "image"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=40"
+        }
+    }
+}

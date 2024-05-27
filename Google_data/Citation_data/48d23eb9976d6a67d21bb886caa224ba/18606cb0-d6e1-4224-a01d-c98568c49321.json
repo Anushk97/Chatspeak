@@ -1,0 +1,191 @@
+{
+    "search_metadata": {
+        "id": "66521898629a0177c53cad5e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0853d250bdf6730b/66521898629a0177c53cad5e.json",
+        "created_at": "2024-05-25 16:58:00 UTC",
+        "processed_at": "2024-05-25 16:58:00 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?cites=9244488408968589108&hl=en&start=30&as_sdt=2005&scipsc=1",
+        "raw_html_file": "https://serpapi.com/searches/0853d250bdf6730b/66521898629a0177c53cad5e.html",
+        "total_time_taken": 1.22
+    },
+    "search_parameters": {
+        "engine": "google_scholar",
+        "cites": "9244488408968589108",
+        "hl": "en",
+        "start": 30,
+        "as_sdt": "2005"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 34,
+        "page_number": 4,
+        "time_taken_displayed": 0.02
+    },
+    "profiles": {
+        "link": "https://scholar.google.com/scholar?cluster=9244488408968589108&hl=en&as_sdt=2005",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+    },
+    "organic_results": [
+        {
+            "position": 0,
+            "title": "Shifted Window Based Self-Attention via Swin Transformer for Zero-Shot Learning",
+            "result_id": "llnTDPL-48wJ",
+            "link": "https://publications.waset.org/10013271/shifted-window-based-self-attention-via-swin-transformer-for-zero-shot-learning",
+            "snippet": "Generalised Zero-Shot Learning, often known as GZSL, is an advanced variant of zero-shot learning in which the samples in the unseen category may be either seen or unseen. GZSL …",
+            "publication_info": {
+                "summary": "Y Palagummi, S Rowlands - International Journal of …, 2023 - publications.waset.org",
+                "authors": [
+                    {
+                        "name": "S Rowlands",
+                        "link": "https://scholar.google.com/citations?user=svw1CgUAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=svw1CgUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "svw1CgUAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=llnTDPL-48wJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:llnTDPL-48wJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&q=related%3AllnTDPL-48wJ%3Ascholar.google.com%2F&start=30",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:llnTDPL-48wJ:scholar.google.com/&hl=en&as_sdt=2005"
+            }
+        },
+        {
+            "position": 1,
+            "title": "Integrating Noisy Knowledge into Language Representations for E-Commerce Applications",
+            "result_id": "AzoS0ittg6wJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10386615/",
+            "snippet": "Integrating structured knowledge into language model representations increases recall of domain-specific information useful for downstream tasks. Matching between knowledge …",
+            "publication_info": {
+                "summary": "K Samel, J Ma, Z Wang, T Zhao… - 2023 IEEE International …, 2023 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "K Samel",
+                        "link": "https://scholar.google.com/citations?user=qODnluYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qODnluYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qODnluYAAAAJ"
+                    },
+                    {
+                        "name": "J Ma",
+                        "link": "https://scholar.google.com/citations?user=88Bv89kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=88Bv89kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "88Bv89kAAAAJ"
+                    },
+                    {
+                        "name": "T Zhao",
+                        "link": "https://scholar.google.com/citations?user=SSBJh9oAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SSBJh9oAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "SSBJh9oAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "amazon.science",
+                    "file_format": "PDF",
+                    "link": "https://assets.amazon.science/96/81/c7cbc852412084faa3b51ab87132/integrating-noisy-knowledge-into-language-representations-for-e-commerce-applications.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AzoS0ittg6wJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:AzoS0ittg6wJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&q=related%3AAzoS0ittg6wJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 3,
+                    "link": "https://scholar.google.com/scholar?cluster=12430899431448132099&hl=en&as_sdt=2005",
+                    "cluster_id": "12430899431448132099",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=12430899431448132099&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Knowledge Relevance BERT: Integrating Noisy Knowledge into Language Representations",
+            "result_id": "ivKoXfBcf34J",
+            "type": "Pdf",
+            "link": "https://knowledge-nlp.github.io/aaai2023/papers/005-KRBERT-oral.pdf",
+            "snippet": "Integrating structured knowledge into language model representations increases recall of domain-specific information useful for downstream tasks. Matching between knowledge …",
+            "publication_info": {
+                "summary": "K Samel, JMZWT Zhao, I Essa - knowledge-nlp.github.io",
+                "authors": [
+                    {
+                        "name": "K Samel",
+                        "link": "https://scholar.google.com/citations?user=qODnluYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qODnluYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "qODnluYAAAAJ"
+                    },
+                    {
+                        "name": "I Essa",
+                        "link": "https://scholar.google.com/citations?user=XM97iScAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XM97iScAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "XM97iScAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "github.io",
+                    "file_format": "PDF",
+                    "link": "https://knowledge-nlp.github.io/aaai2023/papers/005-KRBERT-oral.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ivKoXfBcf34J",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:ivKoXfBcf34J:scholar.google.com/&scioq=&hl=en&as_sdt=2005",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&q=related%3AivKoXfBcf34J%3Ascholar.google.com%2F&start=30",
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ivKoXfBcf34J:scholar.google.com/&hl=en&as_sdt=2005"
+            }
+        },
+        {
+            "position": 3,
+            "title": "実世界へ挑む機械学習",
+            "result_id": "axeBabKW4NoJ",
+            "type": "Pdf",
+            "link": "http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice2021ml.pdf",
+            "snippet": "現在の機械学習の成功を支える中心的なアプローチである教師あり学習では, 対象とするタスクの入出力関係を網羅した大規模なラベル付き訓練データセットの存在を前提とする …",
+            "publication_info": {
+                "summary": "中山英樹 - 電子情報通信学会誌, 2021 - nlab.ci.iu-tokyo.ac.jp"
+            },
+            "resources": [
+                {
+                    "title": "u-tokyo.ac.jp",
+                    "file_format": "PDF",
+                    "link": "http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/ieice2021ml.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=axeBabKW4NoJ",
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:axeBabKW4NoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&q=related%3AaxeBabKW4NoJ%3Ascholar.google.com%2F&start=30",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=15771771588069889899&hl=en&as_sdt=2005",
+                    "cluster_id": "15771771588069889899",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=15771771588069889899&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:axeBabKW4NoJ:scholar.google.com/&hl=en&as_sdt=2005"
+            }
+        }
+    ],
+    "pagination": {
+        "current": 4,
+        "previous": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&cites=9244488408968589108&scipsc=1",
+        "next": null,
+        "other_pages": {
+            "1": "https://scholar.google.com/scholar?start=0&hl=en&as_sdt=2005&cites=9244488408968589108&scipsc=1",
+            "2": "https://scholar.google.com/scholar?start=10&hl=en&as_sdt=2005&cites=9244488408968589108&scipsc=1",
+            "3": "https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&cites=9244488408968589108&scipsc=1"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 4,
+        "previous_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&start=20",
+        "previous": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&start=0",
+            "2": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&start=10",
+            "3": "https://serpapi.com/search.json?as_sdt=2005&cites=9244488408968589108&engine=google_scholar&hl=en&start=20"
+        }
+    }
+}

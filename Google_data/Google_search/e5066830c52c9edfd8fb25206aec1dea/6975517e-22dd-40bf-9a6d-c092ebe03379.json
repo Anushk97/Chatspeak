@@ -1,0 +1,211 @@
+{
+    "search_metadata": {
+        "id": "665249b1e4a23d6d16d7f9d0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/00c62329dd0f78c0/665249b1e4a23d6d16d7f9d0.json",
+        "created_at": "2024-05-25 20:27:29 UTC",
+        "processed_at": "2024-05-25 20:27:29 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/00c62329dd0f78c0/665249b1e4a23d6d16d7f9d0.html",
+        "total_time_taken": 0.77
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:papers.nips.cc ML",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:papers.nips.cc ML",
+        "total_results": 17000,
+        "page_number": 2,
+        "time_taken_displayed": 0.22,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Snap ML: A Hierarchical Framework for Machine Learning",
+            "link": "https://papers.nips.cc/paper/7309-snap-ml-a-hierarchical-framework-for-machine-learning.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper/7309-snap-ml-a-hierarchical-framework-for-machine-learning.pdf&usg=AOvVaw0aXF5sBxPPPGFaGKW-b5Pc",
+            "displayed_link": "https://papers.nips.cc › paper › 7309-snap-ml-a-...",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a3230aab9046b0fe382f28778d35cf5ea1.png",
+            "author": "by C Dünner",
+            "cited_by": "Cited by 31",
+            "snippet": "We describe a new software framework for fast training of generalized linear models. The framework, named Snap Machine Learning (Snap ML), combines.",
+            "snippet_highlighted_words": [
+                "Machine",
+                "ML"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 2,
+            "title": "Map-Reduce for Machine Learning on Multicore",
+            "link": "https://papers.nips.cc/paper/3150-map-reduce-for-machine-learning-on-multicore.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper/3150-map-reduce-for-machine-learning-on-multicore.pdf&usg=AOvVaw3JmduTq1z52GGBVllHaBIS",
+            "displayed_link": "https://papers.nips.cc › paper › 3150-map-reduce...",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a32240f92d62235f57f09096490faf6bf9.png",
+            "author": "by CT Chu",
+            "cited_by": "Cited by 1889",
+            "snippet": "In this paper, we focuses on developing a general and exact technique for parallel programming of a large class of machine learning algorithms for multicore ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 3,
+            "title": "A Meta-Analysis of Overfitting in Machine Learning",
+            "link": "https://papers.nips.cc/paper/9117-a-meta-analysis-of-overfitting-in-machine-learning",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper/9117-a-meta-analysis-of-overfitting-in-machine-learning&usg=AOvVaw3jUX2XshiQiudKKzs7lQa2",
+            "displayed_link": "https://papers.nips.cc › paper › 9117-a-meta-analysis-of...",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a302fa0c4a46405ce5dc579faf2a970e64.png",
+            "author": "by R Roelofs",
+            "cited_by": "Cited by 190",
+            "extracted_cited_by": 190,
+            "date": "2019",
+            "snippet": "Abstract. We conduct the first large meta-analysis of overfitting due to test set reuse in the machine learning community. Our analysis is based on over one ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 4,
+            "title": "A Large-scale Longitudinal Dataset of Commercial ML API ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/file/9bcd0bdb2777fe8c729b682f07e993f1-Paper-Datasets_and_Benchmarks.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper_files/paper/2022/file/9bcd0bdb2777fe8c729b682f07e993f1-Paper-Datasets_and_Benchmarks.pdf&usg=AOvVaw2brzGpRLX_ddH8R2B_ragF",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a3ad86083b0b46540a224a53d081378a9a.png",
+            "author": "by L Chen",
+            "cited_by": "Cited by 7",
+            "snippet": "HAPI can stimulate more research in the growing field of MLaaS. 1 Introduction. Machine learning (ML) prediction APIs have dramatically simplified ML adoption.",
+            "snippet_highlighted_words": [
+                "Machine",
+                "ML",
+                "ML"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 5,
+            "title": "A composable machine-learning approach for steady-state ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/6f697c55beafa9049ab8334400dd1ff5-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper_files/paper/2022/hash/6f697c55beafa9049ab8334400dd1ff5-Abstract-Conference.html&usg=AOvVaw1gNzR9Bg2J_cE7Sy9jF9pi",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a348a15fd9b215b00cec2df03511b8a7d4.png",
+            "author": "by R Ranade",
+            "cited_by": "Cited by 6",
+            "extracted_cited_by": 6,
+            "date": "2022",
+            "snippet": "Our unique approach combines key principles of traditional PDE solvers with local-learning and low-dimensional manifold techniques to iteratively simulate PDEs ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 6,
+            "title": "A Large-scale Longitudinal Dataset of Commercial ML API ...",
+            "link": "http://papers.nips.cc/paper_files/paper/2022/hash/9bcd0bdb2777fe8c729b682f07e993f1-Abstract-Datasets_and_Benchmarks.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=http://papers.nips.cc/paper_files/paper/2022/hash/9bcd0bdb2777fe8c729b682f07e993f1-Abstract-Datasets_and_Benchmarks.html&usg=AOvVaw3sA-8qzy9m9N8-r_EkoT1p",
+            "displayed_link": "http://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a38dcb39a82207edc4341890db40399501.png",
+            "author": "by L Chen",
+            "cited_by": "Cited by 7",
+            "extracted_cited_by": 7,
+            "date": "2022",
+            "snippet": "HAPI is the first large-scale dataset of ML API usages and is a unique resource for studying ML as-a-service (MLaaS). As examples of the types of analyses that ...",
+            "snippet_highlighted_words": [
+                "ML",
+                "ML"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 7,
+            "title": "How to use ML Prediction APIs more accurately and cheaply",
+            "link": "https://papers.nips.cc/paper/2020/file/789ba2ae4d335e8a2ad283a3f7effced-MetaReview.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper/2020/file/789ba2ae4d335e8a2ad283a3f7effced-MetaReview.html&usg=AOvVaw2q-C_WzIajYB_QrFEKfggp",
+            "displayed_link": "https://papers.nips.cc › paper › file",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a32a6cece78353d9c597a621510045667e.png",
+            "snippet": "This paper addresses an important praactica problem arising in the use of machine learning APIs. Each API has some predictive accuracy and quality score ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 8,
+            "title": "Open Graph Benchmark: Datasets for Machine Learning ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2020/hash/fb60d411a5c5b72b2e7d3527cfc84fd0-Abstract.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper_files/paper/2020/hash/fb60d411a5c5b72b2e7d3527cfc84fd0-Abstract.html&usg=AOvVaw37QWBhBPL-wgKIQ1W4kyX8",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a31bccfcbcfb5620969b23502d10c2756d.png",
+            "author": "by W Hu",
+            "cited_by": "Cited by 2301",
+            "extracted_cited_by": 2301,
+            "date": "2020",
+            "snippet": "We present the Open Graph Benchmark (OGB), a diverse set of challenging and realistic benchmark datasets to facilitate scalable, robust, and reproducible graph ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 9,
+            "title": "Efficient and Robust Automated Machine Learning",
+            "link": "https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf&usg=AOvVaw3EalAmTGFnTRZa0jCSvj3f",
+            "displayed_link": "https://papers.nips.cc › paper › 5872-efficient-an...",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a35c743ec4f01555dc31ce6a7de2769c63.png",
+            "author": "by M Feurer",
+            "cited_by": "Cited by 2639",
+            "snippet": "Recent work has started to tackle this automated machine learning (AutoML) problem with the help of efficient Bayesian optimization methods. Building on this, ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 10,
+            "title": "A Large-Scale Climate Model Dataset for Machine Learning",
+            "link": "https://papers.nips.cc/paper_files/paper/2023/hash/44a6769fe6c695f8dfb347c649f7c9f0-Abstract-Datasets_and_Benchmarks.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://papers.nips.cc/paper_files/paper/2023/hash/44a6769fe6c695f8dfb347c649f7c9f0-Abstract-Datasets_and_Benchmarks.html&usg=AOvVaw02dorms1Ohz1HIXF16H2dW",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665249b1e4a23d6d16d7f9d0/images/ff106e54c21a97404cccfeeee603d0a3c1f75826b2f065a8d21c7a9dafcaea94.png",
+            "author": "by J Kaltenborn",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2024",
+            "snippet": "However, both the climate science and ML communities have suggested that to address those tasks at scale, we need large, consistent, and ML-ready climate model ...",
+            "snippet_highlighted_words": [
+                "ML",
+                "ML"
+            ],
+            "source": "nips.cc"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=40"
+        }
+    }
+}

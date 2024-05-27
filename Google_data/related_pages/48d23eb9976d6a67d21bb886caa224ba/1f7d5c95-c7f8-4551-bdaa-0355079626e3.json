@@ -1,0 +1,617 @@
+{
+    "search_metadata": {
+        "id": "66522a2d8b7ed212e3e60d48",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/97a9c3e4d76a8342/66522a2d8b7ed212e3e60d48.json",
+        "created_at": "2024-05-25 18:13:01 UTC",
+        "processed_at": "2024-05-25 18:13:01 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&hl=en&start=40&as_sdt=0,14",
+        "raw_html_file": "https://serpapi.com/searches/97a9c3e4d76a8342/66522a2d8b7ed212e3e60d48.html",
+        "total_time_taken": 0.83
+    },
+    "search_parameters": {
+        "engine": "google_scholar",
+        "q": "related:NO_JgjoFS4AJ:scholar.google.com",
+        "hl": "en",
+        "start": 40,
+        "as_sdt": "0,14"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 100,
+        "page_number": 5,
+        "time_taken_displayed": 0.03
+    },
+    "organic_results": [
+        {
+            "position": 0,
+            "title": "Leveraging seen and unseen semantic relationships for generative zero-shot learning",
+            "result_id": "-Nf29udCMQgJ",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-58577-8_5",
+            "snippet": "Zero-shot learning (ZSL) addresses the unseen class recognition problem by leveraging semantic information to transfer knowledge from seen classes to unseen classes …",
+            "publication_info": {
+                "summary": "MR Vyas, H Venkateswara, S Panchanathan - Computer Vision–ECCV …, 2020 - Springer",
+                "authors": [
+                    {
+                        "name": "MR Vyas",
+                        "link": "https://scholar.google.com/citations?user=zQYJGIwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zQYJGIwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "zQYJGIwAAAAJ"
+                    },
+                    {
+                        "name": "H Venkateswara",
+                        "link": "https://scholar.google.com/citations?user=0wmiTYoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0wmiTYoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "0wmiTYoAAAAJ"
+                    },
+                    {
+                        "name": "S Panchanathan",
+                        "link": "https://scholar.google.com/citations?user=GKTKZ8kAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GKTKZ8kAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "GKTKZ8kAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2007.09549"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-Nf29udCMQgJ",
+                "cited_by": {
+                    "total": 138,
+                    "link": "https://scholar.google.com/scholar?cites=590326590210496504&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "590326590210496504",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=590326590210496504&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:-Nf29udCMQgJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3A-Nf29udCMQgJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=590326590210496504&hl=en&as_sdt=0,14",
+                    "cluster_id": "590326590210496504",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=590326590210496504&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "Marginalized latent semantic encoder for zero-shot learning",
+            "result_id": "Fc2kMLkgUCoJ",
+            "link": "http://openaccess.thecvf.com/content_CVPR_2019/html/Ding_Marginalized_Latent_Semantic_Encoder_for_Zero-Shot_Learning_CVPR_2019_paper.html",
+            "snippet": "Zero-shot learning has been well explored to precisely identify new unobserved classes through a visual-semantic function obtained from the existing objects. However, there exist …",
+            "publication_info": {
+                "summary": "Z Ding, H Liu - Proceedings of the IEEE/CVF conference on …, 2019 - openaccess.thecvf.com",
+                "authors": [
+                    {
+                        "name": "Z Ding",
+                        "link": "https://scholar.google.com/citations?user=TKbyRRsAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TKbyRRsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "TKbyRRsAAAAJ"
+                    },
+                    {
+                        "name": "H Liu",
+                        "link": "https://scholar.google.com/citations?user=3FqYBw0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3FqYBw0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "3FqYBw0AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "thecvf.com",
+                    "file_format": "PDF",
+                    "link": "http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Marginalized_Latent_Semantic_Encoder_for_Zero-Shot_Learning_CVPR_2019_paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Fc2kMLkgUCoJ",
+                "cited_by": {
+                    "total": 67,
+                    "link": "https://scholar.google.com/scholar?cites=3048972927486971157&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "3048972927486971157",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=3048972927486971157&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Fc2kMLkgUCoJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AFc2kMLkgUCoJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=3048972927486971157&hl=en&as_sdt=0,14",
+                    "cluster_id": "3048972927486971157",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=3048972927486971157&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Fc2kMLkgUCoJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 2,
+            "title": "SR-GAN: Semantic rectifying generative adversarial network for zero-shot learning",
+            "result_id": "JvvPYPa0uK8J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/8784785/",
+            "snippet": "The existing Zero-Shot learning (ZSL) methods may suffer from the vague class attributes that are highly overlapped for different classes. Unlike these methods that ignore the …",
+            "publication_info": {
+                "summary": "Z Ye, F Lyu, L Li, Q Fu, J Ren… - 2019 IEEE international …, 2019 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Z Ye",
+                        "link": "https://scholar.google.com/citations?user=mIw908MAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mIw908MAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "mIw908MAAAAJ"
+                    },
+                    {
+                        "name": "F Lyu",
+                        "link": "https://scholar.google.com/citations?user=eowEXGgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eowEXGgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eowEXGgAAAAJ"
+                    },
+                    {
+                        "name": "J Ren",
+                        "link": "https://scholar.google.com/citations?user=Vsx9P-gAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Vsx9P-gAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Vsx9P-gAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/1904.06996"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=JvvPYPa0uK8J",
+                "cited_by": {
+                    "total": 41,
+                    "link": "https://scholar.google.com/scholar?cites=12662069322631346982&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "12662069322631346982",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12662069322631346982&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:JvvPYPa0uK8J:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AJvvPYPa0uK8J%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=12662069322631346982&hl=en&as_sdt=0,14",
+                    "cluster_id": "12662069322631346982",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=12662069322631346982&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "Transzero: Attribute-guided transformer for zero-shot learning",
+            "result_id": "1BLanmgBr6wJ",
+            "link": "https://ojs.aaai.org/index.php/AAAI/article/view/19909",
+            "snippet": "Zero-shot learning (ZSL) aims to recognize novel classes by transferring semantic knowledge from seen classes to unseen ones. Semantic knowledge is learned from attribute …",
+            "publication_info": {
+                "summary": "S Chen, Z Hong, Y Liu, GS Xie, B Sun, H Li… - Proceedings of the …, 2022 - ojs.aaai.org",
+                "authors": [
+                    {
+                        "name": "S Chen",
+                        "link": "https://scholar.google.com/citations?user=vxJt-MYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vxJt-MYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vxJt-MYAAAAJ"
+                    },
+                    {
+                        "name": "Z Hong",
+                        "link": "https://scholar.google.com/citations?user=j6gyDlIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j6gyDlIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "j6gyDlIAAAAJ"
+                    },
+                    {
+                        "name": "Y Liu",
+                        "link": "https://scholar.google.com/citations?user=t1emSE0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=t1emSE0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "t1emSE0AAAAJ"
+                    },
+                    {
+                        "name": "GS Xie",
+                        "link": "https://scholar.google.com/citations?user=LKaWa9gAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LKaWa9gAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "LKaWa9gAAAAJ"
+                    },
+                    {
+                        "name": "B Sun",
+                        "link": "https://scholar.google.com/citations?user=ZNhTHywAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZNhTHywAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "ZNhTHywAAAAJ"
+                    },
+                    {
+                        "name": "H Li",
+                        "link": "https://scholar.google.com/citations?user=pHN-QIwAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pHN-QIwAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "pHN-QIwAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "aaai.org",
+                    "file_format": "PDF",
+                    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/19909/19668"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1BLanmgBr6wJ",
+                "cited_by": {
+                    "total": 91,
+                    "link": "https://scholar.google.com/scholar?cites=12443165844301288148&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "12443165844301288148",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=12443165844301288148&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:1BLanmgBr6wJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3A1BLanmgBr6wJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cluster=12443165844301288148&hl=en&as_sdt=0,14",
+                    "cluster_id": "12443165844301288148",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=12443165844301288148&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:1BLanmgBr6wJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 4,
+            "title": "Learning robust visual-semantic mapping for zero-shot learning",
+            "result_id": "OogTCiI0g18J",
+            "link": "https://arxiv.org/abs/2104.05668",
+            "snippet": "Zero-shot learning (ZSL) aims at recognizing unseen class examples (eg, images) with knowledge transferred from seen classes. This is typically achieved by exploiting a semantic …",
+            "publication_info": {
+                "summary": "J Guo - arXiv preprint arXiv:2104.05668, 2021 - arxiv.org",
+                "authors": [
+                    {
+                        "name": "J Guo",
+                        "link": "https://scholar.google.com/citations?user=YjSHPjcAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YjSHPjcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "YjSHPjcAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2104.05668"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OogTCiI0g18J",
+                "cited_by": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cites=6882401976354834490&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "6882401976354834490",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=6882401976354834490&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:OogTCiI0g18J:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AOogTCiI0g18J%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 4,
+                    "link": "https://scholar.google.com/scholar?cluster=6882401976354834490&hl=en&as_sdt=0,14",
+                    "cluster_id": "6882401976354834490",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=6882401976354834490&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:OogTCiI0g18J:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 5,
+            "title": "TransZero++: Cross attribute-guided transformer for zero-shot learning",
+            "result_id": "vTA2pPRkP5sJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9987664/",
+            "snippet": "Zero-shot learning (ZSL) tackles the novel class recognition problem by transferring semantic knowledge from seen classes to unseen ones. Semantic knowledge is typically …",
+            "publication_info": {
+                "summary": "S Chen, Z Hong, W Hou, GS Xie, Y Song… - IEEE transactions on …, 2022 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "S Chen",
+                        "link": "https://scholar.google.com/citations?user=vxJt-MYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vxJt-MYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "vxJt-MYAAAAJ"
+                    },
+                    {
+                        "name": "Z Hong",
+                        "link": "https://scholar.google.com/citations?user=j6gyDlIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j6gyDlIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "j6gyDlIAAAAJ"
+                    },
+                    {
+                        "name": "W Hou",
+                        "link": "https://scholar.google.com/citations?user=0AG3lTYAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0AG3lTYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "0AG3lTYAAAAJ"
+                    },
+                    {
+                        "name": "GS Xie",
+                        "link": "https://scholar.google.com/citations?user=LKaWa9gAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LKaWa9gAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "LKaWa9gAAAAJ"
+                    },
+                    {
+                        "name": "Y Song",
+                        "link": "https://scholar.google.com/citations?user=oRhJHmIAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oRhJHmIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "oRhJHmIAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vTA2pPRkP5sJ",
+                "cited_by": {
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cites=11186771001301414077&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "11186771001301414077",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=11186771001301414077&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vTA2pPRkP5sJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AvTA2pPRkP5sJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=11186771001301414077&hl=en&as_sdt=0,14",
+                    "cluster_id": "11186771001301414077",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=11186771001301414077&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Avgzslnet: Audio-visual generalized zero-shot learning by reconstructing label features from multi-modal embeddings",
+            "result_id": "Q-IZarBwcQUJ",
+            "link": "http://openaccess.thecvf.com/content/WACV2021/html/Mazumder_AVGZSLNet_Audio-Visual_Generalized_Zero-Shot_Learning_by_Reconstructing_Label_Features_From_WACV_2021_paper.html",
+            "snippet": "In this paper, we propose a novel approach for generalized zero-shot learning in a multi-modal setting, where we have novel classes of audio/video during testing that are not seen …",
+            "publication_info": {
+                "summary": "P Mazumder, P Singh, KK Parida… - Proceedings of the …, 2021 - openaccess.thecvf.com",
+                "authors": [
+                    {
+                        "name": "P Mazumder",
+                        "link": "https://scholar.google.com/citations?user=WxLYb5QAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WxLYb5QAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "WxLYb5QAAAAJ"
+                    },
+                    {
+                        "name": "P Singh",
+                        "link": "https://scholar.google.com/citations?user=YwDTxJMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YwDTxJMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "YwDTxJMAAAAJ"
+                    },
+                    {
+                        "name": "KK Parida",
+                        "link": "https://scholar.google.com/citations?user=TbkQaFgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TbkQaFgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "TbkQaFgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "thecvf.com",
+                    "file_format": "PDF",
+                    "link": "http://openaccess.thecvf.com/content/WACV2021/papers/Mazumder_AVGZSLNet_Audio-Visual_Generalized_Zero-Shot_Learning_by_Reconstructing_Label_Features_From_WACV_2021_paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=Q-IZarBwcQUJ",
+                "cited_by": {
+                    "total": 28,
+                    "link": "https://scholar.google.com/scholar?cites=392218545554580035&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "392218545554580035",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=392218545554580035&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:Q-IZarBwcQUJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3AQ-IZarBwcQUJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=392218545554580035&hl=en&as_sdt=0,14",
+                    "cluster_id": "392218545554580035",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=392218545554580035&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Q-IZarBwcQUJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Graph-based visual-semantic entanglement network for zero-shot image recognition",
+            "result_id": "iz0on3WpERYJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9437712/",
+            "snippet": "Zero-shot learning uses semantic attributes to connect the search space of unseen objects. In recent years, although the deep convolutional network brings powerful visual modeling …",
+            "publication_info": {
+                "summary": "Y Hu, G Wen, A Chapman, P Yang… - IEEE Transactions …, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Y Hu",
+                        "link": "https://scholar.google.com/citations?user=pUL6_G0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pUL6_G0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "pUL6_G0AAAAJ"
+                    },
+                    {
+                        "name": "G Wen",
+                        "link": "https://scholar.google.com/citations?user=mzxlYjQAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mzxlYjQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "mzxlYjQAAAAJ"
+                    },
+                    {
+                        "name": "A Chapman",
+                        "link": "https://scholar.google.com/citations?user=sHXqNl4AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sHXqNl4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "sHXqNl4AAAAJ"
+                    },
+                    {
+                        "name": "P Yang",
+                        "link": "https://scholar.google.com/citations?user=97CfnB0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=97CfnB0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "97CfnB0AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2006.04648"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iz0on3WpERYJ",
+                "cited_by": {
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cites=1590238466084978059&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "1590238466084978059",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=1590238466084978059&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:iz0on3WpERYJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3Aiz0on3WpERYJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=1590238466084978059&hl=en&as_sdt=0,14",
+                    "cluster_id": "1590238466084978059",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=1590238466084978059&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "An entropy-guided reinforced partial convolutional network for zero-shot learning",
+            "result_id": "DgfEJIPDtO4J",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9698028/",
+            "snippet": "Zero-Shot Learning (ZSL) aims to transfer learned knowledge from observed classes to unseen classes via semantic correlations. A promising strategy is to learn a global-local …",
+            "publication_info": {
+                "summary": "Y Li, Z Liu, L Yao, X Wang, J McAuley… - IEEE Transactions on …, 2022 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "Y Li",
+                        "link": "https://scholar.google.com/citations?user=3SWrQvMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3SWrQvMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "3SWrQvMAAAAJ"
+                    },
+                    {
+                        "name": "L Yao",
+                        "link": "https://scholar.google.com/citations?user=EU3snBgAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EU3snBgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "EU3snBgAAAAJ"
+                    },
+                    {
+                        "name": "X Wang",
+                        "link": "https://scholar.google.com/citations?user=Xej6piMAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xej6piMAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Xej6piMAAAAJ"
+                    },
+                    {
+                        "name": "J McAuley",
+                        "link": "https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=icbo4M0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "icbo4M0AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "arxiv.org",
+                    "file_format": "PDF",
+                    "link": "https://arxiv.org/pdf/2111.02139"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=DgfEJIPDtO4J",
+                "cited_by": {
+                    "total": 18,
+                    "link": "https://scholar.google.com/scholar?cites=17200587844859725582&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "17200587844859725582",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=17200587844859725582&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:DgfEJIPDtO4J:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ADgfEJIPDtO4J%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=17200587844859725582&hl=en&as_sdt=0,14",
+                    "cluster_id": "17200587844859725582",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=17200587844859725582&engine=google_scholar&hl=en"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Zero-shot learning via simultaneous generating and learning",
+            "result_id": "7lE-z4vW10MJ",
+            "link": "https://proceedings.neurips.cc/paper/2019/hash/19ca14e7ea6328a42e0eb13d585e4c22-Abstract.html",
+            "snippet": "To overcome the absence of training data for unseen classes, conventional zero-shot learning approaches mainly train their model on seen datapoints and leverage the semantic …",
+            "publication_info": {
+                "summary": "H Yu, B Lee - Advances in neural information processing …, 2019 - proceedings.neurips.cc",
+                "authors": [
+                    {
+                        "name": "H Yu",
+                        "link": "https://scholar.google.com/citations?user=pa6RBYkAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pa6RBYkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "pa6RBYkAAAAJ"
+                    },
+                    {
+                        "name": "B Lee",
+                        "link": "https://scholar.google.com/citations?user=K7GClZoAAAAJ&hl=en&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K7GClZoAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "K7GClZoAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "neurips.cc",
+                    "file_format": "PDF",
+                    "link": "https://proceedings.neurips.cc/paper/2019/file/19ca14e7ea6328a42e0eb13d585e4c22-Paper.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7lE-z4vW10MJ",
+                "cited_by": {
+                    "total": 54,
+                    "link": "https://scholar.google.com/scholar?cites=4888611816499728878&as_sdt=400005&sciodt=0,14&hl=en",
+                    "cites_id": "4888611816499728878",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=400005&cites=4888611816499728878&engine=google_scholar&hl=en"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:7lE-z4vW10MJ:scholar.google.com/&scioq=&hl=en&as_sdt=0,14",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3A7lE-z4vW10MJ%3Ascholar.google.com%2F&start=40",
+                "versions": {
+                    "total": 7,
+                    "link": "https://scholar.google.com/scholar?cluster=4888611816499728878&hl=en&as_sdt=0,14",
+                    "cluster_id": "4888611816499728878",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C14&cluster=4888611816499728878&engine=google_scholar&hl=en"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:7lE-z4vW10MJ:scholar.google.com/&hl=en&as_sdt=0,14"
+            }
+        }
+    ],
+    "pagination": {
+        "current": 5,
+        "previous": "https://scholar.google.com/scholar?start=30&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+        "next": "https://scholar.google.com/scholar?start=50&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+        "other_pages": {
+            "1": "https://scholar.google.com/scholar?start=0&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "2": "https://scholar.google.com/scholar?start=10&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "3": "https://scholar.google.com/scholar?start=20&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "4": "https://scholar.google.com/scholar?start=30&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "6": "https://scholar.google.com/scholar?start=50&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "7": "https://scholar.google.com/scholar?start=60&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "8": "https://scholar.google.com/scholar?start=70&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "9": "https://scholar.google.com/scholar?start=80&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14",
+            "10": "https://scholar.google.com/scholar?start=90&q=related:NO_JgjoFS4AJ:scholar.google.com&hl=en&as_sdt=0,14"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 5,
+        "previous_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=30",
+        "previous": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=30",
+        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=50",
+        "next": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=50",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=0",
+            "2": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=10",
+            "3": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=20",
+            "4": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=30",
+            "6": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=50",
+            "7": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=60",
+            "8": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=70",
+            "9": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=80",
+            "10": "https://serpapi.com/search.json?as_sdt=0%2C14&engine=google_scholar&hl=en&q=related%3ANO_JgjoFS4AJ%3Ascholar.google.com&start=90"
+        }
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "search_metadata": {
+        "id": "665242983944b0ea30cc660d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c3ac3f13a0a23f11/665242983944b0ea30cc660d.json",
+        "created_at": "2024-05-25 19:57:12 UTC",
+        "processed_at": "2024-05-25 19:57:12 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c3ac3f13a0a23f11/665242983944b0ea30cc660d.html",
+        "total_time_taken": 1.91
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:proceedings.mlr.press LLM",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:proceedings.mlr.press LLM",
+        "total_results": 6780,
+        "time_taken_displayed": 0.2,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&q=site%3Aproceedings.mlr.press+LLM&udm=2&source=univ&fir=EByv_rZO-mPyzM%252CNo0lNH02dnEZ_M%252C_%253BsoaeZEt1M8ZVUM%252CNo0lNH02dnEZ_M%252C_%253BJL2w0tawv4D8XM%252CRzzCUH1cm1NiYM%252C_%253BgbCqaFM1viHHzM%252C_8UtUcsJlcGNXM%252C_%253BObGICHBOTw6P-M%252CpnHM5HTUOnolOM%252C_%253B4Sm1xbbI1nk1XM%252C_8UtUcsJlcGNXM%252C_%253BoZo6nFu1JHLlwM%252CHNlHBU2C9O3jsM%252C_%253BaUDedC05HtGF3M%252C2oftKxVh5KHHbM%252C_%253BhoROSQj9s-9y3M%252CRzzCUH1cm1NiYM%252C_%253Bf2Wu_8PpLKQ_1M%252CyPkEBLshHE9qkM%252C_&usg=AI4_-kSXgTJG1b1TyGcoVPQ9VdzFgigbOg&sa=X&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQ9AF6BAgYEAA#imgrc=EByv_rZO-mPyzM",
+            "source": "https://proceedings.mlr.press/v205/shah23b/shah23b.pdf",
+            "thumbnail": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/5d2d61ec46b05ed15265c88f021cae95b2a3465b30e43e42eb77cec6482b5d11.jpeg",
+            "original": "x-raw-image:///63fa4eb6feaf1c10cbd7338413c4b0edeeb249ce768211afbb1201ac1f987a60",
+            "title": "LM-Nav: Robotic Navigation with Large Pre-Trained Models of ...",
+            "source_name": "Proceedings of Machine Learning Research"
+        },
+        {
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&q=site%3Aproceedings.mlr.press+LLM&udm=2&source=univ&fir=EByv_rZO-mPyzM%252CNo0lNH02dnEZ_M%252C_%253BsoaeZEt1M8ZVUM%252CNo0lNH02dnEZ_M%252C_%253BJL2w0tawv4D8XM%252CRzzCUH1cm1NiYM%252C_%253BgbCqaFM1viHHzM%252C_8UtUcsJlcGNXM%252C_%253BObGICHBOTw6P-M%252CpnHM5HTUOnolOM%252C_%253B4Sm1xbbI1nk1XM%252C_8UtUcsJlcGNXM%252C_%253BoZo6nFu1JHLlwM%252CHNlHBU2C9O3jsM%252C_%253BaUDedC05HtGF3M%252C2oftKxVh5KHHbM%252C_%253BhoROSQj9s-9y3M%252CRzzCUH1cm1NiYM%252C_%253Bf2Wu_8PpLKQ_1M%252CyPkEBLshHE9qkM%252C_&usg=AI4_-kSXgTJG1b1TyGcoVPQ9VdzFgigbOg&sa=X&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQ9AF6BAgZEAA#imgrc=soaeZEt1M8ZVUM",
+            "source": "https://proceedings.mlr.press/v205/shah23b/shah23b.pdf",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCACvx_AIS-DtasebVtOPKQ55V78qSY81mXYtslNKCfh6GW6dAdRaVxm2Nw&s",
+            "original": "x-raw-image:///c633754b649e86b249f6449e5dcc67ee6cd4b4f092758b325fe8a79c34cb4173",
+            "title": "LM-Nav: Robotic Navigation with Large Pre-Trained Models of ...",
+            "source_name": "Proceedings of Machine Learning Research"
+        },
+        {
+            "link": "https://www.google.com/search?sca_esv=afccc90938daadff&q=site%3Aproceedings.mlr.press+LLM&udm=2&source=univ&fir=EByv_rZO-mPyzM%252CNo0lNH02dnEZ_M%252C_%253BsoaeZEt1M8ZVUM%252CNo0lNH02dnEZ_M%252C_%253BJL2w0tawv4D8XM%252CRzzCUH1cm1NiYM%252C_%253BgbCqaFM1viHHzM%252C_8UtUcsJlcGNXM%252C_%253BObGICHBOTw6P-M%252CpnHM5HTUOnolOM%252C_%253B4Sm1xbbI1nk1XM%252C_8UtUcsJlcGNXM%252C_%253BoZo6nFu1JHLlwM%252CHNlHBU2C9O3jsM%252C_%253BaUDedC05HtGF3M%252C2oftKxVh5KHHbM%252C_%253BhoROSQj9s-9y3M%252CRzzCUH1cm1NiYM%252C_%253Bf2Wu_8PpLKQ_1M%252CyPkEBLshHE9qkM%252C_&usg=AI4_-kSXgTJG1b1TyGcoVPQ9VdzFgigbOg&sa=X&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQ9AF6BAgaEAA#imgrc=JL2w0tawv4D8XM",
+            "source": "https://proceedings.mlr.press/v229/ha23a/ha23a.pdf",
+            "thumbnail": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/5d2d61ec46b05ed12ce87fff7209c2ca7a6a787a4885e0a9696b1b62aefb1428.jpeg",
+            "original": "x-raw-image:///80bfb0d6d2b0bd24381532d5a7c953661ed3a9be8bbe79f249e6e400a91aad01",
+            "title": "Scaling Up and Distilling Down: Language-Guided Robot Skill ...",
+            "source_name": "Proceedings of Machine Learning Research - mlr.press"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "thumbnail": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/9995fdc0875f6e8c8a13f7276d01bfb5ca6a95a1e731d315.jpeg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "TabLLM: Few-shot Classification of Tabular Data with Large ...",
+            "link": "https://proceedings.mlr.press/v206/hegselmann23a/hegselmann23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v206/hegselmann23a/hegselmann23a.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECBsQAQ&usg=AOvVaw2k_sxzAvic7ceyVHWPr8TI",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f7f04af2d1d4d378c9d5aec1e430852b56.png",
+            "author": "by S Hegselmann",
+            "cited_by": "Cited by 112",
+            "extracted_cited_by": 112,
+            "date": "2023",
+            "snippet": "Large Language Models For Classification TabLLM can be used with different LLMs that generate text based on a natural-language input. Let LLM be an LLM with.",
+            "snippet_highlighted_words": [
+                "LLM",
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 33
+                    },
+                    "extensions": [
+                        "33 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 2,
+            "title": "Zero-Shot ECG Diagnosis with Large Language Models and ...",
+            "link": "https://proceedings.mlr.press/v225/yu23b/yu23b.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v225/yu23b/yu23b.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECCAQAQ&usg=AOvVaw29kFSyiy7EGgb9sd-DkGSN",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f780086a4d4326c6e86c0a44de7ceeed4a.png",
+            "author": "by H Yu",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2023",
+            "snippet": "Moreover, previous LLM-based studies inferred. ECG conditions by fine-tuning the prompts that per- form the diagnosis process primarily using the in- trinsic ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 14
+                    },
+                    "extensions": [
+                        "14 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 3,
+            "title": "Large Language Models Struggle to Learn Long-Tail ...",
+            "link": "https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/kandpal23a/kandpal23a.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECB0QAQ&usg=AOvVaw2kvzzFN4WNP_jAAMAjX02N",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f71e5654f73f895ca16d1a253ddca45344.png",
+            "author": "by N Kandpal",
+            "cited_by": "Cited by 173",
+            "extracted_cited_by": 173,
+            "date": "2023",
+            "snippet": "In this work, we explore the relationship between the knowl- edge learned by an LLM and the information in its pre- training dataset. Specifically, we study how ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 12
+                    },
+                    "extensions": [
+                        "12 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 4,
+            "title": "Extracting Actionable Knowledge for Embodied Agents",
+            "link": "https://proceedings.mlr.press/v162/huang22a/huang22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v162/huang22a/huang22a.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECB8QAQ&usg=AOvVaw0HQ-Xx-vFp99KUhkthhRUF",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f72fde3df3791e9788de94a1346dd9996e.png",
+            "author": "by W Huang",
+            "cited_by": "Cited by 647",
+            "extracted_cited_by": 647,
+            "date": "2022",
+            "snippet": "Can world knowledge learned by large language models (LLMs) be used to act in interactive envi- ronments? In this paper, we investigate the pos-.",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 30
+                    },
+                    "extensions": [
+                        "30 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 5,
+            "title": "Prompting Large Language Model for Machine Translation",
+            "link": "https://proceedings.mlr.press/v202/zhang23m/zhang23m.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/zhang23m/zhang23m.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECB4QAQ&usg=AOvVaw30grYDejGVrLw6d8mKHHRq",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f76fa97fde532dabc151cb19cf5c89b143.png",
+            "author": "by B Zhang",
+            "cited_by": "Cited by 99",
+            "extracted_cited_by": 99,
+            "date": "2023",
+            "snippet": "Setting We experiment with GLM-130B, a LLM with. 130B parameters pretrained on Chinese and English “mono- lingual” corpora, which was reported to outperform GPT ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 6,
+            "title": "PAL: Program-aided Language Models",
+            "link": "https://proceedings.mlr.press/v202/gao23f.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/gao23f.html&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECC0QAQ&usg=AOvVaw0PCLQKe4fvNYIvm6NGTtkh",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f7e7a1eeb3b6becd8fefc234da65b94e9d.png",
+            "author": "by L Gao",
+            "cited_by": "Cited by 401",
+            "extracted_cited_by": 401,
+            "date": "2023",
+            "snippet": "In this paper, we present Program-Aided Language models (PAL): a novel approach that uses the LLM ... LLM, while solving is delegated to the interpreter. We ...",
+            "snippet_highlighted_words": [
+                "LLM",
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 7,
+            "title": "Scaling Up and Distilling Down: Language-Guided Robot Skill ...",
+            "link": "https://proceedings.mlr.press/v229/ha23a/ha23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v229/ha23a/ha23a.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECCwQAQ&usg=AOvVaw3rPH2aNMAA6VORUKiMH--2",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f760e8046e9d8ed74c378ef8df88915a0c.png",
+            "author": "by H Ha",
+            "cited_by": "Cited by 46",
+            "extracted_cited_by": 46,
+            "date": "2023",
+            "snippet": "For (1), we use a large language model (LLM) to guide high-level planning, and sampling-based robot planners. (e.g. motion or grasp samplers) for generating ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 12
+                    },
+                    "extensions": [
+                        "12 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 8,
+            "title": "Embodied Decision Making using Language Guided World ...",
+            "link": "https://proceedings.mlr.press/v202/nottingham23a/nottingham23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/nottingham23a/nottingham23a.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECC4QAQ&usg=AOvVaw08N6U_-B4l6B5rz3EweLA7",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f70f0eece219d2ccb9a1c148cb86b5c473.png",
+            "author": "by K Nottingham",
+            "cited_by": "Cited by 39",
+            "extracted_cited_by": 39,
+            "date": "2023",
+            "snippet": "We propose using few-shot large language models. (LLMs) to hypothesize an AWM, that will be veri- fied through world experience, to improve sample efficiency of ...",
+            "source": "mlr.press"
+        },
+        {
+            "position": 9,
+            "title": "Grounding Large Language Models in Interactive ...",
+            "link": "https://proceedings.mlr.press/v202/carta23a/carta23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/carta23a/carta23a.pdf&ved=2ahUKEwj9nN2Fy6mGAxVHjYkEHS_kDWgQFnoECCsQAQ&usg=AOvVaw0HeuU4KaJFObxMflYM98Ey",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/665242983944b0ea30cc660d/images/cef37e590de4d7e75d24b525edf717f7c12f098f0637122c7f1a7175f6b805fe.png",
+            "author": "by T Carta",
+            "cited_by": "Cited by 85",
+            "extracted_cited_by": 85,
+            "date": "2023",
+            "snippet": "Recent works successfully leveraged Large Lan- guage Models' (LLM) abilities to capture ab- stract knowledge about world's physics to solve.",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=40"
+        }
+    }
+}

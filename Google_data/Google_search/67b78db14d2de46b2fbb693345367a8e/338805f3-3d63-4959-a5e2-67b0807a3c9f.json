@@ -1,0 +1,206 @@
+{
+    "search_metadata": {
+        "id": "665229ea116a553e6cc5f5c0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bb5209caf9ba7de3/665229ea116a553e6cc5f5c0.json",
+        "created_at": "2024-05-25 18:11:54 UTC",
+        "processed_at": "2024-05-25 18:11:54 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/bb5209caf9ba7de3/665229ea116a553e6cc5f5c0.html",
+        "total_time_taken": 3.16
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:papers.nips.cc NLP",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:papers.nips.cc NLP",
+        "total_results": 48800,
+        "page_number": 2,
+        "time_taken_displayed": 0.25,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Generating Training Data with Language Models",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIDhAB",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520dfb72492e8c6a4a2f3a3ae2763b0867fc.png",
+            "author": "by Y Meng",
+            "cited_by": "Cited by 133",
+            "extracted_cited_by": 133,
+            "date": "2022",
+            "snippet": "In this paper, we present a simple approach that uses both types of PLMs for fully zero-shot learning of NLU tasks without requiring any task-specific data: A ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 2,
+            "title": "Large Language Models are Zero-Shot Reasoners",
+            "link": "http://papers.nips.cc/paper_files/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://papers.nips.cc/paper_files/paper/2022/hash/8bb0d291acd4acf06ef112099c16f326-Abstract-Conference.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIEhAB",
+            "displayed_link": "http://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d5e0a3234b7d49431ca9546cb8e7285cf.png",
+            "author": "by T Kojima",
+            "cited_by": "Cited by 2019",
+            "extracted_cited_by": 2019,
+            "date": "2022",
+            "snippet": "The versatility of this single prompt across very diverse reasoning tasks hints at untapped and understudied fundamental zero-shot capabilities of LLMs, ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 3,
+            "title": "Neural Word Embedding as Implicit Matrix Factorization",
+            "link": "https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIERAB",
+            "displayed_link": "https://papers.nips.cc › paper › 5477-neural-wor...",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d1ee29a74e08256e5accb402d8863b4a5.png",
+            "author": "by O Levy",
+            "cited_by": "Cited by 2506",
+            "snippet": "Most tasks in natural language processing and understanding involve looking at words, and could benefit from word representations that do not treat individual ...",
+            "snippet_highlighted_words": [
+                "natural language processing"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 4,
+            "title": "Dialog-based Language Learning",
+            "link": "https://papers.nips.cc/paper/6264-dialog-based-language-learning",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/6264-dialog-based-language-learning&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIDRAB",
+            "displayed_link": "https://papers.nips.cc › paper › 6264-dialog-based-lang...",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520de2eb6812614ee69d5ee268f6e7fac579.png",
+            "author": "by JE Weston",
+            "cited_by": "Cited by 150",
+            "extracted_cited_by": 150,
+            "date": "2016",
+            "snippet": "This kind of supervision is not realistic of how humans learn, where language is both learned by, and used for, communication. In this work, we study dialog- ...",
+            "snippet_highlighted_words": [
+                "language"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 5,
+            "title": "Are GANs overkill for NLP?",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/3b54ff26ae928fb2f111198c75f6a7e3-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/hash/3b54ff26ae928fb2f111198c75f6a7e3-Abstract-Conference.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIDBAB",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d3794e0a53dbd2c4850be99b7a5e83148.png",
+            "author": "by D Alvarez-Melis",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2022",
+            "snippet": "This work offers a novel theoretical perspective on why, despite numerous attempts, adversarial approaches to generative modeling (e.g., GANs) have not been as ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 6,
+            "title": "Retrieval-Augmented Generation for Knowledge-Intensive ...",
+            "link": "https://papers.nips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIDxAB",
+            "displayed_link": "https://papers.nips.cc › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d8e83528e4d7b03827f2a974d18afe2ac.png",
+            "author": "by P Lewis",
+            "cited_by": "Cited by 2140",
+            "extracted_cited_by": 2140,
+            "date": "2020",
+            "snippet": "... NLP tasks. However, their ability to access and precisely manipulate knowledge is still limited, and hence on knowledge-intensive tasks, their performance ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 7,
+            "title": "An NLP Benchmark Dataset for Assessing Corporate ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2023/hash/7ccaa4f9a89cce6619093226f26b84e6-Abstract-Datasets_and_Benchmarks.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2023/hash/7ccaa4f9a89cce6619093226f26b84e6-Abstract-Datasets_and_Benchmarks.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIExAB",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d85c35dc01050aed89023223e2fd37165.png",
+            "snippet": "Abstract. As societal awareness of climate change grows, corporate climate policy engagements are attracting attention.We propose a dataset to estimate ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 8,
+            "title": "Measuring and Reducing Model Update Regression in ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/7af8e3dfefe6e3141144197b8fa44f79-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/hash/7af8e3dfefe6e3141144197b8fa44f79-Abstract-Conference.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIJhAB",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d9b8eacc2b2bfe903edf6b91cf27c85f1.png",
+            "author": "by D Cai",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2022",
+            "snippet": "Abstract. Recent advance in deep learning has led to rapid adoption of machine learning based NLP models in a wide range of applications. Despite the continuous ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 9,
+            "title": "Natural Language Instruction-following with Task ... - NIPS",
+            "link": "https://papers.nips.cc/paper_files/paper/2023/hash/1dc2fe8d9ae956616f86bab3ce5edc59-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2023/hash/1dc2fe8d9ae956616f86bab3ce5edc59-Abstract-Conference.html&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIIhAB",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d534d29bf96461f9ad5a69079b6b57692.png",
+            "author": "by JC Pang",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2024",
+            "snippet": "Abstract. Natural language-conditioned reinforcement learning (RL) enables agents to follow human instructions. Previous approaches generally implemented ...",
+            "snippet_highlighted_words": [
+                "Natural language"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 10,
+            "title": "Hierarchical Decision Making by Generating and Following ...",
+            "link": "https://papers.nips.cc/paper/9193-hierarchical-decision-making-by-generating-and-following-natural-language-instructions",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/9193-hierarchical-decision-making-by-generating-and-following-natural-language-instructions&ved=2ahUKEwj5pfnBs6mGAxV0vokEHbvzCrk4ChAWegQIIRAB",
+            "displayed_link": "https://papers.nips.cc › paper › 9193-hierarchical-decisi...",
+            "favicon": "https://serpapi.com/searches/665229ea116a553e6cc5f5c0/images/ad586fd6d042b624afe69a956dd1520d4fbd02d96b32970d6d75f7750c7880ac.png",
+            "author": "by H Hu",
+            "cited_by": "Cited by 61",
+            "extracted_cited_by": 61,
+            "date": "2019",
+            "snippet": "Authors. Hengyuan Hu, Denis Yarats, Qucheng Gong, Yuandong Tian, Mike Lewis. Abstract. We explore using latent natural language instructions as an ...",
+            "snippet_highlighted_words": [
+                "natural language"
+            ],
+            "source": "nips.cc"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=40"
+        }
+    }
+}

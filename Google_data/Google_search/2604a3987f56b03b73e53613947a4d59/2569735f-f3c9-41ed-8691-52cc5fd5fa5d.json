@@ -1,0 +1,259 @@
+{
+    "search_metadata": {
+        "id": "66523efd7f8361bdff0df1ab",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c1acd963853c1bac/66523efd7f8361bdff0df1ab.json",
+        "created_at": "2024-05-25 19:41:49 UTC",
+        "processed_at": "2024-05-25 19:41:49 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c1acd963853c1bac/66523efd7f8361bdff0df1ab.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:proceedings.mlr.press NLP",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:proceedings.mlr.press NLP",
+        "total_results": 34700,
+        "time_taken_displayed": 0.25,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Towards a Deep and Unified Understanding of Deep Neural ...",
+            "link": "https://proceedings.mlr.press/v97/guan19a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v97/guan19a.html&usg=AOvVaw3ReaowSZ64paw6ujWzHhBA",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acf9f2dc3bd7bb31d8d681707bede8b483f.png",
+            "author": "by C Guan",
+            "cited_by": "Cited by 117",
+            "extracted_cited_by": 117,
+            "date": "2019",
+            "snippet": "We define a unified information-based measure to provide quantitative explanations on how intermediate layers of deep Natural Language Processing (NLP) ...",
+            "snippet_highlighted_words": [
+                "Natural Language Processing",
+                "NLP"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 2,
+            "title": "Parameter-Efficient Transfer Learning for NLP",
+            "link": "https://proceedings.mlr.press/v97/houlsby19a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v97/houlsby19a.html&usg=AOvVaw31lsuqWLwFnSc-n2wsrM91",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acff016fb21d80db614d195ccc40742909f.png",
+            "author": "by N Houlsby",
+            "cited_by": "Cited by 2871",
+            "extracted_cited_by": 2871,
+            "date": "2019",
+            "snippet": "Abstract. Fine-tuning large pretrained models is an effective transfer mechanism in NLP. However, in the presence of many downstream tasks, fine-tuning is ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 3,
+            "title": "Blessing of Class Diversity in Pre-training",
+            "link": "https://proceedings.mlr.press/v206/zhao23a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v206/zhao23a.html&usg=AOvVaw33SM2bzcZHCD6OLj4CSFm7",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acf0fb736044f3bb1c69397ecc911faf2db.png",
+            "author": "by Y Zhao",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2023",
+            "snippet": "This paper presents a new statistical analysis aiming to explain the recent superior achievements of the pre-training techniques in natural language processing ...",
+            "snippet_highlighted_words": [
+                "natural language processing"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 4,
+            "title": "Describing Differences between Text Distributions with ...",
+            "link": "https://proceedings.mlr.press/v162/zhong22a/zhong22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v162/zhong22a/zhong22a.pdf&usg=AOvVaw1Ka60htL77IF5s6_MhFAfZ",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acfb69fc1572c20a87f1ab884521dbbed76.png",
+            "author": "by R Zhong",
+            "cited_by": "Cited by 19",
+            "extracted_cited_by": 19,
+            "date": "2022",
+            "snippet": "We propose to automatically describe the differences by “learning a natural lan- guage hypothesis”: given two distributions D0 and D1, we search for a ...",
+            "snippet_highlighted_words": [
+                "natural"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 18
+                    },
+                    "extensions": [
+                        "18 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 5,
+            "title": "Towards a Deep and Unified Understanding of Deep Neural ...",
+            "link": "http://proceedings.mlr.press/v97/guan19a/guan19a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=http://proceedings.mlr.press/v97/guan19a/guan19a.pdf&usg=AOvVaw2g-Xe3yg6BOMvLAHlQv6TQ",
+            "displayed_link": "http://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acf612c7ed58f68bac76f32214132b21f65.png",
+            "author": "by C Guan",
+            "cited_by": "Cited by 117",
+            "extracted_cited_by": 117,
+            "date": "2019",
+            "snippet": "By examining these issues, we move towards a deep (aware of intermediate layers) and unified (coherent) understanding of neural models. We use models in NLP as ...",
+            "snippet_highlighted_words": [
+                "neural",
+                "NLP"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 10
+                    },
+                    "extensions": [
+                        "10 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 6,
+            "title": "Parameter-Efficient Transfer Learning for NLP",
+            "link": "https://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf&usg=AOvVaw1WW7yNXC_jHhshjR-3Bvql",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acf0104d0a56a0cd4ce247c14d170067097.png",
+            "author": "by N Houlsby",
+            "cited_by": "Cited by 2871",
+            "snippet": "Transfer from pre-trained models yields strong performance on many NLP tasks (Dai & Le, 2015; Howard & Ruder,. 2018; Radford et al., 2018). BERT, a Transformer ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 10
+                    },
+                    "extensions": [
+                        "10 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 7,
+            "title": "NLP From Scratch Without Large-Scale Pretraining",
+            "link": "https://proceedings.mlr.press/v162/yao22c/yao22c.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v162/yao22c/yao22c.pdf&usg=AOvVaw0NMeur9Yu2uTwhCP2tEyRO",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acfacb91bbbf1abc5a25441bd2ca31bab24.png",
+            "author": "by X Yao",
+            "cited_by": "Cited by 38",
+            "extracted_cited_by": 38,
+            "date": "2022",
+            "snippet": "Pretrained language models have become the stan- dard approach for many NLP tasks due to strong performance, but they are very expensive to train.",
+            "snippet_highlighted_words": [
+                "language",
+                "NLP"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 8,
+            "title": "Controlled Text Generation with Natural Language Instructions",
+            "link": "https://proceedings.mlr.press/v202/zhou23g.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v202/zhou23g.html&usg=AOvVaw1cF1C_JyISDxDwCf6QSunV",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acf6320f13e3c9e80c1da4d4216dc0a3127.png",
+            "author": "by W Zhou",
+            "cited_by": "Cited by 34",
+            "extracted_cited_by": 34,
+            "date": "2023",
+            "snippet": "We annotate natural texts through a combination of off-the-shelf NLP tools and simple heuristics with the linguistic and extra-linguistic constraints they ...",
+            "snippet_highlighted_words": [
+                "natural",
+                "NLP"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 9,
+            "title": "Scaling Up Visual and Vision-Language Representation ...",
+            "link": "https://proceedings.mlr.press/v139/jia21b.html",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v139/jia21b.html&usg=AOvVaw1kxdZYcufTFPFwwTYo_IGx",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acfb23960c10878c2c9125d17e57cbaf60e.png",
+            "author": "by C Jia",
+            "cited_by": "Cited by 2598",
+            "extracted_cited_by": 2598,
+            "date": "2021",
+            "snippet": "A simple dual-encoder architecture learns to align visual and language representations of the image and text pairs using a contrastive loss. We show that the ...",
+            "snippet_highlighted_words": [
+                "language"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 10,
+            "title": "TOPOLOGICAL STRUCTURE IN NATURAL LANGUAGE DATA",
+            "link": "https://proceedings.mlr.press/v196/fitz22a/fitz22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&url=https://proceedings.mlr.press/v196/fitz22a/fitz22a.pdf&usg=AOvVaw0NKU3gkuLl15l2FZBGIPo0",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523efd7f8361bdff0df1ab/images/c79753151c9e0a6d328d5d8a99c97acfb4b0fe2a58ec680d1da3d01b55fd7ffb.png",
+            "author": "by S Fitz",
+            "date": "2022",
+            "snippet": "This paper presents a novel method, based on the ideas from algebraic topology, for the analysis of raw natural language text. The paper introduces the ...",
+            "snippet_highlighted_words": [
+                "natural language"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 9
+                    },
+                    "extensions": [
+                        "9 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=40"
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "search_metadata": {
+        "id": "66523eff79627cf2126d6a59",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8aa21c6e6e51c358/66523eff79627cf2126d6a59.json",
+        "created_at": "2024-05-25 19:41:51 UTC",
+        "processed_at": "2024-05-25 19:41:51 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8aa21c6e6e51c358/66523eff79627cf2126d6a59.html",
+        "total_time_taken": 1.14
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:proceedings.mlr.press NLP",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:proceedings.mlr.press NLP",
+        "total_results": 42200,
+        "page_number": 2,
+        "time_taken_displayed": 0.35,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "What Language Model Architecture and Pretraining Objective ...",
+            "link": "https://proceedings.mlr.press/v162/wang22u.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v162/wang22u.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIDxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb0ce0c8c0584fdbb17132758c00eb6003a.png",
+            "author": "by T Wang",
+            "cited_by": "Cited by 100",
+            "extracted_cited_by": 100,
+            "date": "2022",
+            "snippet": "Abstract. Large pretrained Transformer language models have been shown to exhibit zero-shot generalization, i.e. they can perform a wide variety of tasks that ...",
+            "snippet_highlighted_words": [
+                "language"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 2,
+            "title": "Sketching Transformed Matrices with Applications to Natural ...",
+            "link": "https://proceedings.mlr.press/v108/liang20a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v108/liang20a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIFRAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb02c805e9a8e00df824bcdab33de1bcf6b.png",
+            "author": "by Y Liang",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2020",
+            "snippet": "Many machine learning applications indeed need to deal with such large transformed matrices, for example word embedding method in NLP needs to work with the ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 3,
+            "title": "Retrieval Augmented Language Model Pre-Training",
+            "link": "https://proceedings.mlr.press/v119/guu20a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v119/guu20a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIDhAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb090130b0b55350ac82b6cd9d41f604080.png",
+            "author": "by K Guu",
+            "cited_by": "Cited by 1441",
+            "extracted_cited_by": 1441,
+            "date": "2020",
+            "snippet": "To capture knowledge in a more modular and interpretable way, we augment language model pre-training with a latent knowledge retriever, which allows the model ...",
+            "snippet_highlighted_words": [
+                "language"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 4,
+            "title": "How could Neural Networks understand Programs?",
+            "link": "https://proceedings.mlr.press/v139/peng21b.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v139/peng21b.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIERAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb09a894d50bfa6be2fa6edd850a2c2e195.png",
+            "author": "by D Peng",
+            "cited_by": "Cited by 56",
+            "extracted_cited_by": 56,
+            "date": "2021",
+            "snippet": "How could Neural Networks understand Programs?Dinglan Peng, Shuxin Zheng, Yatao Li, Guolin Ke, Di He, Tie-Yan LiuSemantic understand...",
+            "snippet_highlighted_words": [
+                "Neural"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 5,
+            "title": "Calibration of Natural Language Understanding Models with ...",
+            "link": "https://proceedings.mlr.press/v179/giovannotti22a/giovannotti22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v179/giovannotti22a/giovannotti22a.pdf&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIFBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb0893f60cf3d80538344cec9690cca447e.png",
+            "author": "by P Giovannotti",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2022",
+            "snippet": "We test their performance over a set of diverse NLU tasks and show that they are capable of producing well-calibrated probabilistic predictions that are ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 17
+                    },
+                    "extensions": [
+                        "17 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 6,
+            "title": "Large Language Models Can Be Easily Distracted by ...",
+            "link": "https://proceedings.mlr.press/v202/shi23a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/shi23a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIEBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb08ba166ba4e930bdb4a1cc795b3795b51.png",
+            "author": "by F Shi",
+            "cited_by": "Cited by 136",
+            "extracted_cited_by": 136,
+            "date": "2023",
+            "snippet": "%0 Conference Paper %T Large Language Models Can Be Easily Distracted by Irrelevant Context %A Freda Shi %A Xinyun Chen %A Kanishka Misra %A Nathan Scales %A ...",
+            "snippet_highlighted_words": [
+                "Language"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 7,
+            "title": "Towards Understanding Situated Natural Language",
+            "link": "https://proceedings.mlr.press/v9/bordes10a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v9/bordes10a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIEhAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb05b73010e5aa78db2267fca9d716b932e.png",
+            "author": "by A Bordes",
+            "cited_by": "Cited by 40",
+            "extracted_cited_by": 40,
+            "date": "2010",
+            "snippet": "Our method allows both world knowledge and linguistic information to be used during learning and prediction. We show experimentally that we can learn to use ...",
+            "source": "mlr.press"
+        },
+        {
+            "position": 8,
+            "title": "A journey into the Generative AI and large language models",
+            "link": "https://proceedings.mlr.press/v217/elnaggar23a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v217/elnaggar23a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIKRAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb011c551253ce95fa561c234a5b15a3e83.png",
+            "author": "by A Elnaggar",
+            "date": "2023",
+            "snippet": "Abstract. In the last year, the generative AI field has seen a remarkable breakthrough, specifically the generative ai models and their ...",
+            "source": "mlr.press"
+        },
+        {
+            "position": 9,
+            "title": "The Natural Language of Actions",
+            "link": "https://proceedings.mlr.press/v97/tennenholtz19a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v97/tennenholtz19a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIIxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb0a6d0ce2046ffd755b72368e36d192709.png",
+            "author": "by G Tennenholtz",
+            "cited_by": "Cited by 64",
+            "extracted_cited_by": 64,
+            "date": "2019",
+            "snippet": "The Natural Language of ActionsGuy Tennenholtz, Shie MannorWe introduce Act2Vec, a general framework for learning context-based action representation fo...",
+            "snippet_highlighted_words": [
+                "Natural Language"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 10,
+            "title": "Efficient Training of Language Models using Few-Shot Learning",
+            "link": "https://proceedings.mlr.press/v202/j-reddi23a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/j-reddi23a.html&ved=2ahUKEwjs5pXOx6mGAxU2EmIAHVsWDWc4ChAWegQIJhAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/66523eff79627cf2126d6a59/images/ace111210ccf2b68ed5cbd133af24fb0ee4997171f7746ff4ab715da83962377.png",
+            "author": "by SJ Reddi",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2023",
+            "snippet": "We show that, by leveraging the fast learning nature of few-shot learners, one can train language models efficiently in a stagewise manner. Our main ...",
+            "snippet_highlighted_words": [
+                "language"
+            ],
+            "source": "mlr.press"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+NLP&oq=site%3Aproceedings.mlr.press+NLP&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+NLP&start=40"
+        }
+    }
+}

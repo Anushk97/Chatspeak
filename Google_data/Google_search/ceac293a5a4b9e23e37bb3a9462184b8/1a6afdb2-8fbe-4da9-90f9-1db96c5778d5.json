@@ -1,0 +1,258 @@
+{
+    "search_metadata": {
+        "id": "6652420f234884b0c7733fd5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8cde2dedbbc00832/6652420f234884b0c7733fd5.json",
+        "created_at": "2024-05-25 19:54:55 UTC",
+        "processed_at": "2024-05-25 19:54:55 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8cde2dedbbc00832/6652420f234884b0c7733fd5.html",
+        "total_time_taken": 0.86
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org computer vision",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org computer vision",
+        "total_results": 21000,
+        "page_number": 2,
+        "time_taken_displayed": 0.27,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Visual Attention Model for Name Tagging in Multimodal ...",
+            "link": "https://aclanthology.org/P18-1185.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/P18-1185.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIDBAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daafff21861287c24574806c19d2288e787.png",
+            "author": "by D Lu",
+            "cited_by": "Cited by 216",
+            "snippet": "Deep residual learning for image recog- nition. In Proceedings of the IEEE conference on computer vision and pattern recognition. Sepp Hochreiter and Jürgen ...",
+            "snippet_highlighted_words": [
+                "computer vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Meta-learning For Vision-and-language Cross-lingual ...",
+            "link": "https://aclanthology.org/2023.mrl-1.2.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.mrl-1.2.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIERAB",
+            "displayed_link": "https://aclanthology.org › 2023.mrl-1.2.pdf",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daacd7cdb17c9bec5131f7bbfe2061f34f2.png",
+            "author": "by H Hu",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2023",
+            "snippet": "(2021) proposed UC2, a model using a data augmentation method based on machine translation for cross-lingual cross-modal pre-training. Although ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 12
+                    },
+                    "extensions": [
+                        "12 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Integrating Language and Vision to Generate Natural ...",
+            "link": "https://aclanthology.org/C14-1115.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/C14-1115.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIExAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daa413ad92bcf903c5147abcfe014ad838a.png",
+            "author": "by J Thomason",
+            "cited_by": "Cited by 262",
+            "extracted_cited_by": 262,
+            "date": "2014",
+            "snippet": "This paper integrates techniques in natural language processing and computer vision to improve recognition and description of entities and activities in real- ...",
+            "snippet_highlighted_words": [
+                "computer vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Revisiting Visual Grounding",
+            "link": "https://aclanthology.org/W19-1804.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/W19-1804.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIEhAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daae6f7027da668c8fa1e0be415e4d905e4.png",
+            "author": "by E Conser",
+            "cited_by": "Cited by 4",
+            "extracted_cited_by": 4,
+            "date": "2019",
+            "snippet": "Our stud- ies contribute to a more general effort: that of better understanding what machine learning methods that combine language and vision ac- tually learn ...",
+            "snippet_highlighted_words": [
+                "machine",
+                "vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Towards Multimodal Vision-Language Models Generating ...",
+            "link": "https://aclanthology.org/2021.icon-main.27.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2021.icon-main.27.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIDhAB",
+            "displayed_link": "https://aclanthology.org › 2021.icon-main.27.pdf",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daa05617a3b0e229f5922da0508bc5dda60.png",
+            "author": "by W Robbins",
+            "date": "2021",
+            "snippet": "Vision-language models combine deep learning techniques from computer vision and natural lan- guage processing to assimilate visual and textual understanding.",
+            "snippet_highlighted_words": [
+                "computer vision"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 11
+                    },
+                    "extensions": [
+                        "11 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Multimodal Learning for Accurate Visual Question Answering",
+            "link": "https://aclanthology.org/2023.ranlp-1.20.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.ranlp-1.20.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIEBAB",
+            "displayed_link": "https://aclanthology.org › 2023.ranlp-1.20.pdf",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daa2bde8e74718dfffe052e1bab98bff6df.png",
+            "author": "by J Bhardwaj",
+            "date": "2023",
+            "snippet": "As Computer Vision research moves beyond “buck- eted” identification and toward resolving multi- modal problems, language and visual problems like picture ...",
+            "snippet_highlighted_words": [
+                "Computer Vision"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 8
+                    },
+                    "extensions": [
+                        "8 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "On Vision Features in Multimodal Machine Translation",
+            "link": "https://aclanthology.org/2022.acl-long.438",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.acl-long.438&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIDxAB",
+            "displayed_link": "https://aclanthology.org › 2022.acl-long.438",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daaa502d1d06e5e524cd576a2d28e4b2c1a.png",
+            "author": "by B Li",
+            "cited_by": "Cited by 36",
+            "extracted_cited_by": 36,
+            "date": "2022",
+            "snippet": "We develop a selective attention model to study the patch-level contribution of an image in MMT. On detailed probing tasks, we find that stronger vision models ...",
+            "snippet_highlighted_words": [
+                "image",
+                "vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "End-to-End Unsupervised Vision-and-Language Pre- ...",
+            "link": "https://aclanthology.org/2022.emnlp-main.742v1.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.emnlp-main.742v1.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIJBAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daaf5061be6c0d73ac31737c5f9b0568773.png",
+            "author": "by C Chen",
+            "cited_by": "Cited by 4",
+            "snippet": "matter: Elevating the role of image understanding in Visual Question Answering. In Conference on. Computer Vision and Pattern Recognition (CVPR). Zhicheng ...",
+            "snippet_highlighted_words": [
+                "Computer Vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "VIFIDEL: Evaluating the Visual Fidelity of Image Descriptions",
+            "link": "https://aclanthology.org/P19-1654.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/P19-1654.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIIRAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daabb210aebc45cf74c7c1c291396e5529a.png",
+            "author": "by PS Madhyastha",
+            "cited_by": "Cited by 39",
+            "extracted_cited_by": 39,
+            "date": "2019",
+            "snippet": "ence on Computer Vision (ICCV), pages 873–881,. Venice, Italy. IEEE. Pranava Madhyastha, Josiah Wang, and Lucia Spe- cia. 2018. End-to-end image captioning ...",
+            "snippet_highlighted_words": [
+                "Computer Vision"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Vision Meets Definitions: Unsupervised Visual Word Sense ...",
+            "link": "https://aclanthology.org/2023.acl-long.88.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.88.pdf&ved=2ahUKEwih4ovEyqmGAxU2EmIAHVsWDWc4ChAWegQIKBAB",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.88.pdf",
+            "favicon": "https://serpapi.com/searches/6652420f234884b0c7733fd5/images/1c73923cef9e30ac393f726b395b4daaea9c735fc23bac7d65a9af0e463506d5.png",
+            "author": "by S Kwon",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2023",
+            "snippet": "Visual Word Sense Disambiguation (VWSD) is a multimodal task of natural language processing. (NLP) and computer vision that selects the image.",
+            "snippet_highlighted_words": [
+                "computer vision"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 16
+                    },
+                    "extensions": [
+                        "16 pages"
+                    ]
+                }
+            },
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+computer+vision&oq=site%3Aaclanthology.org+computer+vision&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+computer+vision&start=40"
+        }
+    }
+}

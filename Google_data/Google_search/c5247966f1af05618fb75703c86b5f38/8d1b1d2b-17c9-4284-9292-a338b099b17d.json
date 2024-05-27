@@ -1,0 +1,265 @@
+{
+    "search_metadata": {
+        "id": "6652429bf55d7778c05805aa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b3af72e0f1748ba9/6652429bf55d7778c05805aa.json",
+        "created_at": "2024-05-25 19:57:15 UTC",
+        "processed_at": "2024-05-25 19:57:15 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aproceedings.mlr.press+LLM&oq=site%3Aproceedings.mlr.press+LLM&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b3af72e0f1748ba9/6652429bf55d7778c05805aa.html",
+        "total_time_taken": 1.17
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:proceedings.mlr.press LLM",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:proceedings.mlr.press LLM",
+        "total_results": 10100,
+        "page_number": 2,
+        "time_taken_displayed": 0.3,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Automated LOINC Standardization Using Pre-trained Large ...",
+            "link": "https://proceedings.mlr.press/v193/tu22a/tu22a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v193/tu22a/tu22a.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIGBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d49c1a2c4f351a2608ee5e36232d1bd831d.png",
+            "author": "by T Tu",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2022",
+            "snippet": "Our approach, on the other hand, uses embeddings from pre-trained LLM to extract features from text strings, avoid- ing the need for manual feature engineering.",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 2,
+            "title": "Can Large Language Models Reason about Program ...",
+            "link": "https://proceedings.mlr.press/v202/pei23a/pei23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/pei23a/pei23a.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIGhAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d494c4863e149f5d90d73ac3f3ed804d7fe.png",
+            "author": "by K Pei",
+            "cited_by": "Cited by 28",
+            "extracted_cited_by": 28,
+            "date": "2023",
+            "snippet": "fine-tune an LLM, pre-trained on source code, to take as input the source code of a program, and a target program point, and to output a list of invariants ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 3,
+            "title": "LLMs Accelerate Annotation for Medical Information Extraction",
+            "link": "https://proceedings.mlr.press/v225/goel23a/goel23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v225/goel23a/goel23a.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIGRAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d49bb549b7f870801887e7c058365e718fc.png",
+            "author": "by A Goel",
+            "cited_by": "Cited by 19",
+            "extracted_cited_by": 19,
+            "date": "2023",
+            "snippet": "Initially, the LLM, conditioned in a few-shot learning setup, generates Base Annota- tions. Subsequently, these annotations are refined by medical annotation ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 19
+                    },
+                    "extensions": [
+                        "19 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 4,
+            "title": "Parallel Diverse Decoding for Large Language Models",
+            "link": "https://proceedings.mlr.press/v202/vilnis23a/vilnis23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/vilnis23a/vilnis23a.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIHBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d4960d0d11ca13af157834af0ba236feea2.png",
+            "author": "by L Vilnis",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2023",
+            "snippet": "An even lattice of code points parallelizes decoding into diverse high-probability sequences. options for inference are limited. While LLM inference can be ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 17
+                    },
+                    "extensions": [
+                        "17 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 5,
+            "title": "Language Models as Zero-Shot Planners: Extracting ...",
+            "link": "https://proceedings.mlr.press/v162/huang22a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v162/huang22a.html&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIGxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d49ed0a370d47fcc276ba93ed0e33ef2b35.png",
+            "author": "by W Huang",
+            "cited_by": "Cited by 640",
+            "extracted_cited_by": 640,
+            "date": "2022",
+            "snippet": "Our evaluation in the recent VirtualHome environment shows that the resulting method substantially improves executability over the LLM baseline. The ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 6,
+            "title": "Deja Vu: Contextual Sparsity for Efficient LLMs at Inference ...",
+            "link": "https://proceedings.mlr.press/v202/liu23am/liu23am.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/liu23am/liu23am.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIHRAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d495388b0c7d6598704304021be50c1134c.png",
+            "author": "by Z Liu",
+            "cited_by": "Cited by 81",
+            "extracted_cited_by": 81,
+            "date": "2023",
+            "snippet": "Spar- sity is a natural approach to reduce this cost, but existing methods either require costly retraining, have to forgo LLM's in-context learning ability, or.",
+            "snippet_highlighted_words": [
+                "LLM's"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 7,
+            "title": "Do Embodied Agents Dream of Pixelated Sheep",
+            "link": "https://proceedings.mlr.press/v202/nottingham23a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/nottingham23a.html&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIFxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d49d67741eb0c1e19374070a614d2bdf824.png",
+            "author": "by K Nottingham",
+            "cited_by": "Cited by 39",
+            "extracted_cited_by": 39,
+            "date": "2023",
+            "snippet": "Our DECKARD agent applies LLM-guided exploration to item crafting in Minecraft in two phases: (1) the Dream phase where the agent uses an LLM to decompose a ...",
+            "snippet_highlighted_words": [
+                "LLM",
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 8,
+            "title": "Reprogramming Pretrained Language Models for Antibody ...",
+            "link": "https://proceedings.mlr.press/v202/melnyk23a/melnyk23a.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/melnyk23a/melnyk23a.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQIMxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d4942d73cd9d37dc0c45699a570e778e1fb.png",
+            "author": "by I Melnyk",
+            "cited_by": "Cited by 14",
+            "extracted_cited_by": 14,
+            "date": "2023",
+            "snippet": "Moreover, the sequence-based mod- els typically involve LLM training from scratch on NGS repertoire (Olsen et al., 2022), or GNN training on a small sample ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 22
+                    },
+                    "extensions": [
+                        "22 pages"
+                    ]
+                }
+            },
+            "source": "mlr.press"
+        },
+        {
+            "position": 9,
+            "title": "Less is More: Task-aware Layer-wise Distillation for Language ...",
+            "link": "https://proceedings.mlr.press/v202/liang23j/liang23j.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/liang23j/liang23j.pdf&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQILBAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d492b2c0f6ec0b0c9e02ae9b62ea47caa11.png",
+            "author": "by C Liang",
+            "cited_by": "Cited by 23",
+            "extracted_cited_by": 23,
+            "date": "2023",
+            "snippet": "For example, a possible strategy is to use a LLM teacher to generate task-relevant input and output samples in a controllable manner, and then use these samples ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        },
+        {
+            "position": 10,
+            "title": "Grounding Large Language Models in Interactive ...",
+            "link": "https://proceedings.mlr.press/v202/carta23a.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://proceedings.mlr.press/v202/carta23a.html&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChAWegQILxAB",
+            "displayed_link": "https://proceedings.mlr.press › ...",
+            "favicon": "https://serpapi.com/searches/6652429bf55d7778c05805aa/images/31b5b5667d62a5c95cdf45cc98be2d492c1f9b4460151dad53e67f5021e4db24.png",
+            "author": "by T Carta",
+            "cited_by": "Cited by 85",
+            "extracted_cited_by": 85,
+            "date": "2023",
+            "snippet": "In this paper, we study an approach (named GLAM) to achieve this alignment through functional grounding: we consider an agent using an LLM as a policy that ...",
+            "snippet_highlighted_words": [
+                "LLM"
+            ],
+            "source": "mlr.press"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "previous": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=0&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDx0wN6BAgFEAI",
+        "next": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=20&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDw0wN6BAgFEBc",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=0&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEAQ",
+            "3": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=20&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEAc",
+            "4": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=30&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEAk",
+            "5": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=40&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEAs",
+            "6": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=50&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEA0",
+            "7": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=60&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEA8",
+            "8": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=70&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEBE",
+            "9": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=80&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEBM",
+            "10": "https://www.google.com/search?q=site:proceedings.mlr.press+LLM&sca_esv=afccc90938daadff&sca_upv=1&ei=m0JSZuSyG8um5NoPkva4uAY&start=90&sa=N&ved=2ahUKEwik7OGGy6mGAxVLE1kFHRI7Dmc4ChDy0wN6BAgFEBU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aproceedings.mlr.press+LLM&start=90"
+        }
+    }
+}

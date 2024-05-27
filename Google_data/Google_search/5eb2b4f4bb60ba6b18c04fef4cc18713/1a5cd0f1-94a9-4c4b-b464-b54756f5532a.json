@@ -1,0 +1,215 @@
+{
+    "search_metadata": {
+        "id": "66522ff5f05eb86b4a4416de",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/29f98b9c1f4e6020/66522ff5f05eb86b4a4416de.json",
+        "created_at": "2024-05-25 18:37:41 UTC",
+        "processed_at": "2024-05-25 18:37:41 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/29f98b9c1f4e6020/66522ff5f05eb86b4a4416de.html",
+        "total_time_taken": 6.74
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org Recommendations",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org Recommendations",
+        "total_results": 29400,
+        "time_taken_displayed": 0.41,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Recommendations for Datasets for Source Code ...",
+            "link": "https://aclanthology.org/N19-1394",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/N19-1394&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBoQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae64855dbf309a2d64b2c21fd4f94cdbe5.png",
+            "author": "by A LeClair",
+            "cited_by": "Cited by 123",
+            "extracted_cited_by": 123,
+            "date": "2019",
+            "snippet": "In this paper, we make recommendations for these standards from experimental results. We release a dataset based on prior work of over 2.1m pairs of Java ...",
+            "snippet_highlighted_words": [
+                "recommendations"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "Aligning Recommendation and Conversation via Dual ...",
+            "link": "https://aclanthology.org/2022.emnlp-main.36",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.emnlp-main.36&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBYQAQ",
+            "displayed_link": "https://aclanthology.org › 2022.emnlp-main.36",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae3394a37f00c52fbb6e5714b6629682de.png",
+            "author": "by J Zhou",
+            "cited_by": "Cited by 6",
+            "extracted_cited_by": 6,
+            "date": "2022",
+            "snippet": "Abstract. Human conversations of recommendation naturally involve the shift of interests which can align the recommendation actions and conversation process ...",
+            "snippet_highlighted_words": [
+                "recommendation",
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "Neural News Recommendation with Multi-Head Self- ...",
+            "link": "https://aclanthology.org/D19-1671",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/D19-1671&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBcQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae66bb26b3c02bf5c823d275f0e278fc1c.png",
+            "author": "by C Wu",
+            "cited_by": "Cited by 316",
+            "extracted_cited_by": 316,
+            "date": "2019",
+            "snippet": "In this paper, we propose a neural news recommendation approach with multi-head self-attention (NRMS). The core of our approach is a news encoder and a user ...",
+            "snippet_highlighted_words": [
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Assessing Objective Recommendation Quality through ...",
+            "link": "https://aclanthology.org/D17-1250",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/D17-1250&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBkQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae30fbb4ccc1c3583b3a7b5bfdc81d0013.png",
+            "author": "by HA Schwartz",
+            "cited_by": "Cited by 9",
+            "extracted_cited_by": 9,
+            "date": "2017",
+            "snippet": "Abstract. Recommendations are often rated for their subjective quality, but few researchers have studied comment quality in terms of objective utility.",
+            "snippet_highlighted_words": [
+                "Recommendations"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Deep Learning-based Online Alternative Product ...",
+            "link": "https://aclanthology.org/2020.ecnlp-1.3",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2020.ecnlp-1.3&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBsQAQ",
+            "displayed_link": "https://aclanthology.org › 2020.ecnlp-1.3",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609aef7c3d0a349205ebb943f01dd00439813.png",
+            "author": "by M Guo",
+            "cited_by": "Cited by 6",
+            "extracted_cited_by": 6,
+            "date": "2020",
+            "snippet": "In this paper, we use both textual product information (e.g. product titles and descriptions) and customer behavior data to recommend alternative products. Our ...",
+            "snippet_highlighted_words": [
+                "recommend"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Justifying Recommendations using Distantly-Labeled ...",
+            "link": "https://aclanthology.org/D19-1018",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/D19-1018&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBwQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae6227717d3291341933c12eb484aa49f0.png",
+            "author": "by J Ni",
+            "cited_by": "Cited by 1216",
+            "extracted_cited_by": 1216,
+            "date": "2019",
+            "snippet": "In terms of data, we first propose an 'extractive' approach to identify review segments which justify users' intentions; this approach is then used to distantly ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "A Large-Scale Conversational Recommendation Dataset ...",
+            "link": "https://aclanthology.org/2022.lrec-1.622",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.lrec-1.622&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECBgQAQ",
+            "displayed_link": "https://aclanthology.org › 2022.lrec-1.622",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae755ea5df0d7d2e33f334ea1383c0fe8a.png",
+            "author": "by M Jia",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2022",
+            "snippet": "Compared to the traditional recommendation, it advocates wealthier interactions and provides possibilities to obtain users' exact preferences explicitly.",
+            "snippet_highlighted_words": [
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "Authorship Identification for Literary Book Recommendations",
+            "link": "https://aclanthology.org/C18-1033",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/C18-1033&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECCwQAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae392545c3ba3814d13fd6df061e2c024c.png",
+            "author": "by H Alharthi",
+            "cited_by": "Cited by 30",
+            "extracted_cited_by": 30,
+            "date": "2018",
+            "snippet": "We propose a system that recommends books after learning their authors' style. To our knowledge, this is the first work that applies the information learned by ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Neural News Recommendation with Long- and Short-term ...",
+            "link": "https://aclanthology.org/P19-1033",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/P19-1033&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECC4QAQ",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae519ea8ae040c37c8606fc0e0339526d4.png",
+            "author": "by M An",
+            "cited_by": "Cited by 298",
+            "extracted_cited_by": 298,
+            "date": "2019",
+            "snippet": "Personalized news recommendation is important to help users find their interested news and improve reading experience. A key problem in news recommendation is ...",
+            "snippet_highlighted_words": [
+                "recommendation",
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Identifying Evidence for Explainable Recommendations",
+            "link": "https://aclanthology.org/2020.aacl-main.89",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2020.aacl-main.89&ved=2ahUKEwiuj4SluamGAxVAkoQIHS3lBzwQFnoECC0QAQ",
+            "displayed_link": "https://aclanthology.org › 2020.aacl-main.89",
+            "favicon": "https://serpapi.com/searches/66522ff5f05eb86b4a4416de/images/52c20d70b605fd065be2247e381609ae46c2b915f226693dad0ffcc0b38cde66.png",
+            "author": "by S Kanouchi",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2020",
+            "snippet": "To tackle the challenge, this paper proposes a novel and practical task to explain evidences in recommending hotels given vague requests expressed freely in ...",
+            "snippet_highlighted_words": [
+                "recommending"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=40"
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "search_metadata": {
+        "id": "665249aee815af63265e1ff4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4ae7930bdc3bd3a8/665249aee815af63265e1ff4.json",
+        "created_at": "2024-05-25 20:27:26 UTC",
+        "processed_at": "2024-05-25 20:27:26 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4ae7930bdc3bd3a8/665249aee815af63265e1ff4.html",
+        "total_time_taken": 1.49
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:papers.nips.cc ML",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:papers.nips.cc ML",
+        "total_results": 22300,
+        "time_taken_displayed": 0.32,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&q=site%3Apapers.nips.cc+ML&udm=2&source=univ&fir=W6Plu5d4QK1ozM%252CFETzXy4QjrFGuM%252C_%253BtqkHb-w-ovv-AM%252CFETzXy4QjrFGuM%252C_%253B5gvYxbZ8QvnLSM%252CAHa0UXT3SdKIAM%252C_%253BfjYK4TflXPoeyM%252CFETzXy4QjrFGuM%252C_%253Byt-L-i8opP_L8M%252CFETzXy4QjrFGuM%252C_%253BxQbYSKRUYePZ-M%252CFETzXy4QjrFGuM%252C_%253By_NgQ9DYZXIfGM%252C9HkAi0x81n1v8M%252C_%253B53jK1ZJNQx79_M%252CFETzXy4QjrFGuM%252C_%253B2kc-aUZXnnA9CM%252Cl3yzP078YTAKjM%252C_%253BwvsRDB-jbIuh3M%252Cl3yzP078YTAKjM%252C_&usg=AI4_-kTJapCeu_pREpU-z3z-_fV41dTDQQ&sa=X&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQ9AF6BAgWEAA#imgrc=W6Plu5d4QK1ozM",
+            "source": "https://papers.nips.cc/paper_files/paper/2022/file/9bcd0bdb2777fe8c729b682f07e993f1-Paper-Datasets_and_Benchmarks.pdf",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FijmIJ7mUrc6E3G9LM1hv3UKXiHj-YVf9ReBJQzSLHw8M8VF219sgAobsQ&s",
+            "original": "x-raw-image:///ad407897bbe5a35b0407d7b4faf42a2564b6de7c9941eee8ac3aea1e790d433f",
+            "title": "HAPI: A Large-scale Longitudinal Dataset of Commercial ML ...",
+            "source_name": "People @EECS"
+        },
+        {
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&q=site%3Apapers.nips.cc+ML&udm=2&source=univ&fir=W6Plu5d4QK1ozM%252CFETzXy4QjrFGuM%252C_%253BtqkHb-w-ovv-AM%252CFETzXy4QjrFGuM%252C_%253B5gvYxbZ8QvnLSM%252CAHa0UXT3SdKIAM%252C_%253BfjYK4TflXPoeyM%252CFETzXy4QjrFGuM%252C_%253Byt-L-i8opP_L8M%252CFETzXy4QjrFGuM%252C_%253BxQbYSKRUYePZ-M%252CFETzXy4QjrFGuM%252C_%253By_NgQ9DYZXIfGM%252C9HkAi0x81n1v8M%252C_%253B53jK1ZJNQx79_M%252CFETzXy4QjrFGuM%252C_%253B2kc-aUZXnnA9CM%252Cl3yzP078YTAKjM%252C_%253BwvsRDB-jbIuh3M%252Cl3yzP078YTAKjM%252C_&usg=AI4_-kTJapCeu_pREpU-z3z-_fV41dTDQQ&sa=X&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQ9AF6BAgYEAA#imgrc=tqkHb-w-ovv-AM",
+            "source": "https://papers.nips.cc/paper_files/paper/2022/file/9bcd0bdb2777fe8c729b682f07e993f1-Paper-Datasets_and_Benchmarks.pdf",
+            "thumbnail": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/482143d0e518a1f0a8d2e477e4ecc637f9910a1ff55be072340ef084e7b99129.jpeg",
+            "original": "x-raw-image:///fba23eec6f07a9b6a19881cf024b5d55c8f68160b30ddb8f0a71afda42108e2b",
+            "title": "HAPI: A Large-scale Longitudinal Dataset of Commercial ML ...",
+            "source_name": "People @EECS"
+        },
+        {
+            "link": "https://www.google.com/search?sca_esv=539367e0684ce16b&q=site%3Apapers.nips.cc+ML&udm=2&source=univ&fir=W6Plu5d4QK1ozM%252CFETzXy4QjrFGuM%252C_%253BtqkHb-w-ovv-AM%252CFETzXy4QjrFGuM%252C_%253B5gvYxbZ8QvnLSM%252CAHa0UXT3SdKIAM%252C_%253BfjYK4TflXPoeyM%252CFETzXy4QjrFGuM%252C_%253Byt-L-i8opP_L8M%252CFETzXy4QjrFGuM%252C_%253BxQbYSKRUYePZ-M%252CFETzXy4QjrFGuM%252C_%253By_NgQ9DYZXIfGM%252C9HkAi0x81n1v8M%252C_%253B53jK1ZJNQx79_M%252CFETzXy4QjrFGuM%252C_%253B2kc-aUZXnnA9CM%252Cl3yzP078YTAKjM%252C_%253BwvsRDB-jbIuh3M%252Cl3yzP078YTAKjM%252C_&usg=AI4_-kTJapCeu_pREpU-z3z-_fV41dTDQQ&sa=X&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQ9AF6BAgXEAA#imgrc=5gvYxbZ8QvnLSM",
+            "source": "https://papers.nips.cc/paper/8174-improving-online-algorithms-via-ml-predictions.pdf",
+            "thumbnail": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/482143d0e518a1f099baba59aac1e2889252220c270d0b1ab5281105d97e8124.jpeg",
+            "original": "x-raw-image:///f9427cb6c5d80be6e3002b5cc70a16b82294b8232f44e9354ad7ea4f3689580b",
+            "title": "Improving Online Algorithms via ML Predictions",
+            "source_name": "NIPS - NeurIPS"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9FijmIJ7mUrc6E3G9LM1hv3UKXiHj-YVf9ReBJQzSLHw8M8VF219sgAobsQ&s"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Automatic differentiation in ML: Where we are and ... - NIPS",
+            "link": "https://papers.nips.cc/paper/8092-automatic-differentiation-in-ml-where-we-are-and-where-we-should-be-going.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/8092-automatic-differentiation-in-ml-where-we-are-and-where-we-should-be-going.pdf&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECBoQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 8092-automatic-d...",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d88ddae6f78eeffe718a387f6ca144bedc.png",
+            "author": "by B van Merriënboer",
+            "cited_by": "Cited by 94",
+            "snippet": "We review the current state of automatic differentiation (AD) for array program- ming in machine learning (ML), including the different approaches such as ...",
+            "snippet_highlighted_words": [
+                "machine",
+                "ML"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 2,
+            "title": "Hidden Technical Debt in Machine Learning Systems",
+            "link": "https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECBsQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 5656-hidden-tech...",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d82b7f175e05f38f6e5794fa645293845c.png",
+            "author": "by D Sculley",
+            "cited_by": "Cited by 1416",
+            "snippet": "Here we examine several ways that the resulting erosion of boundaries may significantly increase technical debt in ML systems. Entanglement. Machine learning ...",
+            "snippet_highlighted_words": [
+                "ML",
+                "Machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 3,
+            "title": "Improving Online Algorithms via ML Predictions - NIPS",
+            "link": "https://papers.nips.cc/paper/8174-improving-online-algorithms-via-ml-predictions",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/8174-improving-online-algorithms-via-ml-predictions&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECB0QAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 8174-improving-online-...",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d823a1ff8fd7217c965af37b1cabd4890d.png",
+            "author": "by M Purohit",
+            "cited_by": "Cited by 270",
+            "extracted_cited_by": 270,
+            "date": "2018",
+            "snippet": "Abstract. In this work we study the problem of using machine-learned predictions to improve performance of online algorithms. We consider two classical problems ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 4,
+            "title": "Measures of distortion for machine learning - NIPS",
+            "link": "https://papers.nips.cc/paper/7737-measures-of-distortion-for-machine-learning",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/7737-measures-of-distortion-for-machine-learning&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECBkQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 7737-measures-of-distor...",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d80a398fddb0c8c57c5463fac21c22e368.png",
+            "author": "by L Chennuru Vankadara",
+            "cited_by": "Cited by 23",
+            "extracted_cited_by": 23,
+            "date": "2018",
+            "snippet": "In this paper, we show that many of the existing distortion measures behave in an undesired way, when considered from a machine learning point of view. We ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 5,
+            "title": "Machine Learning for Variance Reduction in Online ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2021/file/488b084119a1c7a4950f00706ec7ea16-Paper.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2021/file/488b084119a1c7a4950f00706ec7ea16-Paper.pdf&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECBwQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d839507e26e15739f13223ca1d72a5266b.png",
+            "author": "by Y Guo",
+            "cited_by": "Cited by 22",
+            "extracted_cited_by": 22,
+            "date": "2021",
+            "snippet": "We propose a machine learning regression-adjusted treatment effect estimator, which we call MLRATE. MLRATE uses machine learning predictors of the outcome to ...",
+            "snippet_highlighted_words": [
+                "machine",
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 6,
+            "title": "Making AI Forget You: Data Deletion in Machine Learning",
+            "link": "https://papers.nips.cc/paper/8611-making-ai-forget-you-data-deletion-in-machine-learning.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/8611-making-ai-forget-you-data-deletion-in-machine-learning.pdf&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECDIQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 8611-making-ai-f...",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d8a5401ad42a1ef9625e63e251c3d4667f.png",
+            "author": "by AA Ginart",
+            "cited_by": "Cited by 330",
+            "snippet": "For many standard ML models, the only way to completely remove an individual's data is to retrain the whole model from scratch on the remaining data, which is ...",
+            "snippet_highlighted_words": [
+                "ML"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 7,
+            "title": "How to use ML Prediction APIs more accurately and cheaply",
+            "link": "https://papers.nips.cc/paper_files/paper/2020/hash/789ba2ae4d335e8a2ad283a3f7effced-Abstract.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2020/hash/789ba2ae4d335e8a2ad283a3f7effced-Abstract.html&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECCkQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d8a2768d963ec76d0087740acb3f68aec1.png",
+            "author": "by L Chen",
+            "cited_by": "Cited by 33",
+            "extracted_cited_by": 33,
+            "date": "2020",
+            "snippet": "Offering prediction APIs for fee is a fast growing industry and is an important aspect of machine learning as a service. While many such services are available, ...",
+            "snippet_highlighted_words": [
+                "machine"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 8,
+            "title": "The Myth of Software Portability and Implications for ML ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2023/hash/42c40aff7814e9796266e12053b1c610-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2023/hash/42c40aff7814e9796266e12053b1c610-Abstract-Conference.html&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECCsQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d83ae80b3f32cf4af433970d81c6b2dff9.png",
+            "author": "by F Mince",
+            "cited_by": "Cited by 2",
+            "extracted_cited_by": 2,
+            "date": "2024",
+            "snippet": "In this work we ask: How portable are popular ML software frameworks? We conduct a large scale study of the portability of mainstream ML frameworks across ...",
+            "snippet_highlighted_words": [
+                "ML",
+                "ML"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 9,
+            "title": "FrugalML: How to Use ML Prediction APIs More Accurately ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2020/file/789ba2ae4d335e8a2ad283a3f7effced-Paper.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2020/file/789ba2ae4d335e8a2ad283a3f7effced-Paper.pdf&ved=2ahUKEwjKkOfm0amGAxWbjIkEHXgJABEQFnoECC8QAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/665249aee815af63265e1ff4/images/db861b75ff79eeba73b12076bcc0f6d833f49dd91779829fc475a273654f838e.png",
+            "author": "by L Chen",
+            "cited_by": "Cited by 33",
+            "snippet": "We conduct systematic experiments using ML APIs from Google, Microsoft, Amazon, IBM, Baidu and other providers for tasks including facial emotion recognition, ...",
+            "snippet_highlighted_words": [
+                "ML"
+            ],
+            "source": "nips.cc"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Apapers.nips.cc+ML&oq=site%3Apapers.nips.cc+ML&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+ML&start=40"
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "search_metadata": {
+        "id": "665229e847ccf1036891d12b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6fd90a4a94a8423e/665229e847ccf1036891d12b.json",
+        "created_at": "2024-05-25 18:11:52 UTC",
+        "processed_at": "2024-05-25 18:11:52 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&uule=w+CAIQICIFSW5kaWE&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/6fd90a4a94a8423e/665229e847ccf1036891d12b.html",
+        "total_time_taken": 0.95
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:papers.nips.cc NLP",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:papers.nips.cc NLP",
+        "total_results": 65400,
+        "time_taken_displayed": 0.32,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Interpreting and improving natural-language processing (in ...",
+            "link": "https://papers.nips.cc/paper/9633-interpreting-and-improving-natural-language-processing-in-machines-with-natural-language-processing-in-the-brain.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/9633-interpreting-and-improving-natural-language-processing-in-machines-with-natural-language-processing-in-the-brain.pdf&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECBkQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 9633-interpreting...",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa811ab448e81c22c7948073d6a6331c8188.png",
+            "author": "by M Toneva",
+            "cited_by": "Cited by 202",
+            "snippet": "Neural networks models for NLP are typically implemented without the explicit encoding of language rules and yet they are able to break one performance ...",
+            "snippet_highlighted_words": [
+                "Neural",
+                "NLP",
+                "language"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 2,
+            "title": "e-SNLI: Natural Language Inference with ...",
+            "link": "https://papers.nips.cc/paper/8163-e-snli-natural-language-inference-with-natural-language-explanations",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/8163-e-snli-natural-language-inference-with-natural-language-explanations&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECBsQAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 8163-e-snli-natural-lang...",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81098e724bc09deee8c4862b8137fe5b80.png",
+            "author": "by OM Camburu",
+            "cited_by": "Cited by 525",
+            "extracted_cited_by": 525,
+            "date": "2018",
+            "snippet": "Authors. Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, Phil Blunsom. Abstract. In order for machine learning to garner widespread public adoption ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 3,
+            "title": "Convolution Kernels for Natural Language",
+            "link": "https://papers.nips.cc/paper/2089-convolution-kernels-for-natural-language.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/2089-convolution-kernels-for-natural-language.pdf&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECB0QAQ",
+            "displayed_link": "https://papers.nips.cc › paper › 2089-convolutio...",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa817f86a99ba6ff1e4a01dab8f41915cc29.png",
+            "author": "by M Collins",
+            "cited_by": "Cited by 1251",
+            "snippet": "We describe the application of kernel methods to Natural Language Pro- cessing (NLP) problems. In many NLP tasks the objects being modeled.",
+            "snippet_highlighted_words": [
+                "Natural Language",
+                "NLP",
+                "NLP"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 4,
+            "title": "What are the best systems? New perspectives on NLP ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/file/ac4920f4085b5662133dd751493946a6-Paper-Conference.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/file/ac4920f4085b5662133dd751493946a6-Paper-Conference.pdf&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECBcQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81c27e1cf7b3bfe3fa318e1975d8d1ef30.png",
+            "author": "by P Colombo",
+            "cited_by": "Cited by 20",
+            "extracted_cited_by": 20,
+            "date": "2022",
+            "snippet": "This paper is about improving current practices regarding benchmarks of NLP systems. ... Fewnlu: Benchmarking state-of-the-art methods for few-shot natural ...",
+            "snippet_highlighted_words": [
+                "NLP",
+                "natural"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 5,
+            "title": "What are the best Systems? New Perspectives on NLP ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/ac4920f4085b5662133dd751493946a6-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/hash/ac4920f4085b5662133dd751493946a6-Abstract-Conference.html&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECBgQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81340a53148848f717c3e533418db7f0c2.png",
+            "author": "by P Colombo",
+            "cited_by": "Cited by 20",
+            "extracted_cited_by": 20,
+            "date": "2022",
+            "snippet": "This paper proposes a new procedure to rank systems based on their performance across different tasks. Motivated by the social choice theory, the final system ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 6,
+            "title": "Improving Natural Language Processing Tasks with ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2020/hash/460191c72f67e90150a093b4585e7eb4-Abstract.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2020/hash/460191c72f67e90150a093b4585e7eb4-Abstract.html&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECBwQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81576d58244bf7926d5b57e06f2b683865.png",
+            "author": "by E Sood",
+            "cited_by": "Cited by 62",
+            "extracted_cited_by": 62,
+            "date": "2020",
+            "snippet": "As such, our work introduces a practical approach for bridging between data-driven and cognitive models and demonstrates a new way to integrate human gaze- ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 7,
+            "title": "An NLP Benchmark Dataset for Assessing Corporate ...",
+            "link": "https://papers.nips.cc/paper_files/paper/2023/file/7ccaa4f9a89cce6619093226f26b84e6-Paper-Datasets_and_Benchmarks.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2023/file/7ccaa4f9a89cce6619093226f26b84e6-Paper-Datasets_and_Benchmarks.pdf&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECBoQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › file",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81d1ff3246f279d5ea7c1ac0ae6fa379cd.png",
+            "author": "by G Morio",
+            "date": "2023",
+            "snippet": "Natural language processing (NLP) can help to alleviate the issue by automating the process of extracting relevant data quickly. As Stammbach et al. [38] ...",
+            "snippet_highlighted_words": [
+                "Natural language processing",
+                "NLP"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 8,
+            "title": "Semantically Complex Wordplay Puzzles as a Target for NLP",
+            "link": "https://papers.nips.cc/paper/2021/file/5f1d3986fae10ed2994d14ecd89892d7-Paper.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper/2021/file/5f1d3986fae10ed2994d14ecd89892d7-Paper.pdf&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECC0QAQ",
+            "displayed_link": "https://papers.nips.cc › paper › file",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81214be4f33745d35f39206ab58a302575.png",
+            "author": "by J Rozner",
+            "cited_by": "Cited by 8",
+            "extracted_cited_by": 8,
+            "date": "2021",
+            "snippet": "In this paper we study the language task of solving individual cryptic clues, rather than full puzzles since, unlike American-style crosswords, cryptics ...",
+            "snippet_highlighted_words": [
+                "language"
+            ],
+            "source": "nips.cc"
+        },
+        {
+            "position": 9,
+            "title": "Generating Training Data with Language Models",
+            "link": "https://papers.nips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://papers.nips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECDIQAQ",
+            "displayed_link": "https://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa81ce768eabb2c58398a94dc70e6efbd8b1.png",
+            "author": "by Y Meng",
+            "cited_by": "Cited by 133",
+            "extracted_cited_by": 133,
+            "date": "2022",
+            "snippet": "In this paper, we present a simple approach that uses both types of PLMs for fully zero-shot learning of NLU tasks without requiring any task-specific data: A ...",
+            "source": "nips.cc"
+        },
+        {
+            "position": 10,
+            "title": "Revisiting Out-of-distribution Robustness in NLP",
+            "link": "http://papers.nips.cc/paper_files/paper/2023/hash/b6b5f50a2001ad1cbccca96e693c4ab4-Abstract-Datasets_and_Benchmarks.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://papers.nips.cc/paper_files/paper/2023/hash/b6b5f50a2001ad1cbccca96e693c4ab4-Abstract-Datasets_and_Benchmarks.html&ved=2ahUKEwj2k_i_s6mGAxULF1kFHePbDioQFnoECDAQAQ",
+            "displayed_link": "http://papers.nips.cc › paper_files › paper › hash",
+            "favicon": "https://serpapi.com/searches/665229e847ccf1036891d12b/images/a6d50f2879a867086e18e1f3958efa812a7f88bb3a2af179f67240e3394ac69f.png",
+            "author": "by L Yuan",
+            "cited_by": "Cited by 21",
+            "extracted_cited_by": 21,
+            "date": "2024",
+            "snippet": "This paper reexamines the research on out-of-distribution (OOD) robustness in the field of NLP. We find that the distribution shift settings in previous studies ...",
+            "snippet_highlighted_words": [
+                "NLP"
+            ],
+            "source": "nips.cc"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Apapers.nips.cc+NLP&oq=site%3Apapers.nips.cc+NLP&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Apapers.nips.cc+NLP&start=40"
+        }
+    }
+}

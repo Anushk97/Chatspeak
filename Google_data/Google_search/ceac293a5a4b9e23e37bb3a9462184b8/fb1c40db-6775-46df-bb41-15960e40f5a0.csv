@@ -1,0 +1,10 @@
+title,link,snippet
+COGNITIVE MODELS FOR COMPUTER VISION,https://aclanthology.org/C82-1002.pdf,A common approach to the problem of scenes interpretation is to gen- erate hypothesis about the position and size of objects and try to.
+Midge: Generating Image Descriptions From Computer ...,https://aclanthology.org/E12-1076.pdf,This paper introduces a novel generation system that composes humanlike descrip- tions of images from computer vision de- tections. By leveraging syntactically ...
+Comparing computer vision analysis of signed language ...,https://aclanthology.org/L12-1152/,Abstract. We consider a non-intrusive computer-vision method for measuring the motion of a person performing natural signing in video recordings.
+What can computer vision teach NLP about efficient neural ...,https://aclanthology.org/2020.sustainlp-1.17,"SqueezeBERT: What can computer vision teach NLP about efficient neural networks? Forrest Iandola, Albert Shaw, Ravi Krishna ..."
+Sign Language Recognition and Translation,https://aclanthology.org/2023.ranlp-1.71.pdf,Computer Vision and the nuances of ASL. Classification accuracy in Computer ... Computer Vision alone to classify the signer's en- tire message ...
+Using Computer Vision to Analyze Non-manual Marking ...,https://aclanthology.org/2021.mtsummit-at4ssl.6,This paper presents a study that compares non-manual markers of polar and wh-questions to statements in Kazakh-Russian Sign Language (KRSL) in a dataset ...
+A Vision-Language Model for Arabic Image Captioning ...,https://aclanthology.org/2023.arabicnlp-1.1.pdf,We alleviate this challenge by introducing a method for automatically acquiring captions that is based on first employing a powerful machine.
+Neural Caption Generation for News Images,https://aclanthology.org/L18-1273.pdf,"Much work within computer vision has focused on image annotation, a task which is very much related but distinct from image description gen- eration. The goal ..."
+Nonparametric Method for Data-driven Image Captioning,https://aclanthology.org/P14-2097.pdf,We present a nonparametric density esti- mation technique for image caption gener- ation. Data-driven matching methods have.

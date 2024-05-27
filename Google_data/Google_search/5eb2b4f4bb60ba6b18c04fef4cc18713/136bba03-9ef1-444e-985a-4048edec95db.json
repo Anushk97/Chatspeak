@@ -1,0 +1,223 @@
+{
+    "search_metadata": {
+        "id": "66522ffca5ad6d7c7b5b1d8a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/48fba5f3f6efc92e/66522ffca5ad6d7c7b5b1d8a.json",
+        "created_at": "2024-05-25 18:37:48 UTC",
+        "processed_at": "2024-05-25 18:37:48 UTC",
+        "google_url": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&uule=w+CAIQICIFSW5kaWE&start=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/48fba5f3f6efc92e/66522ffca5ad6d7c7b5b1d8a.html",
+        "total_time_taken": 0.87
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:aclanthology.org Recommendations",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "start": 10,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:aclanthology.org Recommendations",
+        "total_results": 29100,
+        "page_number": 2,
+        "time_taken_displayed": 0.29,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Content-Based Citation Recommendation",
+            "link": "https://aclanthology.org/N18-1022",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/N18-1022&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIEhAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb826637181056bcd55b259616aa2293ceb9d5b.png",
+            "author": "by C Bhagavatula",
+            "cited_by": "Cited by 197",
+            "extracted_cited_by": 197,
+            "date": "2018",
+            "snippet": "We present a content-based method for recommending citations in an academic paper draft. We embed a given query document into a vector space, then use its ...",
+            "snippet_highlighted_words": [
+                "recommending"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 2,
+            "title": "A Corpus of Clinical Practice Guidelines Annotated with the ...",
+            "link": "https://aclanthology.org/L16-1272",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/L16-1272&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQICxAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb8266374a79eaeffa4c3fd36f0c97e4e497429.png",
+            "author": "by J Read",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2016",
+            "snippet": "In this paper we present the Corpus of REcommendation STrength (CREST), a collection of HTML-formatted clinical guidelines annotated with the location of ...",
+            "snippet_highlighted_words": [
+                "REcommendation",
+                "guidelines"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 3,
+            "title": "MIND: A Large-scale Dataset for News Recommendation",
+            "link": "https://aclanthology.org/2020.acl-main.331",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2020.acl-main.331&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIDBAB",
+            "displayed_link": "https://aclanthology.org › 2020.acl-main.331",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb826635523ea619fc7fc4450727cf41b4bf463.png",
+            "author": "by F Wu",
+            "cited_by": "Cited by 423",
+            "extracted_cited_by": 423,
+            "date": "2020",
+            "snippet": "In this paper, we present a large-scale dataset named MIND for news recommendation. Constructed from the user click logs of Microsoft News, MIND contains 1 ...",
+            "snippet_highlighted_words": [
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 4,
+            "title": "Improving Conversational Recommendation Systems ...",
+            "link": "https://aclanthology.org/2022.findings-naacl.4",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.findings-naacl.4&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIERAB",
+            "displayed_link": "https://aclanthology.org › 2022.findings-naacl.4",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb826639d27adbdbb247c029e2364e7f54dc30f.png",
+            "author": "by B Yang",
+            "cited_by": "Cited by 21",
+            "extracted_cited_by": 21,
+            "date": "2022",
+            "snippet": "The proposed item encoder learns to map item metadata to embeddings reflecting the rich information of the item, which can be matched with dialog context. The ...",
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 5,
+            "title": "Tree-Structure Reasoning Schema for Conversational ...",
+            "link": "https://aclanthology.org/2023.acl-long.167",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.167&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIExAB",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.167",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb8266323f0fbaffee919889907e3a8cf49d999.png",
+            "author": "by W Li",
+            "cited_by": "Cited by 5",
+            "extracted_cited_by": 5,
+            "date": "2023",
+            "snippet": "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation. In Proceedings of the 61st Annual Meeting of the Association for Computational ...",
+            "snippet_highlighted_words": [
+                "Recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 6,
+            "title": "Evaluating Zero-Shot Event Structures: Recommendations ...",
+            "link": "https://aclanthology.org/2023.acl-short.142",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-short.142&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIEBAB",
+            "displayed_link": "https://aclanthology.org › 2023.acl-short.142",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb8266324abab6b94a86b1ed7696b4231d73a26.png",
+            "author": "by E Cai",
+            "cited_by": "Cited by 1",
+            "extracted_cited_by": 1,
+            "date": "2023",
+            "snippet": "Cite (ACL):: Erica Cai and Brendan O'Connor. 2023. Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations. In ...",
+            "snippet_highlighted_words": [
+                "Recommendations"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 7,
+            "title": "Toward Knowledge-Enriched Conversational ...",
+            "link": "https://aclanthology.org/2022.nlp4convai-1.17",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2022.nlp4convai-1.17&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIDhAB",
+            "displayed_link": "https://aclanthology.org › ...",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb82663a9c2b8a09301a31305bdba9646440e73.png",
+            "author": "by T Zhang",
+            "cited_by": "Cited by 8",
+            "extracted_cited_by": 8,
+            "date": "2022",
+            "snippet": "Conversational Recommendation Systems recommend items through language based interactions with users. In order to generate naturalistic conversations and ...",
+            "snippet_highlighted_words": [
+                "Recommendation",
+                "recommend"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 8,
+            "title": "Explainable Recommendation with Personalized Review ...",
+            "link": "https://aclanthology.org/2023.acl-long.4",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.acl-long.4&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIIhAB",
+            "displayed_link": "https://aclanthology.org › 2023.acl-long.4",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb8266316f31b91b566f1a8bd90c22c7e675d92.png",
+            "author": "by H Cheng",
+            "cited_by": "Cited by 3",
+            "extracted_cited_by": 3,
+            "date": "2023",
+            "snippet": "Explainable recommendation is a technique that combines prediction and generation tasks to produce more persuasive results. Among these tasks, textual ...",
+            "snippet_highlighted_words": [
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 9,
+            "title": "Personalized Transformer for Explainable Recommendation",
+            "link": "https://aclanthology.org/2021.acl-long.383",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2021.acl-long.383&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIIBAB",
+            "displayed_link": "https://aclanthology.org › 2021.acl-long.383",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb826633766db640536d37c68dcb49271ea16b2.png",
+            "author": "by L Li",
+            "cited_by": "Cited by 121",
+            "extracted_cited_by": 121,
+            "date": "2021",
+            "snippet": "Personalization of natural language generation plays a vital role in a large spectrum of tasks, such as explainable recommendation, review summarization and ...",
+            "snippet_highlighted_words": [
+                "recommendation"
+            ],
+            "source": "aclanthology.org"
+        },
+        {
+            "position": 10,
+            "title": "Rethinking the Evaluation for Conversational ...",
+            "link": "https://aclanthology.org/2023.emnlp-main.621",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aclanthology.org/2023.emnlp-main.621&ved=2ahUKEwjSw_qluamGAxUxF1kFHUDrDLo4ChAWegQIJhAB",
+            "displayed_link": "https://aclanthology.org › 2023.emnlp-main.621",
+            "favicon": "https://serpapi.com/searches/66522ffca5ad6d7c7b5b1d8a/images/e7c447f470a8e0d4adc407d63cb8266345732886ff2f9b3b4aa903fcbcac51c8.png",
+            "author": "by X Wang",
+            "cited_by": "Cited by 47",
+            "extracted_cited_by": 47,
+            "date": "2023",
+            "snippet": "Cite (ACL):: Xiaolei Wang, Xinyu Tang, Xin Zhao, Jingyuan Wang, and Ji-Rong Wen. 2023. Rethinking the Evaluation for Conversational Recommendation in the ...",
+            "snippet_highlighted_words": [
+                "Recommendation"
+            ],
+            "source": "aclanthology.org"
+        }
+    ],
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=site%3Aaclanthology.org+Recommendations&oq=site%3Aaclanthology.org+Recommendations&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&q=site%3Aaclanthology.org+Recommendations&start=40"
+        }
+    }
+}

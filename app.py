@@ -178,7 +178,7 @@ def reading_list():
         email_receiver = st.text_input('Your email:')
         subject = f'Reading list for {timestamp}'
         body = markdown_content
-        password = st.text_input('Password', type="password", disabled=True)  
+        # password = st.text_input('Password', type="password", disabled=True)  
         
         if st.button("Send Email"):
             try:

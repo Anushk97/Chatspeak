@@ -15,6 +15,19 @@ import os
 import json
 
 st.title('Find Daily Research Papers!')
+st.markdown("**This tool helps you find academic paper from major journals!**")
+
+st.subheader('How to use?')
+st.write('**1.🐸 Enter topic of research interest. It can be anything from computer science, physics, RAG, LLM etc.**')
+st.write('**2. 📝 Select publications from - Google Scholar, Arxiv, American Society for Microbiology (ASM), Semantic Scholar, Association for Computation Linguistics (ACL), Proceedings of Machine Learning Research (PMLR), Neurips**')
+
+col3, col4 = st.columns([0.45, 0.55])
+with col3:
+    st.write('**3. 📕 Use checkbox to add to Reading list.**')
+    
+with col4:
+    st.checkbox("", key=f"dummy")
+
 
 # class SessionState:
 #     def __init__(self, **kwargs):
@@ -43,12 +56,14 @@ st.title('Find Daily Research Papers!')
 
 Paper_names = ['Zero-shot learning with common sense knowledge graphs']
 # keyword     = ['Zero-shot learning']
-serp_api_key = st.sidebar.text_input("Enter your Google scholar API key*:")
+serp_api_key = st.sidebar.text_input("Enter your Google scholar API key (optional):")
 openai_api = st.sidebar.text_input("Enter your OpenAI API key (optional):")
 if openai_api:
     prompt = st.sidebar.text_area('Custom prompt...')
 
 paper_engine = Resp(serp_api_key)
+columns = ['title', 'link']
+reading_list_df = pd.DataFrame(columns=columns)
 
 def dataframe_to_markdown(df):
         markdown_lines = ["# Reading List\n"]
@@ -56,7 +71,10 @@ def dataframe_to_markdown(df):
             markdown_lines.append(f"- [{row['title']}]({row['link']})\n")
         return "".join(markdown_lines)
 
+
 def reading_list():
+    
+    global reading_list_df
     urls = []
     st.header('Reading List')
     summarize_add = st.sidebar.text_input('Input number for summarization: ')
@@ -69,7 +87,6 @@ def reading_list():
         # url = st.text_input('Please enter your URL here:')
         try:
             if url:
-                
                 openai.api_key = openai_api
                 if prompt:
                     completion = openai.chat.completions.create(
@@ -104,11 +121,21 @@ def reading_list():
         except:
             st.error('Please enter OpenAI API', icon="🚨")
 
+    # st.write(reading_list_df)
     if st.session_state.reading_list:
-        reading_list_df = pd.DataFrame(st.session_state.reading_list)
+        if reading_list_df.empty:
+        # st.write(st.session_state.reading_list)
+            reading_list_df = pd.DataFrame(st.session_state.reading_list)
+            
+        reading_list_df._append(st.session_state.reading_list, ignore_index=True)
+        reading_list_df.drop_duplicates('title', inplace=True)
+        
+        # reading_list_df.drop_duplicates()
         # st.write(reading_list_df)
+        count = 0
         for i, row in reading_list_df.iterrows():
-            st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            count += 1
+            st.markdown(f"{count}.[{row['title']}]({row['link']})")
         
         if summarize_add:
             for i, row in reading_list_df.iterrows():
@@ -124,7 +151,6 @@ def reading_list():
         #     print('val', val)
             
         #     summary(val)
-            
         
         csv = reading_list_df.to_csv(index=False).encode('utf-8')
         markdown_content = dataframe_to_markdown(reading_list_df)
@@ -210,9 +236,10 @@ def app():
     # index = st.sidebar.text_input("Enter index number for summarization:")
     # index = st.sidebar.number_input('Select row index for summary(optional)', min_value=0, max_value=100, step=1)
     
-    reading_add = st.sidebar.text_area('Add indexes to reading list (comma seperated): ')
+    # reading_add = st.sidebar.text_area('Add indexes to reading list (comma seperated): ')
     # if index:
-    #     index = int(index)
+    # index = int(index)
+    col1, col2 = st.columns(2)
     
     if 'reading_list' not in st.session_state:
         st.session_state.reading_list = []
@@ -227,7 +254,13 @@ def app():
             res_cop = res.copy()
             
             for i, row in res_cop.iterrows():
-                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+                col1, col2 = st.columns([0.05, 0.95])
+                with col1:
+                    
+                    if st.checkbox("", key=f"add{i}"):
+                        st.session_state.reading_list.append(res_cop.iloc[i])
+                with col2:
+                    st.markdown(f"[{row['title']}]({row['link']})")
             # st.table(res)
                 
             if st.sidebar.button("Add all to Reading List", type="primary"):
@@ -235,11 +268,11 @@ def app():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
                 
-            if reading_add:
-                nums_list = reading_add.split(',')
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.write("Added to Reading List") 
+            # if reading_add:
+            #     nums_list = reading_add.split(',')
+            #     for i in nums_list:
+            #         st.session_state.reading_list.append(res_cop.iloc[i])
+            #     st.write("Added to Reading List") 
         except:
             if serp_api_key:
                 st.write('')
@@ -252,7 +285,13 @@ def app():
         # st.session_state.res = res
         res_cop = res.copy()
         for i, row in res_cop.iterrows():
-            st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            col1, col2 = st.columns([0.05, 0.95])
+            with col1:
+                
+                if st.checkbox("", key=f"add{i}"):
+                    st.session_state.reading_list.append(res_cop.iloc[i])
+            with col2:
+                st.markdown(f"[{row['title']}]({row['link']})")
             
         # st.table(res)
         
@@ -261,12 +300,15 @@ def app():
                 st.session_state.reading_list.append(r)
             st.write("Added all to Reading List")
             
-        if reading_add:
-                nums_list = reading_add.split(',')
-                nums_list = [int(i) for i in nums_list]
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.sidebar.write("Added to Reading List")
+        # if reading_add:
+        #         nums_list = reading_add.split(',')
+        #         nums_list = [int(i) for i in nums_list]
+        #         for i in nums_list:
+        #             st.session_state.reading_list.append(res_cop.iloc[i])
+        #         st.sidebar.write("Added to Reading List")
+        
+        
+                
     
     elif selected == 'ASM':
         st.session_state.selected = 'ASM'
@@ -274,7 +316,12 @@ def app():
         st.session_state.res = res
         res_cop = res.copy()
         for i, row in res_cop.iterrows():
-            st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            col1, col2 = st.columns([0.05, 0.95])
+            with col1:
+                if st.checkbox("", key=f"add{i}"):
+                    st.session_state.reading_list.append(res_cop.iloc[i])
+            with col2:
+                st.markdown(f"[{row['title']}]({row['link']})")
         # st.table(res)
         
         
@@ -283,18 +330,23 @@ def app():
                 st.session_state.reading_list.append(r)
             st.write("Added all to Reading List")
         
-        if reading_add:
-                nums_list = reading_add.split(',')
-                nums_list = [int(i) for i in nums_list]
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.write("Added to Reading List")
+        # if reading_add:
+        #         nums_list = reading_add.split(',')
+        #         nums_list = [int(i) for i in nums_list]
+        #         for i in nums_list:
+        #             st.session_state.reading_list.append(res_cop.iloc[i])
+        #         st.write("Added to Reading List")
     
     elif selected == 'Semantic Scholar':
         res = semantic_scholar(key)
         res_cop = res.copy()
         for i, row in res_cop.iterrows():
-            st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            col1, col2 = st.columns([0.05, 0.95])
+            with col1:
+                if st.checkbox("", key=f"add{i}"):
+                    st.session_state.reading_list.append(res_cop.iloc[i])
+            with col2:
+                st.markdown(f"[{row['title']}]({row['link']})")
         # st.table(res)
         
             
@@ -303,19 +355,24 @@ def app():
                 st.session_state.reading_list.append(r)
             st.write("Added all to Reading List")
         
-        if reading_add:
-                nums_list = reading_add.split(',')
-                nums_list = [int(i) for i in nums_list]
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.write("Added to Reading List")
+        # if reading_add:
+        #         nums_list = reading_add.split(',')
+        #         nums_list = [int(i) for i in nums_list]
+        #         for i in nums_list:
+        #             st.session_state.reading_list.append(res_cop.iloc[i])
+        #         st.write("Added to Reading List")
     
     elif selected == 'ACL (api needed)':
         try:
             res = acl(key)
             res_cop = res.copy()
             for i, row in res_cop.iterrows():
-                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+                col1, col2 = st.columns([0.05, 0.95])
+                with col1:
+                    if st.checkbox("", key=f"add{i}"):
+                        st.session_state.reading_list.append(res_cop.iloc[i])
+                with col2:
+                    st.markdown(f"[{row['title']}]({row['link']})")
             # st.table(res)
             
             
@@ -324,12 +381,12 @@ def app():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
             
-            if reading_add:
-                nums_list = reading_add.split(',')
-                nums_list = [int(i) for i in nums_list]
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.write("Added to Reading List")
+            # if reading_add:
+            #     nums_list = reading_add.split(',')
+            #     nums_list = [int(i) for i in nums_list]
+            #     for i in nums_list:
+            #         st.session_state.reading_list.append(res_cop.iloc[i])
+            #     st.write("Added to Reading List")
         except:
             if serp_api_key:
                 st.write('')
@@ -342,21 +399,25 @@ def app():
             res = pmlr(key)
             res_cop = res.copy()
             for i, row in res_cop.iterrows():
-                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+                col1, col2 = st.columns([0.05, 0.95])
+                with col1:
+                    if st.checkbox("", key=f"add{i}"):
+                        st.session_state.reading_list.append(res_cop.iloc[i])
+                with col2:
+                    st.markdown(f"[{row['title']}]({row['link']})")
             # st.table(res)
-            
             
             if st.sidebar.button("Add all to Reading List", type="primary"):
                 for i, r in res_cop.iterrows():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
             
-            if reading_add:
-                nums_list = reading_add.split(',')
-                nums_list = [int(i) for i in nums_list]
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.write("Added to Reading List")
+            # if reading_add:
+            #     nums_list = reading_add.split(',')
+            #     nums_list = [int(i) for i in nums_list]
+            #     for i in nums_list:
+            #         st.session_state.reading_list.append(res_cop.iloc[i])
+            #     st.write("Added to Reading List")
         except:
             if serp_api_key:
                 st.write('')
@@ -369,7 +430,12 @@ def app():
             res = neurips(key)
             res_cop = res.copy()
             for i, row in res_cop.iterrows():
-                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+                col1, col2 = st.columns([0.05, 0.95])
+                with col1:
+                    if st.checkbox("", key=f"add{i}"):
+                        st.session_state.reading_list.append(res_cop.iloc[i])
+                with col2:
+                    st.markdown(f"[{row['title']}]({row['link']})")
             # st.table(res)
             
             if st.sidebar.button("Add all to Reading List", type="primary"):
@@ -377,12 +443,12 @@ def app():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
             
-            if reading_add:
-                nums_list = reading_add.split(',')
-                nums_list = [int(i) for i in nums_list]
-                for i in nums_list:
-                    st.session_state.reading_list.append(res_cop.iloc[i])
-                st.write("Added to Reading List")
+            # if reading_add:
+            #     nums_list = reading_add.split(',')
+            #     nums_list = [int(i) for i in nums_list]
+            #     for i in nums_list:
+            #         st.session_state.reading_list.append(res_cop.iloc[i])
+            #     st.write("Added to Reading List")
         except:
             if serp_api_key:
                 st.write('')

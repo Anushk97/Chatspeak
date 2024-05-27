@@ -28,6 +28,7 @@ with col3:
 with col4:
     st.checkbox("", key=f"dummy")
 
+st.markdown("""---""")
 
 # class SessionState:
 #     def __init__(self, **kwargs):

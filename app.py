@@ -13,6 +13,9 @@ from datetime import datetime
 import pandas as pd
 import os
 import json
+import random
+from email.mime.text import MIMEText
+import smtplib
 
 st.title('Find Daily Research Papers!')
 st.markdown("**This tool helps you find academic paper from major journals!**")
@@ -79,7 +82,7 @@ def reading_list():
     urls = []
     st.header('Reading List')
     summarize_add = st.sidebar.text_input('Input number for summarization: ')
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now().strftime("%Y/%m/%d")
     container = st.container(border=True)
     
     def summary(url):
@@ -170,6 +173,32 @@ def reading_list():
                 mime='text/markdown',
             )
         
+        st.subheader('Email me this list!')
+        email_sender = 'researchread375@gmail.com'
+        email_receiver = st.text_input('Your email:')
+        subject = f'Reading list for {timestamp}'
+        body = markdown_content
+        password = st.text_input('Password', type="password", disabled=True)  
+        
+        if st.button("Send Email"):
+            try:
+                msg = MIMEText(body)
+                msg['From'] = email_sender
+                msg['To'] = email_receiver
+                msg['Subject'] = subject
+
+                server = smtplib.SMTP('smtp.gmail.com', 587)
+                server.starttls()
+                server.login(st.secrets["email"]["gmail"], st.secrets["email"]["password"])
+                server.sendmail(email_sender, email_receiver, msg.as_string())
+                server.quit()
+
+                st.success('Email sent successfully! 🚀')
+            except Exception as e:
+                st.error(f"Failed to send email: {e}")
+        
+        
+        
     else:
         st.write("Your reading list is empty.")
     
@@ -231,6 +260,8 @@ def app():
         st.session_state.key = ''
         
     selected = st.sidebar.selectbox("Select a publication*:", publications, index=None)
+    
+    
     if 'selected' not in st.session_state:
         st.session_state.selected = ''
     
@@ -248,7 +279,7 @@ def app():
     if 'res' not in st.session_state:
             st.session_state.res = ''
             
-
+        
     if selected == 'Google Scholar (api needed)':
         try:
             res = serp()
@@ -281,7 +312,6 @@ def app():
                 st.write('Please enter Google Scholar API')
 
     elif selected == 'Arxiv':
-        st.session_state.selected = 'Arxiv'
         res = arxiv(key)
         # st.session_state.res = res
         res_cop = res.copy()
@@ -456,7 +486,45 @@ def app():
             else:
                 st.write('Please enter Google Scholar API')
             
+    elif st.sidebar.button('Surprise Me!'):
+        columns = ['title', 'link']
+        temp_df = pd.DataFrame(columns=columns)
+        research_topics = [
+        "Artificial Intelligence","Machine Learning","Natural Language Processing","Data Science","Computer Vision","Robotics","Deep Learning","Big Data","Internet of Things","Cybersecurity","Bioinformatics","Reinforcement Learning","Quantum Computing",
+        "Blockchain Technology","Cloud Computing","Human-Computer Interaction","Autonomous Systems","Virtual Reality","Augmented Reality","Edge Computing","Digital Twins","Explainable AI",
+        "Generative Adversarial Networks","Smart Cities","5G Technology","Biology","Neuroscience","Psychology","Genetics","Biotechnology","Cognitive Science","Evolutionary Biology",
+        "Ecology","Molecular Biology","Behavioral Science","Developmental Biology","Psychopharmacology","Environmental Science","Biophysics","Microbiology","Cell Biology",
+        "Psychometrics","Immunology","Neuroimaging","Cognitive Neuroscience","Psychiatry","Social Psychology","Evolutionary Psychology"
+    ]
 
+        key_s = random.choice(research_topics)
+        arx = arxiv(key_s)
+        temp_df = temp_df._append(arx, ignore_index=True)
+        asm_v = asm(key_s)
+        temp_df = temp_df._append(asm_v, ignore_index=True)
+        semantic_s = semantic_scholar(key_s)
+        temp_df = temp_df._append(semantic_s, ignore_index=True)
+        # st.write(temp_df)
+        
+        sample = temp_df.sample(10)
+        sample = sample.reset_index()
+        # st.write(sample)
+        st.success('Added to your reading!')
+        for i, row in sample.iterrows():
+            # col1, col2 = st.columns([0.05, 0.95])
+            # with col1:
+                # if st.checkbox("", key=f"select_{i}", label_visibility='collapsed'):
+                    # st.write('FLAG')
+            st.session_state.reading_list.append(sample.iloc[i])
+            # with col2:
+            st.markdown(f"[{row['title']}]({row['link']})")
+                
+                
+        # if st.sidebar.button("Add all to Reading List", type="primary"):
+        #     for i, r in sample.iterrows():
+        #         st.session_state.reading_list.append(r)
+        #     st.write("Added all to Reading List")
+            
 def main():
 
     PAGES = {

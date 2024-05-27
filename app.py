@@ -225,11 +225,12 @@ def app():
         try:
             res = serp()
             res_cop = res.copy()
-            st.table(res)
-            st.session_state.selected = selected
             
+            for i, row in res_cop.iterrows():
+                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            # st.table(res)
                 
-            if st.button("Add all to Reading List", type="primary"):
+            if st.sidebar.button("Add all to Reading List", type="primary"):
                 for i, r in res_cop.iterrows():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
@@ -255,7 +256,7 @@ def app():
             
         # st.table(res)
         
-        if st.button("Add all to Reading List", type="primary"):
+        if st.sidebar.button("Add all to Reading List", type="primary"):
             for i, r in res_cop.iterrows():
                 st.session_state.reading_list.append(r)
             st.write("Added all to Reading List")
@@ -272,10 +273,12 @@ def app():
         res = asm(key)
         st.session_state.res = res
         res_cop = res.copy()
-        st.table(res)
+        for i, row in res_cop.iterrows():
+            st.markdown(f"{i}. [{row['title']}]({row['link']})")
+        # st.table(res)
         
         
-        if st.button("Add all to Reading List", type="primary"):
+        if st.sidebar.button("Add all to Reading List", type="primary"):
             for i, r in res_cop.iterrows():
                 st.session_state.reading_list.append(r)
             st.write("Added all to Reading List")
@@ -290,10 +293,12 @@ def app():
     elif selected == 'Semantic Scholar':
         res = semantic_scholar(key)
         res_cop = res.copy()
-        st.table(res)
+        for i, row in res_cop.iterrows():
+            st.markdown(f"{i}. [{row['title']}]({row['link']})")
+        # st.table(res)
         
             
-        if st.button("Add all to Reading List", type="primary"):
+        if st.sidebar.button("Add all to Reading List", type="primary"):
             for i, r in res_cop.iterrows():
                 st.session_state.reading_list.append(r)
             st.write("Added all to Reading List")
@@ -309,10 +314,12 @@ def app():
         try:
             res = acl(key)
             res_cop = res.copy()
-            st.table(res)
+            for i, row in res_cop.iterrows():
+                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            # st.table(res)
             
             
-            if st.button("Add all to Reading List", type="primary"):
+            if st.sidebar.button("Add all to Reading List", type="primary"):
                 for i, r in res_cop.iterrows():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
@@ -334,10 +341,12 @@ def app():
         try:
             res = pmlr(key)
             res_cop = res.copy()
-            st.table(res)
+            for i, row in res_cop.iterrows():
+                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            # st.table(res)
             
             
-            if st.button("Add all to Reading List", type="primary"):
+            if st.sidebar.button("Add all to Reading List", type="primary"):
                 for i, r in res_cop.iterrows():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")
@@ -359,10 +368,11 @@ def app():
         try:
             res = neurips(key)
             res_cop = res.copy()
-            st.table(res)
+            for i, row in res_cop.iterrows():
+                st.markdown(f"{i}. [{row['title']}]({row['link']})")
+            # st.table(res)
             
-            
-            if st.button("Add all to Reading List", type="primary"):
+            if st.sidebar.button("Add all to Reading List", type="primary"):
                 for i, r in res_cop.iterrows():
                     st.session_state.reading_list.append(r)
                 st.write("Added all to Reading List")

@@ -177,37 +177,38 @@ def reading_list():
                 continue
             # count += 1
             st.markdown(f"{i}.[{row['title']}]({row['link']})")
-        try:
-            if openai_api:
-                summarize_add = get_summary_num(prompt)
-                # st.write(summarize_add)
-            
-                if summarize_add:
-                    for i, row in reading_list_df.iterrows():
-                        if i == 0:
-                            continue
-                        if i == int(summarize_add):
-                            st.success(f"🤖 {row['title']}!")
-                            url = row['link']
-                            res = summary(url)
-                            container.write(res)
-                            if res:
-                                if st.button('Speak Summary (beta)', type = 'primary'):
-                                    output = api.run(
-                                        "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
-                                        input = {"prompt": res, 
-                                                'text_temp': 0.7,
-                                                'waveform_temp': 0.7
-                                                }
-                                    )
-                                    print(output)
-                                    # st.write(output)
-                                    url = output['audio_out']
-                                    audio = requests.get(url)
-                                    audio_bytes = audio.content
-                                    st.audio(audio_bytes, format="audio/mpeg")
-        except:
-            st.error('Error: Try changing the prompt or rerunning it! (note: try to keep 1 number in prompt)')
+        # try:
+        if openai_api:
+            summarize_add = get_summary_num(prompt)
+            # st.write(summarize_add)
+        
+            if summarize_add:
+                for i, row in reading_list_df.iterrows():
+                    if i == 0:
+                        continue
+                    if i == int(summarize_add):
+                        st.success(f"🤖 {row['title']}!")
+                        url = row['link']
+                        res = summary(url)
+                        with container:
+                            st.success(f'🤖 {res}')
+                        if res:
+                            if st.button('Speak Summary (beta)', type = 'primary'):
+                                output = api.run(
+                                    "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
+                                    input = {"prompt": res, 
+                                            'text_temp': 0.7,
+                                            'waveform_temp': 0.7
+                                            }
+                                )
+                                # print(output)
+                                # st.write(output)
+                                url = output['audio_out']
+                                audio = requests.get(url)
+                                audio_bytes = audio.content
+                                st.audio(audio_bytes, format="audio/mpeg")
+    # except:
+    #     st.error('Error: Try changing the prompt or rerunning it! (note: try to keep 1 number in prompt)')
 
         # print('test', reading_list_df.iloc[:,1])
         # if summarize_add:
@@ -317,7 +318,7 @@ def neurips(keyword):
 def app():
     publications = ['Google Scholar (api needed)', 'Arxiv', 'ASM', 'Semantic Scholar', 'ACL (api needed)', 'PMLR (api needed)', 'NeurIps (api needed)']
     
-    key = st.sidebar.text_input("Enter a Keyword*:")
+    key = st.sidebar.text_input("Enter a Keyword*:", placeholder='ML')
     if 'key' not in st.session_state:
         st.session_state.key = ''
         
@@ -342,7 +343,7 @@ def app():
             st.session_state.res = ''
             
         
-    if selected == 'Google Scholar (api needed)':
+    if selected == 'Google Scholar (api needed)' and key:
         try:
             res = serp()
             res_cop = res.copy()
@@ -373,7 +374,7 @@ def app():
             else:
                 st.write('Please enter Google Scholar API')
 
-    elif selected == 'Arxiv':
+    elif selected == 'Arxiv' and key:
         res = arxiv(key)
         # st.session_state.res = res
         res_cop = res.copy()
@@ -403,7 +404,7 @@ def app():
         
                 
     
-    elif selected == 'ASM':
+    elif selected == 'ASM' and key:
         st.session_state.selected = 'ASM'
         res = asm(key)
         st.session_state.res = res
@@ -430,7 +431,7 @@ def app():
         #             st.session_state.reading_list.append(res_cop.iloc[i])
         #         st.write("Added to Reading List")
     
-    elif selected == 'Semantic Scholar':
+    elif selected == 'Semantic Scholar' and key:
         res = semantic_scholar(key)
         res_cop = res.copy()
         for i, row in res_cop.iterrows():
@@ -455,7 +456,7 @@ def app():
         #             st.session_state.reading_list.append(res_cop.iloc[i])
         #         st.write("Added to Reading List")
     
-    elif selected == 'ACL (api needed)':
+    elif selected == 'ACL (api needed)' and key:
         try:
             res = acl(key)
             res_cop = res.copy()
@@ -487,7 +488,7 @@ def app():
                 st.write('Please enter Google Scholar API')
             
             
-    elif selected == 'PMLR (api needed)':
+    elif selected == 'PMLR (api needed)' and key:
         try:
             res = pmlr(key)
             res_cop = res.copy()
@@ -518,7 +519,7 @@ def app():
                 st.write('Please enter Google Scholar API')
             
     #Neurips 
-    elif selected == 'NeurIps (api needed)':
+    elif selected == 'NeurIps (api needed)' and key:
         try:
             res = neurips(key)
             res_cop = res.copy()

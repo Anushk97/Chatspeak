@@ -65,9 +65,6 @@ st.markdown("""---""")
 Paper_names = ['Zero-shot learning with common sense knowledge graphs']
 # keyword     = ['Zero-shot learning']
 serp_api_key = st.sidebar.text_input("Enter your Google scholar API key (optional):")
-openai_api = st.sidebar.text_input("Enter your OpenAI API key (optional):")
-if openai_api:
-    prompt = st.sidebar.text_area('Custom prompt... 👇')
 
 paper_engine = Resp(serp_api_key)
 columns = ['title', 'link']
@@ -87,8 +84,13 @@ def reading_list():
     st.header('Reading List')
     summarize_add = st.sidebar.text_input('Enter number to summarize: 👇')
     # replicate_api_token = st.sidebar.text_input('Enter your replicate api key: ')
+    openai_api = st.sidebar.text_input("Enter your [OpenAI](https://openai.com/index/openai-api/) API key (optional):")
+    if openai_api:
+        prompt = st.sidebar.text_area('Custom prompt... 👇')
+
+    replicate_api = st.sidebar.text_input('Your [replicate](https://replicate.com/) API (optional): 👇')
     
-    os.environ["REPLICATE_API_TOKEN"] = st.secrets["email"]["REPLICATE_API_TOKEN"]
+    os.environ["REPLICATE_API_TOKEN"] = replicate_api
     api = replicate.Client(api_token=os.environ["REPLICATE_API_TOKEN"])
     timestamp = datetime.now().strftime("%Y/%m/%d")
     container = st.container(border=True)

@@ -167,48 +167,48 @@ def reading_list():
             
         reading_list_df._append(st.session_state.reading_list, ignore_index=True)
         reading_list_df.drop_duplicates('title', inplace=True)
+        reading_list_df.reset_index(drop=True, inplace=True)
         reading_list_df = reading_list_df.shift(periods=1).fillna(0)
-        # reading_list_df.drop_duplicates()
+        reading_list_df.drop_duplicates()
+        
         # st.write(reading_list_df)
         # count = 0
-        
-        for i, row in reading_list_df.iterrows():
-            if i == 0:
-                continue
+        for i, row in reading_list_df.iloc[1:].iterrows():
             # count += 1
             st.markdown(f"{i}.[{row['title']}]({row['link']})")
-        # try:
-        if openai_api:
-            summarize_add = get_summary_num(prompt)
-            # st.write(summarize_add)
-        
-            if summarize_add:
-                for i, row in reading_list_df.iterrows():
-                    if i == 0:
-                        continue
-                    if i == int(summarize_add):
-                        st.success(f"🤖 {row['title']}!")
-                        url = row['link']
-                        res = summary(url)
-                        with container:
-                            st.success(f'🤖 {res}')
-                        if res:
-                            if st.button('Speak Summary (beta)', type = 'primary'):
-                                output = api.run(
-                                    "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
-                                    input = {"prompt": res, 
-                                            'text_temp': 0.7,
-                                            'waveform_temp': 0.7
-                                            }
-                                )
-                                # print(output)
-                                # st.write(output)
-                                url = output['audio_out']
-                                audio = requests.get(url)
-                                audio_bytes = audio.content
-                                st.audio(audio_bytes, format="audio/mpeg")
-    # except:
-    #     st.error('Error: Try changing the prompt or rerunning it! (note: try to keep 1 number in prompt)')
+        try:
+            if openai_api:
+                summarize_add = get_summary_num(prompt)
+                # st.write(summarize_add)
+            
+                if summarize_add:
+                    counter = 0
+                    for i, row in reading_list_df.iloc[1:].iterrows():
+                        # print('i', i)
+                        if i == int(summarize_add):
+                            st.success(f"🤖 {row['title']}!")
+                            url = row['link']
+                            res = summary(url)
+                            with container:
+                                st.success(f'🤖 {res}')
+                            if res:
+                                if st.button('Speak Summary (beta)', type = 'primary'):
+                                    output = api.run(
+                                        "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
+                                        input = {"prompt": res, 
+                                                'text_temp': 0.7,
+                                                'waveform_temp': 0.7
+                                                }
+                                    )
+                                    # print(output)
+                                    # st.write(output)
+                                    url = output['audio_out']
+                                    audio = requests.get(url)
+                                    audio_bytes = audio.content
+                                    st.audio(audio_bytes, format="audio/mpeg")
+                            counter+=1
+        except:
+            st.error('Error: Try changing the prompt or rerunning it! (note: try to keep 1 number in prompt)')
 
         # print('test', reading_list_df.iloc[:,1])
         # if summarize_add:

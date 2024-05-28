@@ -16,7 +16,10 @@ import json
 import random
 from email.mime.text import MIMEText
 import smtplib
+import replicate
 import bs4
+
+
 
 st.title('Find Daily Research Papers!')
 st.markdown("**This tool helps you find academic paper from major journals!**")
@@ -83,6 +86,10 @@ def reading_list():
     urls = []
     st.header('Reading List')
     summarize_add = st.sidebar.text_input('Enter number to summarize: 👇')
+    # replicate_api_token = st.sidebar.text_input('Enter your replicate api key: ')
+    
+    os.environ["REPLICATE_API_TOKEN"] = st.secrets["email"]["REPLICATE_API_TOKEN"]
+    api = replicate.Client(api_token=os.environ["REPLICATE_API_TOKEN"])
     timestamp = datetime.now().strftime("%Y/%m/%d")
     container = st.container(border=True)
     
@@ -95,41 +102,41 @@ def reading_list():
         # link = df['link'].iloc[index]
         # st.header('Summarize url')
         # url = st.text_input('Please enter your URL here:')
-        try:
-            if url:
-                openai.api_key = openai_api
-                if prompt:
-                    completion = openai.chat.completions.create(
-                    model="gpt-4",
-                    messages=[
-                        {
-                            "role": "user",
-                            "content": f'Follow this prompt: {prompt} based on the contents of this text: {text}'
-                        },
-                    ],
-                    )
-                    # print(completion.choices[0].message.content)
-                    response = completion.choices[0].message.content
-                    return response
-            
-                else:
-                    completion = openai.chat.completions.create(
-                    model="gpt-4",
-                    messages=[
-                        {
-                            "role": "user",
-                            "content": f"generate a summary about it this text: {text}"
-                        },
-                    ],
-                    )
-                    # print(completion.choices[0].message.content)
-                    response = completion.choices[0].message.content
-                    return response
-            
+        # try:
+        if url:
+            openai.api_key = openai_api
+            if prompt:
+                completion = openai.chat.completions.create(
+                model="gpt-4",
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f'Follow this prompt: {prompt} based on the contents of this text: {text}'
+                    },
+                ],
+                )
+                # print(completion.choices[0].message.content)
+                response = completion.choices[0].message.content
+                return response
+        
             else:
-                ""
-        except:
-            st.error('Please enter OpenAI API', icon="🚨")
+                completion = openai.chat.completions.create(
+                model="gpt-4",
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f"generate a summary about it this text in one line: {text}"
+                    },
+                ],
+                )
+                # print(completion.choices[0].message.content)
+                response = completion.choices[0].message.content
+                return response
+        
+        else:
+            ""
+        # except:
+        #     st.error('Please enter OpenAI API', icon="🚨")
 
     # st.write(reading_list_df)
     if st.session_state.reading_list:
@@ -159,7 +166,23 @@ def reading_list():
                     url = row['link']
                     res = summary(url)
                     container.write(res)
-        
+                    if res:
+                        if st.button('Speak Summary (beta)', type = 'primary'):
+            
+                            output = api.run(
+                                "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
+                                input = {"prompt": res, 
+                                        'text_temp': 0.7,
+                                        'waveform_temp': 0.7
+                                        }
+                            )
+                            print(output)
+                            # st.write(output)
+                            url = output['audio_out']
+                            audio = requests.get(url)
+                            audio_bytes = audio.content
+                            st.audio(audio_bytes, format="audio/mpeg")
+
         # print('test', reading_list_df.iloc[:,1])
         # if summarize_add:
         #     val = reading_list_df.iloc[int(summarize_add), 1]
@@ -170,19 +193,21 @@ def reading_list():
         csv = reading_list_df.to_csv(index=False).encode('utf-8')
         markdown_content = dataframe_to_markdown(reading_list_df)
         # st.table(reading_list_df)
-        st.download_button(
-                label="Download as CSV",
-                data=csv,
-                file_name=f'reading_list_{timestamp}.csv',
-                mime='text/csv',
-            )
-        
-        st.download_button(
-                label="Download as Markdown",
-                data=markdown_content,
-                file_name=f'reading_list_{timestamp}.md',
-                mime='text/markdown',
-            )
+        col5, col6 = st.columns(2)
+        with col5:
+            st.download_button(
+                    label="Download as CSV",
+                    data=csv,
+                    file_name=f'reading_list_{timestamp}.csv',
+                    mime='text/csv',
+                )
+        with col6:
+            st.download_button(
+                    label="Download as Markdown",
+                    data=markdown_content,
+                    file_name=f'reading_list_{timestamp}.md',
+                    mime='text/markdown',
+                )
         
         st.subheader('Email me this list!')
         email_sender = 'researchread375@gmail.com'

@@ -18,11 +18,7 @@ from email.mime.text import MIMEText
 import smtplib
 import replicate
 import bs4
-import urllib.parse
-import re
-import time
-from urllib.request import build_opener, Request
-import matplotlib.pyplot as plt
+
 
 
 st.title('Find Daily Research Papers!')

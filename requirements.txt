@@ -35,3 +35,4 @@ streamlit
 openai
 replicate
 lxml
+matplotlib

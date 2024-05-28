@@ -18,7 +18,11 @@ from email.mime.text import MIMEText
 import smtplib
 import replicate
 import bs4
-
+import urllib.parse
+import re
+import time
+from urllib.request import build_opener, Request
+import matplotlib.pyplot as plt
 
 
 st.title('Find Daily Research Papers!')
@@ -82,18 +86,36 @@ def reading_list():
     global reading_list_df
     urls = []
     st.header('Reading List')
-    summarize_add = st.sidebar.text_input('Enter number to summarize: 👇')
+    # summarize_add = st.sidebar.text_input('Enter number to summarize: 👇')
     # replicate_api_token = st.sidebar.text_input('Enter your replicate api key: ')
-    openai_api = st.sidebar.text_input("Enter your [OpenAI](https://openai.com/index/openai-api/) API key (optional):")
+    openai_api = st.sidebar.text_input("Enter your [OpenAI](https://openai.com/index/openai-api/) API key to prompt (optional):")
     if openai_api:
-        prompt = st.sidebar.text_area('Custom prompt... 👇')
+        prompt = st.sidebar.text_area('Custom prompt... 👇', placeholder="""- Summarize text in 1\n- what is 4 about?\n- how is 5 relevant to ML?""")
 
-    replicate_api = st.sidebar.text_input('Your [replicate](https://replicate.com/) API (optional): 👇')
+    replicate_api = st.sidebar.text_input('Your [replicate](https://replicate.com/) API to enable speak (optional): 👇')
     
     os.environ["REPLICATE_API_TOKEN"] = replicate_api
     api = replicate.Client(api_token=os.environ["REPLICATE_API_TOKEN"])
     timestamp = datetime.now().strftime("%Y/%m/%d")
     container = st.container(border=True)
+    
+    def get_summary_num(prompt):
+        openai.api_key = openai_api
+        if prompt:
+            completion = openai.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "user",
+                    "content": f'from the given text extract the number and only return that: {prompt}'
+                },
+            ],
+            )
+            # print(completion.choices[0].message.content)
+            response = completion.choices[0].message.content
+            # st.write(response)
+            return response
+    
     
     def summary(url):
         response = requests.get(url,headers={'User-Agent': 'Mozilla/5.0'})
@@ -109,21 +131,22 @@ def reading_list():
             openai.api_key = openai_api
             if prompt:
                 completion = openai.chat.completions.create(
-                model="gpt-4",
+                model="gpt-3.5-turbo",
                 messages=[
                     {
                         "role": "user",
-                        "content": f'Follow this prompt: {prompt} based on the contents of this text: {text}'
+                        "content": f'In the following prompt, replace any number with this paper: {prompt}. Answer based on the contents of this text: {text}'
                     },
                 ],
                 )
                 # print(completion.choices[0].message.content)
                 response = completion.choices[0].message.content
+                # st.write(response)
                 return response
         
             else:
                 completion = openai.chat.completions.create(
-                model="gpt-4",
+                model="gpt-3.5-turbo",
                 messages=[
                     {
                         "role": "user",
@@ -152,38 +175,43 @@ def reading_list():
         # reading_list_df.drop_duplicates()
         # st.write(reading_list_df)
         # count = 0
+        
         for i, row in reading_list_df.iterrows():
             if i == 0:
                 continue
             # count += 1
             st.markdown(f"{i}.[{row['title']}]({row['link']})")
-        
-        
-        if summarize_add:
-            for i, row in reading_list_df.iterrows():
-                if i == 0:
-                    continue
-                if i == int(summarize_add):
-                    
-                    url = row['link']
-                    res = summary(url)
-                    container.write(res)
-                    if res:
-                        if st.button('Speak Summary (beta)', type = 'primary'):
+        try:
+            if openai_api:
+                summarize_add = get_summary_num(prompt)
+                # st.write(summarize_add)
             
-                            output = api.run(
-                                "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
-                                input = {"prompt": res, 
-                                        'text_temp': 0.7,
-                                        'waveform_temp': 0.7
-                                        }
-                            )
-                            print(output)
-                            # st.write(output)
-                            url = output['audio_out']
-                            audio = requests.get(url)
-                            audio_bytes = audio.content
-                            st.audio(audio_bytes, format="audio/mpeg")
+                if summarize_add:
+                    for i, row in reading_list_df.iterrows():
+                        if i == 0:
+                            continue
+                        if i == int(summarize_add):
+                            st.success(f"🤖 {row['title']}!")
+                            url = row['link']
+                            res = summary(url)
+                            container.write(res)
+                            if res:
+                                if st.button('Speak Summary (beta)', type = 'primary'):
+                                    output = api.run(
+                                        "suno-ai/bark:b76242b40d67c76ab6742e987628a2a9ac019e11d56ab96c4e91ce03b79b2787",
+                                        input = {"prompt": res, 
+                                                'text_temp': 0.7,
+                                                'waveform_temp': 0.7
+                                                }
+                                    )
+                                    print(output)
+                                    # st.write(output)
+                                    url = output['audio_out']
+                                    audio = requests.get(url)
+                                    audio_bytes = audio.content
+                                    st.audio(audio_bytes, format="audio/mpeg")
+        except:
+            st.error('Error: Try changing the prompt or rerunning it! (note: try to keep 1 number in prompt)')
 
         # print('test', reading_list_df.iloc[:,1])
         # if summarize_add:
@@ -493,7 +521,7 @@ def app():
             else:
                 st.write('Please enter Google Scholar API')
             
-        
+    #Neurips 
     elif selected == 'NeurIps (api needed)':
         try:
             res = neurips(key)
@@ -523,13 +551,14 @@ def app():
                 st.write('')
             else:
                 st.write('Please enter Google Scholar API')
-            
+    
+    #Surprise me logic
     elif st.sidebar.button('Surprise Me!'):
         columns = ['title', 'link']
         temp_df = pd.DataFrame(columns=columns)
         research_topics = [
         "Artificial Intelligence","Machine Learning","Natural Language Processing","Data Science","Computer Vision","Robotics","Deep Learning","Big Data","Internet of Things","Cybersecurity","Bioinformatics","Reinforcement Learning","Quantum Computing",
-        "Blockchain Technology","Cloud Computing","Human-Computer Interaction","Autonomous Systems","Virtual Reality","Augmented Reality","Edge Computing","Digital Twins","Explainable AI",
+        "Blockchain Technology","Cloud Computing","Human-visu Interaction","Autonomous Systems","Virtual Reality","Augmented Reality","Edge Computing","Digital Twins","Explainable AI",
         "Generative Adversarial Networks","Smart Cities","5G Technology","Biology","Neuroscience","Psychology","Genetics","Biotechnology","Cognitive Science","Evolutionary Biology",
         "Ecology","Molecular Biology","Behavioral Science","Developmental Biology","Psychopharmacology","Environmental Science","Biophysics","Microbiology","Cell Biology",
         "Psychometrics","Immunology","Neuroimaging","Cognitive Neuroscience","Psychiatry","Social Psychology","Evolutionary Psychology"
@@ -562,9 +591,11 @@ def app():
         #     for i, r in sample.iterrows():
         #         st.session_state.reading_list.append(r)
         #     st.write("Added all to Reading List")
-            
-def main():
+    
 
+######
+def main():
+    
     PAGES = {
         "Home": app,
         "Reading List": reading_list

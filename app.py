@@ -16,6 +16,7 @@ import json
 import random
 from email.mime.text import MIMEText
 import smtplib
+import bs4
 
 st.title('Find Daily Research Papers!')
 st.markdown("**This tool helps you find academic paper from major journals!**")
@@ -63,7 +64,7 @@ Paper_names = ['Zero-shot learning with common sense knowledge graphs']
 serp_api_key = st.sidebar.text_input("Enter your Google scholar API key (optional):")
 openai_api = st.sidebar.text_input("Enter your OpenAI API key (optional):")
 if openai_api:
-    prompt = st.sidebar.text_area('Custom prompt...')
+    prompt = st.sidebar.text_area('Custom prompt... 👇')
 
 paper_engine = Resp(serp_api_key)
 columns = ['title', 'link']
@@ -81,11 +82,16 @@ def reading_list():
     global reading_list_df
     urls = []
     st.header('Reading List')
-    summarize_add = st.sidebar.text_input('Input number for summarization: ')
+    summarize_add = st.sidebar.text_input('Enter number to summarize: 👇')
     timestamp = datetime.now().strftime("%Y/%m/%d")
     container = st.container(border=True)
     
     def summary(url):
+        response = requests.get(url,headers={'User-Agent': 'Mozilla/5.0'})
+        soup = bs4.BeautifulSoup(response.text,'lxml')
+
+        text = soup.body.get_text(' ', strip=True)
+        
         # link = df['link'].iloc[index]
         # st.header('Summarize url')
         # url = st.text_input('Please enter your URL here:')
@@ -98,7 +104,7 @@ def reading_list():
                     messages=[
                         {
                             "role": "user",
-                            "content": f'Access this url link: {url} and follow this prompt: {prompt}'
+                            "content": f'Follow this prompt: {prompt} based on the contents of this text: {text}'
                         },
                     ],
                     )
@@ -112,7 +118,7 @@ def reading_list():
                     messages=[
                         {
                             "role": "user",
-                            "content": f"Access this url link: {url} and generate a summary about it."
+                            "content": f"generate a summary about it this text: {text}"
                         },
                     ],
                     )
@@ -133,16 +139,21 @@ def reading_list():
             
         reading_list_df._append(st.session_state.reading_list, ignore_index=True)
         reading_list_df.drop_duplicates('title', inplace=True)
-        
+        reading_list_df = reading_list_df.shift(periods=1).fillna(0)
         # reading_list_df.drop_duplicates()
         # st.write(reading_list_df)
-        count = 0
+        # count = 0
         for i, row in reading_list_df.iterrows():
-            count += 1
-            st.markdown(f"{count}.[{row['title']}]({row['link']})")
+            if i == 0:
+                continue
+            # count += 1
+            st.markdown(f"{i}.[{row['title']}]({row['link']})")
+        
         
         if summarize_add:
             for i, row in reading_list_df.iterrows():
+                if i == 0:
+                    continue
                 if i == int(summarize_add):
                     
                     url = row['link']
@@ -175,7 +186,7 @@ def reading_list():
         
         st.subheader('Email me this list!')
         email_sender = 'researchread375@gmail.com'
-        email_receiver = st.text_input('Your email:')
+        email_receiver = st.text_input('My email:')
         subject = f'Reading list for {timestamp}'
         body = markdown_content
         # password = st.text_input('Password', type="password", disabled=True)  

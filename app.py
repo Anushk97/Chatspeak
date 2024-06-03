@@ -19,6 +19,9 @@ import smtplib
 import replicate
 import bs4
 
+st.set_page_config(
+        page_title="Research papers",
+)
 
 
 st.title('Find Daily Research Papers!')

@@ -316,7 +316,7 @@ def neurips(keyword):
 
 
 def app():
-    publications = ['Google Scholar (api needed)', 'Arxiv', 'ASM', 'Semantic Scholar', 'ACL (api needed)', 'PMLR (api needed)', 'NeurIps (api needed)']
+    publications = ['Google Scholar (api needed)', 'Arxiv', 'ACM', 'Semantic Scholar', 'ACL (api needed)', 'PMLR (api needed)', 'NeurIps (api needed)']
     
     key = st.sidebar.text_input("Enter a Keyword*:", placeholder='ML')
     if 'key' not in st.session_state:
@@ -404,8 +404,7 @@ def app():
         
                 
     
-    elif selected == 'ASM' and key:
-        st.session_state.selected = 'ASM'
+    elif selected == 'ACM' and key:
         res = asm(key)
         st.session_state.res = res
         res_cop = res.copy()
